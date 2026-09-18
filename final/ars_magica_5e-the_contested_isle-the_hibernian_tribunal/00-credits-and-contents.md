@@ -378,3 +378,123 @@ Digital Version 1.0
   * Infernal Places
   * &emsp;Battlefields
   * &emsp;Hell on Earth
+
+# List of Inserts
+
+* Story Seed: Finding Fionntan
+* Story Seed: The Secret of Ráth Cinn-Eich
+* The Four Treasures
+* Story Seed: The High-King's Treasure
+* Story Seed: Recovering the First Christian Mission
+* Story Seed: The Lair of Lentinus
+* Story Seed: The Missing Mercere Envoy
+* Story Seed: Three Diedne Bodies
+* Eraic is a Reputation
+* Irish Social Status Virtue and Flaw Equivalents
+* The Brehon Laws
+* Story Seed: Hermetic Hospitality
+* An Outsider's View
+* Area Lore (Ireland)
+* Dialects
+* Fallen Covenants
+* A Story Told to Me by Einri mac Cillíni
+* The Treaty of Cnoc Maol Réidh
+* Extract from the Journey of Cernach an Chairn
+* The Battle of Teamhrach
+* The Ambassadors to the Tribunal
+* Story Seed: Falling on Deaf Ears
+* The Diocese of Triburnia
+* Queen Maedhbh
+* An Appeal
+* Story Seed: The Devils of Tuam
+* Story Seed: The Swords of the Fer Caille
+* Story Seed: The Cry of the Banshee
+* Hedge Magic and Original Research
+* Oireadh Story Seeds
+* Story Seed: Remember Who You Work For
+* Story Seed: The Bay of Bannow
+* Story Seed: The Marshal's Curse
+* Story Seed: Helen of Ireland
+* Story Seed: The Púca Speaks?
+* Archbishop Henry de Londres
+* Story Seed: Dousing the Fire
+* Story Seed: Tales of Nuadha and Bóinn
+* Bóinn, the Great White Cow, Tuatha Dé Danann River Goddess
+* Story Seed: The Witches of Kilkenny
+* The School of Raghallach
+* New Guidelines: Perdo Vim
+* Hermetic Céli Dé
+* Indrechtach an t-Éigse Measceal, Céli Dé of Paruchia Nerius
+* Indrechtach's Holy Magic
+* What is a Liberty?
+* Story Seed: The Conspiracy of Mellifont
+* Story Seed: The Haunting of New Grange
+* The Legend of King Conaire
+* The Book of Kells
+* The Eiscir Riada
+* Story Seed: Returning the King
+* Story Seed: The Midnight Builder
+* Story Seed: Seeking the Plain of Swans
+* Story Seed: The Siege of Shandon Castle
+* Story Seed: The Stealer of Secrets
+* Story Seed: The Fish Wife
+* Story Seed: The King's Treasure
+* Story Seed: The Faerie Saint Flannan
+* The Sacred Yew
+* Story Seed: The Secret Army
+* Story Seed: The Ruinous Toad
+* Story Seed: The Missing Book
+* The Plagues of Tír Chonaill
+* The Lucht Tighe
+* The Black Pig's Dyke
+* Story Seed: The Neamh-Mairbh
+* Macha
+* Donn and Find
+* The Statues of White Island
+* Lúin Cheltchair
+* Story Seed: Echoes at Erenagh
+* Saint Machaoi
+* Story Seed: The Demon Kings of Sliabh Crúibe
+* Balor na Súile Neimhe
+* Úathach of the Glen
+* Story Seed: A Rival School
+* Initiation into the Clesrada
+* Designing Clesa
+* Strange Practices
+* The Funerary Rites
+* Story Seed: The Body of a Ghost
+* Story Seed: Silence Falls on Those Who Sing
+* Druid Magic
+* The Gruagachan as Inheritors of the Druidic Tradition
+* The Gods of the Druids
+* Diedne and Pralix
+* The Treaty of Cnoc Maol Réidh
+* Tensions Within the Treaty
+* Performance and Sound
+* Example Magical Stories and Poems
+* Story Seed: The Ollamhain Heresy
+* Fomóir Blood
+* The Three Tribes of the Fir Bolg
+* Cú Chulainn's Ríastradh
+* The Fíorláir
+* Dobhar-chú
+* Story Seed: Sometimes They Return
+* Redcaps and the High Roads
+* Common Hibernia Faerie Powers
+* Taboos
+* A List of the Tuatha Dé
+* Faerie Bards
+* Famous Heroes
+* Trooping Faeries
+* Caílte mac Rónáin
+* Donn
+* The Head of Arastotail
+* An Example of Diocesan Politics
+* The Blessed Church Bells of Ireland
+* A Note on Naming
+* Infernal Relic: The Cup of Partholon
+* The Library of Vigil
+* The Harvest Thief
+* The Sluagh
+* Temoneth, Messenger of Delgnat's Betrayal
+* Infernal Tradition: Cailleach Piseogach
