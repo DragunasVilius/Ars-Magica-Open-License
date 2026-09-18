@@ -208,54 +208,54 @@ Digital Version 1.0
   * &emsp;[The Hill of Uisneach](07-the-liberty-of-meath.md#the-hill-of-uisneach)
 
 * [Chapter 8: The Province of Munster](08-the-province-of-munster.md)
-  * &emsp;The Peoples of Munster
-  * &emsp;Eoghanachta
-  * &emsp;Dál gCais
-  * &emsp;Déise
-  * &emsp;The English in Munster
-  * Kingdom of Desmond
-  * &emsp;Magh nAla
-  * &emsp;Cork
-  * &emsp;Tech Dairbhre
-  * Kingdom of Thomond
-  * &emsp;The River Shannon
-  * &emsp;Killaloe
-  * &emsp;The Burren
-  * The Liberty of Tipperary
-  * &emsp;Sídh Femen
-  * &emsp;Cashel
-  * &emsp;The Silvermine Mountains
-  * The Liberty of Waterford
-  * &emsp;Waterford City
-  * The Liberty of Limerick
-  * &emsp;Croc Áine
-  * &emsp;Lough Gur
-  * &emsp;Limerick
-  * &emsp;Dún Eochair
-  * Kerry
-  * &emsp;Tralee
-  * &emsp;Skellig Michael
-  * Circulus Ruber
-  * &emsp;History
-  * &emsp;Setting & Physical Description
-  * &emsp;Culture
-  * &emsp;Magi
-  * Cliffheart
-  * &emsp;History
-  * &emsp;Location
-  * &emsp;Culture
-  * &emsp;Magi
-  * Elk's Run
-  * &emsp;History
-  * &emsp;Setting & Physical Description
-  * &emsp;Culture & Traditions
-  * &emsp;Magi
-  * &emsp;Covenfolk
-  * The Mercer House of Leth Moga
-  * &emsp;History
-  * &emsp;Location
-  * &emsp;Culture
-  * &emsp;Magi
+  * &emsp;[The Peoples of Munster](08-the-province-of-munster.md#the-peoples-of-munster)
+  * &emsp;[Eoghanachta](08-the-province-of-munster.md#eoghanachta)
+  * &emsp;[Dál gCais](08-the-province-of-munster.md#dál-gcais)
+  * &emsp;[Déise](08-the-province-of-munster.md#déise)
+  * &emsp;[The English in Munster](08-the-province-of-munster.md#the-english-in-munster)
+  * [Kingdom of Desmond](08-the-province-of-munster.md#kingdom-of-desmond)
+  * &emsp;[Magh nAla](08-the-province-of-munster.md#magh-nala)
+  * &emsp;[Cork](08-the-province-of-munster.md#cork)
+  * &emsp;[Tech Dairbhre](08-the-province-of-munster.md#tech-dairbhre)
+  * [Kingdom of Thomond](08-the-province-of-munster.md#kingdom-of-thomond)
+  * &emsp;[The River Shannon](08-the-province-of-munster.md#the-river-shannon)
+  * &emsp;[Killaloe](08-the-province-of-munster.md#killaloe)
+  * &emsp;[The Burren](08-the-province-of-munster.md#the-burren)
+  * [The Liberty of Tipperary](08-the-province-of-munster.md#the-liberty-of-tipperary)
+  * &emsp;[Sídh Femen](08-the-province-of-munster.md#sídh-femen)
+  * &emsp;[Cashel](08-the-province-of-munster.md#cashel)
+  * &emsp;[The Silvermine Mountains](08-the-province-of-munster.md#the-silvermine-mountains)
+  * [The Liberty of Waterford](08-the-province-of-munster.md#the-liberty-of-waterford)
+  * &emsp;[Waterford City](08-the-province-of-munster.md#waterford-city)
+  * [The Liberty of Limerick](08-the-province-of-munster.md#the-liberty-of-limerick)
+  * &emsp;[Croc Áine](08-the-province-of-munster.md#croc-áine)
+  * &emsp;[Lough Gur](08-the-province-of-munster.md#lough-gur)
+  * &emsp;[Limerick](08-the-province-of-munster.md#limerick)
+  * &emsp;[Dún Eochair](08-the-province-of-munster.md#dún-eochair)
+  * [Kerry](08-the-province-of-munster.md#kerry)
+  * &emsp;[Tralee](08-the-province-of-munster.md#tralee)
+  * &emsp;[Skellig Michael](08-the-province-of-munster.md#skellig-michael)
+  * [Circulus Ruber](08-the-province-of-munster.md#circulus-ruber)
+  * &emsp;[History](08-the-province-of-munster.md#history)
+  * &emsp;[Setting & Physical Description](08-the-province-of-munster.md#setting-and-physical-description)
+  * &emsp;[Culture](08-the-province-of-munster.md#culture)
+  * &emsp;[Magi](08-the-province-of-munster.md#magi)
+  * [Cliffheart](08-the-province-of-munster.md#cliffheart)
+  * &emsp;[History](08-the-province-of-munster.md#history-1)
+  * &emsp;[Location](08-the-province-of-munster.md#location)
+  * &emsp;[Culture](08-the-province-of-munster.md#culture-1)
+  * &emsp;[Magi](08-the-province-of-munster.md#magi-1)
+  * [Elk's Run](08-the-province-of-munster.md#elks-run)
+  * &emsp;[History](08-the-province-of-munster.md#history-2)
+  * &emsp;[Setting & Physical Description](08-the-province-of-munster.md#setting-and-physical-description-1)
+  * &emsp;[Culture & Traditions](08-the-province-of-munster.md#culture-and-traditions)
+  * &emsp;[Magi](08-the-province-of-munster.md#magi-2)
+  * &emsp;[Covenfolk](08-the-province-of-munster.md#covenfolk)
+  * [The Mercer House of Leth Moga](08-the-province-of-munster.md#the-mercer-house-of-leth-moga)
+  * &emsp;[History](08-the-province-of-munster.md#history-3)
+  * &emsp;[Location](08-the-province-of-munster.md#location-1)
+  * &emsp;[Culture](08-the-province-of-munster.md#culture-2)
+  * &emsp;[Magi](08-the-province-of-munster.md#magi-3)
 
 * [Chapter 9: The Province of Ulster](09-the-province-of-ulster.md)
   * The Peoples of Ulster
@@ -433,18 +433,18 @@ Digital Version 1.0
 * [The Legend of King Conaire](07-the-liberty-of-meath.md#the-legend-of-king-conaire)
 * [The Book of Kells](07-the-liberty-of-meath.md#the-book-of-kells)
 * [The Eiscir Riada](07-the-liberty-of-meath.md#the-eiscir-riada)
-* Story Seed: Returning the King
-* Story Seed: The Midnight Builder
-* Story Seed: Seeking the Plain of Swans
-* Story Seed: The Siege of Shandon Castle
-* Story Seed: The Stealer of Secrets
-* Story Seed: The Fish Wife
-* Story Seed: The King's Treasure
-* Story Seed: The Faerie Saint Flannan
-* The Sacred Yew
-* Story Seed: The Secret Army
-* Story Seed: The Ruinous Toad
-* Story Seed: The Missing Book
+* [Story Seed: Returning the King](08-the-province-of-munster.md#story-seed-returning-the-king)
+* [Story Seed: The Midnight Builder](08-the-province-of-munster.md#story-seed-the-midnight-builder)
+* [Story Seed: Seeking the Plain of Swans](08-the-province-of-munster.md#story-seed-seeking-the-plain-of-swans)
+* [Story Seed: The Siege of Shandon Castle](08-the-province-of-munster.md#story-seed-the-siege-of-shandon-castle)
+* [Story Seed: The Stealer of Secrets](08-the-province-of-munster.md#story-seed-the-stealer-of-secrets)
+* [Story Seed: The Fish Wife](08-the-province-of-munster.md#story-seed-the-fish-wife)
+* [Story Seed: The King's Treasure](08-the-province-of-munster.md#story-seed-the-kings-treasure)
+* [Story Seed: The Faerie Saint Flannan](08-the-province-of-munster.md#story-seed-the-faerie-saint-flannan)
+* [The Sacred Yew](08-the-province-of-munster.md#story-seed-the-sacred-yew)
+* [Story Seed: The Secret Army](08-the-province-of-munster.md#story-seed-the-secret-army)
+* [Story Seed: The Ruinous Toad](08-the-province-of-munster.md#story-seed-the-ruinous-toad)
+* [Story Seed: The Missing Book](08-the-province-of-munster.md#story-seed-the-missing-book)
 * The Plagues of Tír Chonaill
 * The Lucht Tighe
 * The Black Pig's Dyke
