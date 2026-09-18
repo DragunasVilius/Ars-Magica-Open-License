@@ -194,18 +194,18 @@ Digital Version 1.0
   * &emsp;[Magi](06-the-province-of-leinster.md#magi-2)
   * &emsp;[Covenfolk](06-the-province-of-leinster.md#covenfolk)
 
-* [Chapter 7: The Liberty of Meath](07-the-liberty-of-meath.md)  
-  * &emsp;Drogheda-in-Meath
-  * &emsp;The Brú na Bóinne
-  * &emsp;The Hill of Tara
-  * &emsp;The Hill of Tlachtga
-  * &emsp;Tailten
-  * &emsp;Kells
-  * &emsp;Bective Abbey
-  * &emsp;Trim
-  * &emsp;Delvin
-  * &emsp;Clonmacnoise
-  * &emsp;The Hill of Uisneach
+* [Chapter 7: The Liberty of Meath](07-the-liberty-of-meath.md)
+  * &emsp;[Drogheda-in-Meath](07-the-liberty-of-meath.md#drogheda-in-meath)
+  * &emsp;[The Brú na Bóinne](07-the-liberty-of-meath.md#the-brú-na-bóinne)
+  * &emsp;[The Hill of Tara](07-the-liberty-of-meath.md#the-hill-of-tara)
+  * &emsp;[The Hill of Tlachtga](07-the-liberty-of-meath.md#the-hill-of-tlachtga)
+  * &emsp;[Tailten](07-the-liberty-of-meath.md#tailten)
+  * &emsp;[Kells](07-the-liberty-of-meath.md#kells)
+  * &emsp;[Bective Abbey](07-the-liberty-of-meath.md#bective-abbey)
+  * &emsp;[Trim](07-the-liberty-of-meath.md#trim)
+  * &emsp;[Delvin](07-the-liberty-of-meath.md#delvin)
+  * &emsp;[Clonmacnoise](07-the-liberty-of-meath.md#clonmacnoise)
+  * &emsp;[The Hill of Uisneach](07-the-liberty-of-meath.md#the-hill-of-uisneach)
 
 * [Chapter 8: The Province of Munster](08-the-province-of-munster.md)
   * &emsp;The Peoples of Munster
@@ -427,12 +427,12 @@ Digital Version 1.0
 * [Hermetic Céli Dé](06-the-province-of-leinster.md#hermetic-céli-dé)
 * [Indrechtach an t-Éigse Measceal, Céli Dé of Paruchia Nerius](06-the-province-of-leinster.md#indrechtach-an-t-éigse-measceal-céli-dé-of-paruchia-nerius)
 * [Indrechtach's Holy Magic](06-the-province-of-leinster.md#indrechtachs-holy-magic)
-* What is a Liberty?
-* Story Seed: The Conspiracy of Mellifont
-* Story Seed: The Haunting of New Grange
-* The Legend of King Conaire
-* The Book of Kells
-* The Eiscir Riada
+* [What is a Liberty?](07-the-liberty-of-meath.md#what-is-a-liberty)
+* [Story Seed: The Conspiracy of Mellifont](07-the-liberty-of-meath.md#story-seed-the-conspiracy-of-mellifont)
+* [Story Seed: The Haunting of New Grange](07-the-liberty-of-meath.md#story-seed-the-haunting-of-new-grange)
+* [The Legend of King Conaire](07-the-liberty-of-meath.md#the-legend-of-king-conaire)
+* [The Book of Kells](07-the-liberty-of-meath.md#the-book-of-kells)
+* [The Eiscir Riada](07-the-liberty-of-meath.md#the-eiscir-riada)
 * Story Seed: Returning the King
 * Story Seed: The Midnight Builder
 * Story Seed: Seeking the Plain of Swans
