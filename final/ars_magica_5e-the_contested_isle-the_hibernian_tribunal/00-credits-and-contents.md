@@ -147,52 +147,52 @@ Digital Version 1.0
   * &emsp;Covenfolk
 
 * [Chapter 6: The Province of Leinster](06-the-province-of-leinster.md)
-  * The Peoples of Leinster
-  * &emsp;The Laighin
-  * &emsp;The Osraighe
-  * &emsp;The Ostmen
-  * The County of Wexford
-  * &emsp;Wexford
-  * &emsp;Bannow
-  * &emsp;Templeshanbo Church
-  * &emsp;Enniscorthy
-  * &emsp;Ferns
-  * &emsp;New Ross
-  * The Wicklow Region
-  * &emsp;Baltinglass
-  * &emsp;Wicklow
-  * &emsp;Glendalough
-  * &emsp;Arklow
-  * Dublin
-  * The Liberty of Kildare
-  * &emsp;Kildare
-  * &emsp;Naas
-  * &emsp;Carbury
-  * &emsp;Calverstown (Baile an Chalbhaigh)
-  * Ossory
-  * &emsp;The Pass of Achad-ur
-  * &emsp;Rock of Dunamase
-  * &emsp;Kilkenny (Cill Chainnigh)
-  * &emsp;Kells
-  * &emsp;Jerpoint Abbey
-  * &emsp;Thomastown (Grianán)
-  * Ashenrise
-  * &emsp;History
-  * &emsp;Location
-  * &emsp;Culture
-  * &emsp;Magi
-  * Lámbaird
-  * &emsp;History
-  * &emsp;Setting & Physical Description
-  * &emsp;Culture & Traditions
-  * &emsp;Magi
-  * &emsp;Inhabitants
-  * The Paruchia of Nerius
-  * &emsp;History
-  * &emsp;Setting & Physical Description
-  * &emsp;Culture & Traditions
-  * &emsp;Magi
-  * &emsp;Covenfolk
+  * [The Peoples of Leinster](06-the-province-of-leinster.md#the-peoples-of-leinster)
+  * &emsp;[The Laighin](06-the-province-of-leinster.md#the-laighin)
+  * &emsp;[The Osraighe](06-the-province-of-leinster.md#the-osraighe)
+  * &emsp;[The Ostmen](06-the-province-of-leinster.md#the-ostmen)
+  * [The County of Wexford](06-the-province-of-leinster.md#the-county-of-wexford)
+  * &emsp;[Wexford](06-the-province-of-leinster.md#wexford)
+  * &emsp;[Bannow](06-the-province-of-leinster.md#bannow)
+  * &emsp;[Templeshanbo Church](06-the-province-of-leinster.md#templeshanbo-church)
+  * &emsp;[Enniscorthy](06-the-province-of-leinster.md#enniscorthy)
+  * &emsp;[Ferns](06-the-province-of-leinster.md#ferns)
+  * &emsp;[New Ross](06-the-province-of-leinster.md#new-ross)
+  * [The Wicklow Region](06-the-province-of-leinster.md#the-wicklow-region)
+  * &emsp;[Baltinglass](06-the-province-of-leinster.md#baltinglass)
+  * &emsp;[Wicklow](06-the-province-of-leinster.md#wicklow)
+  * &emsp;[Glendalough](06-the-province-of-leinster.md#glendalough)
+  * &emsp;[Arklow](06-the-province-of-leinster.md#arklow)
+  * [Dublin](06-the-province-of-leinster.md#dublin)
+  * [The Liberty of Kildare](06-the-province-of-leinster.md#the-liberty-of-kildare)
+  * &emsp;[Kildare](06-the-province-of-leinster.md#kildare)
+  * &emsp;[Naas](06-the-province-of-leinster.md#naas)
+  * &emsp;[Carbury](06-the-province-of-leinster.md#carbury)
+  * &emsp;[Calverstown (Baile an Chalbhaigh)](06-the-province-of-leinster.md#calverstown-baile-an-chalbhaigh)
+  * [Ossory](06-the-province-of-leinster.md#ossory)
+  * &emsp;[The Pass of Achad-ur](06-the-province-of-leinster.md#the-pass-of-achad-ur)
+  * &emsp;[Rock of Dunamase](06-the-province-of-leinster.md#rock-of-dunamase)
+  * &emsp;[Kilkenny (Cill Chainnigh)](06-the-province-of-leinster.md#kilkenny-cill-chainnigh)
+  * &emsp;[Kells](06-the-province-of-leinster.md#kells)
+  * &emsp;[Jerpoint Abbey](06-the-province-of-leinster.md#jerpoint-abbey)
+  * &emsp;[Thomastown (Grianán)](06-the-province-of-leinster.md#thomastown-grianán)
+  * [Ashenrise](06-the-province-of-leinster.md#ashenrise)
+  * &emsp;[History](06-the-province-of-leinster.md#history)
+  * &emsp;[Location](06-the-province-of-leinster.md#location)
+  * &emsp;[Culture](06-the-province-of-leinster.md#culture)
+  * &emsp;[Magi](06-the-province-of-leinster.md#magi)
+  * [Lámbaird](06-the-province-of-leinster.md#lámbaird)
+  * &emsp;[History](06-the-province-of-leinster.md#history-1)
+  * &emsp;[Setting & Physical Description](06-the-province-of-leinster.md#setting-and-physical-description)
+  * &emsp;[Culture & Traditions](06-the-province-of-leinster.md#culture-and-traditions)
+  * &emsp;[Magi](06-the-province-of-leinster.md#magi-1)
+  * &emsp;[Inhabitants](06-the-province-of-leinster.md#inhabitants)
+  * [The Paruchia of Nerius](06-the-province-of-leinster.md#the-paruchia-of-nerius)
+  * &emsp;[History](06-the-province-of-leinster.md#history-2)
+  * &emsp;[Setting & Physical Description](06-the-province-of-leinster.md#setting-and-physical-description-1)
+  * &emsp;[Culture & Traditions](06-the-province-of-leinster.md#culture-and-traditions-1)
+  * &emsp;[Magi](06-the-province-of-leinster.md#magi-2)
+  * &emsp;[Covenfolk](06-the-province-of-leinster.md#covenfolk)
 
 * [Chapter 7: The Liberty of Meath](07-the-liberty-of-meath.md)  
   * &emsp;Drogheda-in-Meath
@@ -412,20 +412,21 @@ Digital Version 1.0
 * Hedge Magic and Original Research
 * Oireadh Story Seeds
 * Story Seed: Remember Who You Work For
-* Story Seed: The Bay of Bannow
-* Story Seed: The Marshal's Curse
-* Story Seed: Helen of Ireland
-* Story Seed: The Púca Speaks?
-* Archbishop Henry de Londres
-* Story Seed: Dousing the Fire
-* Story Seed: Tales of Nuadha and Bóinn
-* Bóinn, the Great White Cow, Tuatha Dé Danann River Goddess
-* Story Seed: The Witches of Kilkenny
-* The School of Raghallach
-* New Guidelines: Perdo Vim
-* Hermetic Céli Dé
-* Indrechtach an t-Éigse Measceal, Céli Dé of Paruchia Nerius
-* Indrechtach's Holy Magic
+* [Story Seed: The Bay of Bannow](06-the-province-of-leinster.md#story-seed-the-bay-of-bannow)
+* [Story Seed: The Marshal's Curse](06-the-province-of-leinster.md#story-seed-the-marshals-curse)
+* [Story Seed: Helen of Ireland](06-the-province-of-leinster.md#story-seed-helen-of-ireland)
+* [Story Seed: Divine Vis](06-the-province-of-leinster.md#story-seed-divine-vis)
+* [Story Seed: The Púca Speaks?](06-the-province-of-leinster.md#story-seed-the-púca-speaks)
+* [Archbishop Henry de Londres](06-the-province-of-leinster.md#archbishop-henry-de-londres)
+* [Story Seed: Dousing the Fire](06-the-province-of-leinster.md#story-seed-dousing-the-fire)
+* [Story Seed: Tales of Nuadha and Bóinn](06-the-province-of-leinster.md#story-seed-tales-of-nuadha-and-bóinn)
+* [Bóinn, the Great White Cow, Tuatha Dé Danann River Goddess](06-the-province-of-leinster.md#bóinn-the-great-white-cow-tuatha-dé-danann-river-goddess)
+* [Story Seed: The Witches of Kilkenny](06-the-province-of-leinster.md#story-seed-the-witches-of-kilkenny)
+* [The School of Raghallach](06-the-province-of-leinster.md#the-school-of-raghallach)
+* [New Guidelines: Perdo Vim](06-the-province-of-leinster.md#new-guidelines-perdo-vim)
+* [Hermetic Céli Dé](06-the-province-of-leinster.md#hermetic-céli-dé)
+* [Indrechtach an t-Éigse Measceal, Céli Dé of Paruchia Nerius](06-the-province-of-leinster.md#indrechtach-an-t-éigse-measceal-céli-dé-of-paruchia-nerius)
+* [Indrechtach's Holy Magic](06-the-province-of-leinster.md#indrechtachs-holy-magic)
 * What is a Liberty?
 * Story Seed: The Conspiracy of Mellifont
 * Story Seed: The Haunting of New Grange

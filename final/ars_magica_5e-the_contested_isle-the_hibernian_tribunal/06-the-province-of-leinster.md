@@ -537,7 +537,7 @@ Little Saltee is one of the two Saltee Isles, and is uninhabited except for the 
 
 The covenant is highly unusual in that while it maintains a library in a tall tower on Little Saltee, and labs in a cave system near the beehive shaped cells of the three hermits and small chapel they have built for their devotions, the island has no Magic aura, but rather a Divine aura of three. A small graveyard holds the bones of earlier hermits on this isolated spot, the only other inhabitants.
 
-> Hermetic Céli Dé
+> ### Hermetic Céli Dé
 > 
 > Paruchia Nerius gain the Virtue Holy Magic as their Major Virtue, and the minor Hermetic Virtue Subtle Magic, but also receive the Restriction (magic can not affect women). Their lifestyle of asceticism prevents them from enjoying a Living Conditions bonus to Aging Rolls like most magi, instead receiving a Living Conditions modifier of 0. (See **ArM5**, page 170). As a Divine Societates (*Realms of Power:*  *The Divine*, page 69) they receive the Favored Abilities Holy Magic, Intervention, Purity and Transcendence. The Hermetic Céli Dé are not taught True Faith, rather represent a small body of individuals who already possess that Virtue and who are attracted to embrace this path. Only Gifted apprentices who possess this extraordinary level of personal devotion to God are accepted in to the tradition.
 
