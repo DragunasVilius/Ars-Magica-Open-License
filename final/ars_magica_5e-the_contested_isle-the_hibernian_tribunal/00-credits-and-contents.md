@@ -347,13 +347,13 @@ Digital Version 1.0
   * &emsp;[The Dobhar-Chú](10-the-magical-landscape.md#the-dobhar-chú)
 
 * [Chapter 11: The Faerie Landscape](11-the-faerie-landscape.md)
-  * The Otherworld
-  * &emsp;The Five High Roads
-  * Faerie Types
-  * &emsp;Pagan Gods: Tuatha Dé Danann
-  * &emsp;Social Faeries
-  * &emsp;Trooping Faeries
-  * &emsp;Solitary Faeries
+  * [The Otherworld](11-the-faerie-landscape.md#the-otherworld)
+  * &emsp;[The Five High Roads](11-the-faerie-landscape.md#the-five-high-roads)
+  * [Faerie Types](11-the-faerie-landscape.md#faerie-types)
+  * &emsp;[Pagan Gods: Tuatha Dé Danann](11-the-faerie-landscape.md#pagan-gods-the-tuatha-dé-danann)
+  * &emsp;[Social Faeries](11-the-faerie-landscape.md#social-faeries)
+  * &emsp;[Trooping Faeries](11-the-faerie-landscape.md#trooping-faeries-1)
+  * &emsp;[Solitary Faeries](11-the-faerie-landscape.md#solitary-faeries)
 
 * [Chapter 12: The Divine Landscape](12-the-divine-landscape.md)
   * The Two Churches of Ireland
@@ -481,17 +481,17 @@ Digital Version 1.0
 * [Cú Chulainn's Ríastradh](10-the-magical-landscape.md#cú-chulainns-ríastradh)
 * [The Fíorláir](10-the-magical-landscape.md#the-fíorláir)
 * [Dobhar-chú](10-the-magical-landscape.md#dobhar-chú)
-* Story Seed: Sometimes They Return
-* Redcaps and the High Roads
-* Common Hibernia Faerie Powers
-* Taboos
-* A List of the Tuatha Dé
-* Faerie Bards
-* Famous Heroes
-* Trooping Faeries
-* Caílte mac Rónáin
-* Donn
-* The Head of Arastotail
+* [Story Seed: Sometimes They Return](11-the-faerie-landscape.md#story-seed-sometimes-they-return)
+* [Redcaps and the High Roads](11-the-faerie-landscape.md#redcaps-and-the-high-roads)
+* [Common Hibernia Faerie Powers](11-the-faerie-landscape.md#common-hibernia-faerie-powers)
+* [Taboos](11-the-faerie-landscape.md#taboos)
+* [A List of the Tuatha Dé](11-the-faerie-landscape.md#a-list-of-the-tuatha-dé)
+* [Faerie Bards](11-the-faerie-landscape.md#faerie-bards)
+* [Famous Heroes](11-the-faerie-landscape.md#famous-heroes)
+* [Trooping Faeries](11-the-faerie-landscape.md#trooping-faeries)
+* [Caílte mac Rónáin](11-the-faerie-landscape.md#caílte-mac-rónáin)
+* [Donn](11-the-faerie-landscape.md#donn)
+* [The Head of Arastotail](11-the-faerie-landscape.md#the-head-of-arastotail)
 * An Example of Diocesan Politics
 * The Blessed Church Bells of Ireland
 * A Note on Naming
