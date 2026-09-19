@@ -367,19 +367,19 @@ Digital Version 1.0
   * [Divine Tradition: the Céli Dé](12-the-divine-landscape.md#divine-tradition-the-céli-dé)
 
 * [Chapter 13: The Infernal Landscape](13-the-infernal-landscape.md)
-  * The First Acts of the Infernal
-  * The Evils That Men Do
-  * &emsp;The Plagues of Ireland
-  * &emsp;Agents of Chaos
-  * Hibernian Demons
-  * &emsp;Common Powers
-  * &emsp;Demons of Hardship
-  * &emsp;The Sluagh
-  * &emsp;Devils of Folklore
-  * &emsp;Folk Charms
-  * Infernal Places
-  * &emsp;Battlefields
-  * &emsp;Hell on Earth
+  * [The First Acts of the Infernal](13-the-infernal-landscape.md#the-first-acts-of-the-infernal)
+  * [The Evils That Men Do](13-the-infernal-landscape.md#the-evils-that-men-do)
+  * &emsp;[The Plagues of Ireland](13-the-infernal-landscape.md#the-plagues-of-ireland)
+  * &emsp;[Agents of Chaos](13-the-infernal-landscape.md#agents-of-chaos)
+  * [Hibernian Demons](13-the-infernal-landscape.md#hibernian-demons-the-unseen-threat)
+  * &emsp;[Common Powers](13-the-infernal-landscape.md#common-powers)
+  * &emsp;[Demons of Hardship](13-the-infernal-landscape.md#demons-of-hardship)
+  * &emsp;[The Sluagh](13-the-infernal-landscape.md#the-sluagh)
+  * &emsp;[Devils of Folklore](13-the-infernal-landscape.md#devils-of-folklore)
+  * &emsp;[Folk Charms](13-the-infernal-landscape.md#folk-charms)
+  * [Infernal Places](13-the-infernal-landscape.md#infernal-places)
+  * &emsp;[Battlefields](13-the-infernal-landscape.md#battlefields)
+  * &emsp;[Hell on Earth](13-the-infernal-landscape.md#hell-on-earth)
 
 # List of Inserts
 
@@ -495,9 +495,9 @@ Digital Version 1.0
 * [An Example of Diocesan Politics](12-the-divine-landscape.md#an-example-of-diocesan-politics)
 * [The Blessed Church Bells of Ireland](12-the-divine-landscape.md#the-blessed-church-bells-of-ireland)
 * [A Note on Naming](12-the-divine-landscape.md#a-note-on-naming)
-* Infernal Relic: The Cup of Partholon
-* The Library of Vigil
-* The Harvest Thief
-* The Sluagh
-* Temoneth, Messenger of Delgnat's Betrayal
-* Infernal Tradition: Cailleach Piseogach
+* [Infernal Relic: The Cup of Partholon](13-the-infernal-landscape.md#infernal-relic-the-cup-of-partholon)
+* [The Library of Vigil](13-the-infernal-landscape.md#the-library-of-vigil)
+* [The Harvest Thief](13-the-infernal-landscape.md#the-harvest-thief)
+* [The Sluagh](13-the-infernal-landscape.md#the-sluagh-1)
+* [Temoneth, Messenger of Delgnat's Betrayal](13-the-infernal-landscape.md#temoneth-messenger-of-delgnats-betrayal)
+* [Infernal Tradition: Cailleach Piseogach](13-the-infernal-landscape.md#infernal-tradition-cailleach-phiseogach)
