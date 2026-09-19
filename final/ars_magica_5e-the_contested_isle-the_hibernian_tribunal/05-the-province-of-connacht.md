@@ -1,10 +1,8 @@
-## Chapter Five
-
-# The Province of Connacht
+# Chapter Five: The Province of Connacht
 
 *Good be the land and the kingdom thou dost inhabit; bountiful is its harvest, its honey, its fish, its wheat, and barleycorn, fair and mild is its weather. All that is necessary for thee is to be found in this land.*
 
-> — The words of Ith of the Sons of Mil, spoken to the Tuatha Dé
+— The words of Ith of the Sons of Mil, spoken to the Tuatha Dé
 
 Connacht (CON-ukh-t) has a long and rich history, in which mundane kings sit down with druids, giants, and the faerie kings and queens of old. There are strong alliances between its many peoples, but also feuds and rivalries, and it is a place more magical than perhaps even the Order suspects.
 
@@ -16,9 +14,7 @@ The province is ruled by the kingdom of Connacht, which also enjoys fealty from 
 
 Connacht's craggy coastline to the north, west, and south is filled with cliffs, bays, and islands. There are many natural harbors and the coastal villages live off the sea and its shore while their livestock graze the steep hillsides.
 
-The land itself is varied, with low-lying
-
-plains in the central region and mountainous ridges to the north, west, and south. Vast peat bogs are also found to the north and the west, and Connacht is generally fertile and productive. It also has numerous lakes both large and small and its prominent rivers are the Muaidhe (MOY), the Gaillimhe (GAL-lyiv-uh), and the Sionainne (SHON-an-yuh). It is the Sionainne on the eastern edge of the province that effectively divides Connacht from the rest of Ireland.
+The land itself is varied, with low-lying plains in the central region and mountainous ridges to the north, west, and south. Vast peat bogs are also found to the north and the west, and Connacht is generally fertile and productive. It also has numerous lakes both large and small and its prominent rivers are the Muaidhe (MOY), the Gaillimhe (GAL-lyiv-uh), and the Sionainne (SHON-an-yuh). It is the Sionainne on the eastern edge of the province that effectively divides Connacht from the rest of Ireland.
 
 The province is bordered to the north by Ulster, to the east by Meath and Leinster, and to the south by Munster.
 
@@ -26,7 +22,7 @@ The province is bordered to the north by Ulster, to the east by Meath and Leinst
 
 Connacht has a number of clans that wield influence over its territory, and it is also the last refuge of the Fir Bolg and the land of the Coill Trí. As a result, its people tend to be knowledgeable about the supernatural and consult freely with druids.
 
-## The Connachta
+### The Connachta
 
 The Connachta families claim descent from Conn Cétchathach (Conn of the Hundred Battles), the once High-King of Ireland. Cousins to the Uí Néill, they have wielded power across Connacht unchallenged for centuries despite deep-seated family rivalries.
 
@@ -36,7 +32,7 @@ The Connachta families claim descent from Conn Cétchathach (Conn of the Hundred
 
 **The Uí Maine** (OO-ee MAN-yuh) drove the Fir Bolg westward when they took their lands near the Sionainne. The influence of the Uí Maine in Connacht has waned in recent generations and the Fir Bolg still harbor grudges against them. Families of the Uí Maine include the Ó Ceallaigh, the Ó Domhnalláin, and the Ó Fallamháin.
 
-## The Fir Bolg
+### The Fir Bolg
 
 Defeated at the hands of the Tuatha Dé, the Fir Bolg retreated to Connacht and conceded the rest of Ireland. They occupied all of Connacht for hundreds of years until the Milesians came and drove them even further to the west. While diminished in number, the three tribes of the Fir Bolg can still be found on the Aran Islands.
 
@@ -44,7 +40,7 @@ With the exception of the Fir Domhnann, the Fir Bolg are Christian, having been 
 
 While their influence as rulers has all but gone, they still have a wisdom earned through countless victories, and defeats, making them invaluable counselors to the rulers of Connacht. The Fir Domhnann, however, resent the rule of man as it was their ancestor Gannan who was awarded Connacht to rule after the coming of the Fir Bolg to Ireland.
 
-## The Druids and the Coill Trí
+### The Druids and the Coill Trí
 
 The nobles of Connacht consult and protect numerous druids and few in Connacht would bar a druid's way. Those hedge wizards with the gift of foresight may now be seeing the omens changing for Connacht, and thus the Connachta should be mindful of their druids and their advice to prepare. Within a generation, the English may not be kept beyond the border.
 
@@ -52,22 +48,23 @@ Magic and Faerie auras are plentiful in Connacht, and even in the Dominion there
 
 The Coill Trí is an imposition upon the druids of Connacht by the Ordo Hiberniae and many resent the restrictions they endure and the tribute they must pay; every seven years, Connacht must give up seven Gifted Connachta children to the magi ruling Leinster, Munster, and Ulster. This does not sit well, but just as the Fir Bolg and the Tuatha Dé after them owed tribute to the Fomóir, and the kings of Connacht owe tribute to the English, so the druids of Connacht must accept the same.
 
-## Booleys and Crannógs
+### Booleys and Crannógs
 
 Connacht has many villages that move with the seasons so as to better support their livestock and to go where the work and harvests are. This results in a number of *booley* villages, collections of simple dwellings occupied for only a season or two before the occupants move on to fresh pastures. This leaves many villages free to be used by faeries and many a traveler has been lured to a wicked fate upon looking for shelter in a booley when the fae are at home.
 
 Crannógs are structures built upon stilts or platforms of timber and stone rising out of a lake. These man-made islands support homes and even small villages. Most are now empty and abandoned, left to faeries and druids.
 
+*(missing image) Map of connacht*
 
-## Story Seed: Falling on Deaf Ears
+> ### Story Seed: Falling on Deaf Ears
+>
+> A Bréifne farmer seeks out a druid to ask for help, offering one seventh of his harvest for the next seven years. A witch, protected by an Uí Raghallaigh noble, has entranced the farmer's son and will not release him from her spell. Traveling east, the farmer finds magi of the Order, but do the magi feel able to intervene or must they work through agents?
 
-A Bréifne farmer seeks out a druid to ask for help, offering one seventh of his harvest for the next seven years. A witch, protected by an Uí Raghallaigh noble, has entranced the farmer's son and will not release him from her spell. Traveling east, the farmer finds magi of the Order, but do the magi feel able to intervene or must they work through agents?
-
-## The Diocese of Triburnia
-
-The Diocese of Triburnia, also known as Kilmore, is coterminous with the kingdom of Bréifne and falls under the administration of the Archdiocese of Armagh. Bishop Tuathal Ua Connachtaig courted controversy by swearing an oath of fealty to Henry II in 1172 in his capacity as Bishop of Kells. It was a move that angered many and the Church appears complicit in moves to give the English further influence over Bréifne affairs. This is perhaps something that Hermetic newcomers to Hibernia might seize upon.
-
-The current bishop is Flann Ó Connachtaig, a scholar with no desire to oppose English influence in the region.
+> ### The Diocese of Triburnia
+>
+> The Diocese of Triburnia, also known as Kilmore, is coterminous with the kingdom of Bréifne and falls under the administration of the Archdiocese of Armagh. Bishop Tuathal Ua Connachtaig courted controversy by swearing an oath of fealty to Henry II in 1172 in his capacity as Bishop of Kells. It was a move that angered many and the Church appears complicit in moves to give the English further influence over Bréifne affairs. This is perhaps something that Hermetic newcomers to Hibernia might seize upon.
+>
+> The current bishop is Flann Ó Connachtaig, a scholar with no desire to oppose English influence in the region.
 
 ## The Kingdom of Bréifne
 
@@ -81,18 +78,17 @@ While the land is fertile, Bréifne is sparsely populated and replete with Magic
 
 Bréifne poses a particular problem for the Order. While the crown of Bréifne itself is subject to the *kingdom* of Connacht, the old treaty is unclear on whether *Connacht* is considered to stop at the Sionainne or to cover all lands subject to the kings of Connacht. At present, there are no covenants to be found in Bréifne and the Coill Trí argue that the land is theirs.
 
-## Kings of Bréifne
+### Kings of Bréifne
 
 The most influential families in Bréifne are the Uí Raghallaigh clan to the east and the Uí Ruairc clan to the west. These wealthy and militarily strong families command extraordinary loyalty from their people and have come to blows countless times over control of Bréifne, each with their own allies from within Connacht and beyond.
 
-The Bréifne crown is not inherited; the king is chosen from the male line by the male Uí Briúin Bréifne. Those with
-
+The Bréifne crown is not inherited; the king is chosen from the male line by the male Uí Briúin Bréifne. Those with designs upon the crown often blinded or castrated their rivals to ensure that they are unfit to challenge them, and even today Bréifne politics is a brutal affair. The Bréifne kings, currently Ualgarg Uí Ruairc, owe allegiance to Connacht and the Uí Ruairc clan enjoys the support of the Uí Conchobhair rulers of Connacht against the Uí Raghallaigh in their frequent clashes.
 
 The English exert their influence in Bréifne affairs from outside Connacht and, if your saga follows real-world history, Ualgarg is temporarily dethroned for a year in 1228, replaced by his cousin Niall. Ualgarg regains the throne when Niall dies and holds it until his own death in 1231.
 
 If your saga follows real-world history, the feud between the two clans reaches a head in 1256 when Bréifne is split in two. The priory that stands on the Druim Leatan ridge separating Uí Ruairc from Uí Raghallaigh forms part of the boundary between the Bréifne Uí Raghallaigh to the east, and the Bréifne Uí Ruairc to the west. When this happens, both kingdoms remain subject to the kingdom of Connacht.
 
-## West Bréifne
+### West Bréifne
 
 The western part of Bréifne, ruled by the Uí Ruairc family, is a dramatic wooded land ringed with high mountains. These woodlands provide good hunting and are filled with wild pigs, boar, deer, and all manner of game birds. Wolves are also common, and eagles are often seen overhead.
 
@@ -100,12 +96,11 @@ The western part of Bréifne, ruled by the Uí Ruairc family, is a dramatic wood
 
 The 50-foot tall Glencar Waterfall in Bréifne's north-west flows with clean fresh water all year round. The beauty of the waterfall is at the heart of a strong Magic aura. Its waters are said to cleanse and heal wounds, effects resulting from the spell-like vis (*Realms of Power: Magic*, page 121) found within the waterfall.
 
-
-
+#### The Black Pig's Dyke
 
 The Black Pig's Dyke runs north to south through West Bréifne before running west to east and then rising south to north through East Bréifne. This Faerie trod is in a poor condition and is not currently continuous. The Connachta druids want to keep it that way; if it were replowed it would form a boundary around Ulster, which would carve into Connacht and open up more land for the Order of Hermes to claim.
 
-## East Bréifne
+### East Bréifne
 
 East Bréifne is bordered north and south by Ulster, Meath, and Leinster. Little wonder then that these Uí Raghallaigh lands are subject to interference from the English and their Irish vassals. Despite the constant antagonism, many magical places in the region have been preserved and magic is strong here.
 
@@ -127,19 +122,19 @@ At a distance of about five miles on each side, the towns of Kilmore and Cavan a
 
 *When the people of Nemed told him of the tribute demanded by the Fomóir, Fionntan gave them wise counsel and told them that whatever tribute the Fomóir imposed upon them that it was in their power to either bear it or escape it.*
 
- *— Lebor Feasa Runda*
+— Lebor Feasa Runda
 
 The last free king of Connacht was Ruaidhri Uí Conchobhair (ROO-ri OO-a CON-khoh-wur), who gained power through ruthless politics, military strength, and the assistance of the druids. He held the Connacht crown, secured continued fealty from Bréifne, and became High-King of Ireland, but his banishment of Mac Murrough led directly to the invasion of Ireland by the English, and the loss of Leinster, Munster, Meath, and Ulster. With his forces unable to stem the flow of the English conquest, he visited the Fir Bolg kings on Árainn Mhór to seek their advice. They gave him the counsel of Fionntan, and on the sixth day of October in 1175, Uí Conchobhair signed the treaty of Windsor, acknowledging Henry of England as ruler of Ireland. Uí Conchobhair remained king of Connacht conditional on yearly tribute, a tribute that still stands.
 
 Ruaidhri Uí Conchobhair abdicated as High-King of Ireland and retired to the monastery at Cong, dying in 1198. The current king of Connacht is his half brother, Cathal Uí Conchobhair. If your saga follows real-world history, Cathal remains king of Connacht until 1224 when he is succeeded by his son Aedh. The title of high-king is lost forever, with the exception of two failed attempts to restore its authority.
 
-## The Archdiocese of Tuam
+### The Archdiocese of Tuam
 
 The archdiocese of Tuam is coterminous with the kingdom of Connacht, its range reinforcing the crown's authority over its lands. The placing of the diocese of Triburnia under the archdiocese of Armagh ignored the subject nature of the kingdom of Bréifne and has been a source of dispute ever since.
 
 The archdiocese covers eight dioceses; Killala and Achonry to the north; Mayo, Tuam, and Elphin centrally from west to east; and Annaghdown, Cill Mhic Dhuach, and Clonfert from the south-west to the south-east.
 
-## The Diocese of Killala
+### The Diocese of Killala
 
 Much of the diocese of Killala, consisting of the north-westerly tip of Connacht, is mountainous and sparsely-populated with extensive inland marshes and peat bogs.
 
@@ -147,15 +142,15 @@ Much of the diocese of Killala, consisting of the north-westerly tip of Connacht
 
 The Stags of Broadhaven are a series of islands that rise steeply from the sea, and the jagged rocks are home to many seabirds. One of the islands has a cave that runs through it, a regio entrance that leads to the Otherworld of the Tuatha Dé who hold power over the Atlantic shore. The waters around Broadhaven are filled with dolphins and seals who act as their messengers and envoys.
 
+> ### Queen Maedhbh
+>
+> *I never was without one man in the shadow of another.*
+>
+> — Queen Maedhbh
+>
+> Conniving, lascivious, and duplicitous, Meadhbh knew every type of magic that could control a man's head and heart and she employed this against mortal and immortal alike. Those who think the faerie Queen Maedhbh powerless in death should think again. Her mortal form may be buried at Cnoc na Ré, but her spirit still holds court and she may be sought out by kings, princes, and druids, offering her power to those who would give themselves to her. Her jealous love for Connacht may be roused should the Ulaidh deign to attack and she could lead a mighty army out of the Otherworld to meet them on the battlefield.
 
-
-"I never was without one man in the shadow of another."
-
-— Queen Maedhbh
-
-Conniving, lascivious, and duplicitous, Meadhbh knew every type of magic that could control a man's head and heart and she employed this against mortal and immortal alike. Those who think the faerie Queen Maedhbh powerless in death should think again. Her mortal form may be buried at Cnoc na Ré, but her spirit still holds court and she may be sought out by kings, princes, and druids, offering her power to those who would give themselves to her. Her jealous love for Connacht may be roused should the Ulaidh deign to attack and she could lead a mighty army out of the Otherworld to meet them on the battlefield.
-
-## The Diocese of Achonry
+### The Diocese of Achonry
 
 The diocese of Achonry is separated from Killala to the north by a ridge of mountains and from the Kingdom of Bréifne to the east by nothing more than good intentions. As a result, the people of Achonry must balance their favor between the Uí Ruairc kings of Bréifne and the Uí Conchobhair kings of Connacht.
 
@@ -187,13 +182,9 @@ The plateau Binn Ghulbain can be clearly seen from Sligo town and all the enviro
 
 #### Loch na Súl
 
-The Fomórach king Balor of the Baleful Eye was slain by Lugh of the Tuatha Dé at the second battle of Mag Tuired by loosing a stone from his sling that shattered Balor's eye. The fire from Balor's eye gouged a hole in the earth. As the giant fell, his blood filled the hole to form Loch na Súl, or the Lake of the Eye. The blood may be gone but part of Balor's shattered eye remains and is the source of the lake's level 2 Magic aura. Were a covenant in
+The Fomórach king Balor of the Baleful Eye was slain by Lugh of the Tuatha Dé at the second battle of Mag Tuired by loosing a stone from his sling that shattered Balor's eye. The fire from Balor's eye gouged a hole in the earth. As the giant fell, his blood filled the hole to form Loch na Súl, or the Lake of the Eye. The blood may be gone but part of Balor's shattered eye remains and is the source of the lake's level 2 Magic aura. Were a covenant in search of a cathach to remove the eye from the lake, the aura would fade.
 
-
-
-search of a cathach to remove the eye from the lake, the aura would fade.
-
-## The Diocese of Mayo
+### The Diocese of Mayo
 
 The diocese of Mayo was officially dissolved in 1202 by a Papal legate, with all subject lands and monasteries transferring directly to Tuam. The clergy of Mayo have been resistant to the change despite the decision having been ratified by Pope Innocent III in 1216. If your saga follows real-world history, this is confirmed again in 1221 by a further legate and finally by Pope Gregory IX in 1240.
 
@@ -208,8 +199,6 @@ Both of these mountains provide excellent visibility across the land, which may 
 #### Lough Conn
 
 Visible from Néifinn, Lough Conn and its neighbor Lough Cullin, to which it is linked, form a lake complex nearly ten miles long. Lough Conn discharges to the Atlantic through the River Muaidhe (MOY), noted for the wealthy churches dotted along its length.
-
-#### The Contested Isle
 
 It is said that Lough Conn was formed by a great boar being chased by Fionn mac Cumhaill and his hounds Conn and Cullin. As the magical boar ran, water poured from its feet, so much that the two lakes were created and Finn's hounds drowned. The boar was never caught and still roams freely in the Faerie realm, though it has not been sighted in the mortal world since the chase.
 
@@ -233,13 +222,13 @@ The island has a number of natural harbors, sheltered by the high cliffs, includ
 
 Clew Bay is a large natural ocean bay, protected at its mouth by the mountainous Clare Island and inshore by numerous drumlins, small submerged hills the tips of which just breach the surface. Some say the drumlins are actually faerie whales, free to roam the ocean at high tide but turning to stone when the tide turns. It is certain that nobody who counts the drumlins on different days arrives at the same count twice.
 
-## Story Seed: An Appeal
+> ### Story Seed: An Appeal
+>
+> A clerical companion character is approached by the clergy of Mayo to take their case to Rome to argue against the dissolution of their diocese. They feel an outsider's voice added to their own may give them the weight they need. When the cleric receives a menacing visit from agents apparently sent by the Archbishop of Tuam, it seems that Tuam is prepared to go to supernatural lengths to secure its hold on Mayo. But is the archbishop really behind this, or is he just a pawn in a larger game?
 
-A clerical companion character is approached by the clergy of Mayo to take their case to Rome to argue against the dissolution of their diocese. They feel an outsider's voice added to their own may give them the weight they need. When the cleric receives a menacing visit from agents apparently sent by the Archbishop of Tuam, it seems that Tuam is prepared to go to supernatural lengths to secure its hold on Mayo. But is the archbishop really behind this, or is he just a pawn in a larger game?
-
-
-
-With scant leadership and no cathedral, the wealthy merchants of Tuam rule themselves and grow fat upon their profits. Outside the city, harvests fail, illness spreads, and money is ever harder to find. Stirring both greed and hardship are hell's demons. As desperate men turn to robbery and raiding, hedge wizards and maybe even magi feel the effects. Do they punish these straying souls or do they confront the Infernal powers that forced their hands?
+> ### Story Seed: The Devils of Tuam
+>
+> With scant leadership and no cathedral, the wealthy merchants of Tuam rule themselves and grow fat upon their profits. Outside the city, harvests fail, illness spreads, and money is ever harder to find. Stirring both greed and hardship are hell's demons. As desperate men turn to robbery and raiding, hedge wizards and maybe even magi feel the effects. Do they punish these straying souls or do they confront the Infernal powers that forced their hands?
 
 #### Croagh Patrick
 
@@ -249,7 +238,7 @@ Caoranach herself was knocked from the sky, falling into the lake now called Lou
 
 Croagh Patrick itself is an important pilgrimage site and has a strong Divine aura. Numerous shrines to Patrick surround the mountain and a small church has been built on its summit. However, the roads in the area can be dangerous and robbers, faeries, and demons alike test the faith of those going to Lough Nacorra. If using the pilgrimage rules presented in *The Church*, page 16, these trials form useful oppositional elements when calculating the Pilgrimage Level.
 
-## The Diocese of Tuam
+### The Diocese of Tuam
 
 The city of Tuam is a fading center of political and economic power. It is here that the Uí Conchobhair dynasty sought to strengthen their grip on Connacht with a castle built in 1164. But the city has not fared well since then. Although home to five monasteries and several high crosses, Tuam has been without its cathedral since it burned to the ground in 1184. With the king's abdication in 1185, and the tensions with the English on Connacht's borders, little attention has been turned to rebuilding it.
 
@@ -275,8 +264,6 @@ This did not deter assault, however. The *Maigh Seola*, those lands east of the 
 
 If you saga follows real-world history, the fort and its settlement will be a repeated target for the Normans when they enter Connacht around 1230.
 
-
-
 #### Connemara
 
 Connemara is the region to the west of Lough Gaillimhe and is further divided into north and south areas by the short mountain range known as the Twelve Bens. The distinction between north and south is considered very important by the feuding families living in their respective areas. Connemara is currently ruled by the Ó Cadhla clan, but they are facing competition as families from Leinster and Munster seek out new lands after being displaced by the English.
@@ -293,13 +280,9 @@ The island itself is home to a monastery founded by St. Feichin, which has strug
 
 #### Inishbofin and Inishark
 
-These twin islands about five miles off the Connemara coast bear a strange magical curse. Despite the islands' mild climate
+These twin islands about five miles off the Connemara coast bear a strange magical curse. Despite the islands' mild climate and plentiful food, those who live on the islands age more quickly than those on the mainland, suffering a –1 Living Conditions penalty. There are numerous ruins on the island, left behind by the monks who died without replacement, some as recent as the monastery founded by Saint Colman on Inishbofin that dissolved in the 10th century. Some research would be required to see whether an effect like the Aegis of the Hearth could protect inhabitants against the curse.
 
-#### The Contested Isle
-
-and plentiful food, those who live on the islands age more quickly than those on the mainland, suffering a –1 Living Conditions penalty. There are numerous ruins on the island, left behind by the monks who died without replacement, some as recent as the monastery founded by Saint Colman on Inishbofin that dissolved in the 10th century. Some research would be required to see whether an effect like the Aegis of the Hearth could protect inhabitants against the curse.
-
-## The Diocese of Elphin
+### The Diocese of Elphin
 
 The Diocese of Elphin occupies the eastern edge of Connacht and is bounded by the River Sionainne for its length. Those who live in the diocese look nervously across the Sionainne for signs of English aggression, and with good reason. The Hermetic covenant of Praesis is located on an island between Connacht and Leinster and it is well known that the Leinster druids have been at war with those of Connacht. Many men of Elphin have already died defending these druids, and with their loss the fear is that a new English assault cannot be far behind.
 
@@ -325,20 +308,17 @@ The town of Roscommon holds numerous market charters and many roads pass through
 
 #### Athlone
 
-Ten miles to south east of Roscommon, just south of Lough Ree, the English control a large stone bridge that spans the River Sionainne and joins Leinster and
-
-
-## Story Seed: The Swords of the Fer Caille
-
-When a number of villages on the Meath side of the Sionainne are put to the sword by mysterious and savage warriors, the Bishop of Athlone asks the magi of Leinster for their help. These Fer Caille are faeries (*Realms of Power: Faerie*, page 77) looking for mortal heroes to fight and slay them. The trouble is that the Connachta men are following the Fer Caille example and raiding against Meath holdings. Can the magi arm and prepare their grogs and consortes to withstand the Fer Caille? And what orders do they give concerning the mortal men of Connacht?
-
-Meath to Connacht, providing a valuable foothold in Connacht.
+Ten miles to south east of Roscommon, just south of Lough Ree, the English control a large stone bridge that spans the River Sionainne and joins Leinster and Meath to Connacht, providing a valuable foothold in Connacht.
 
 Athlone stands on the site of an ancient ford. To the south, the river is impassable to Clonmacnoise, and from early times Athlone was of great strategic importance. Tairrdelbach Uí Conchobhair built a bridge and protective ring fort here a century ago. This was replaced by a stone castle ten years ago by John de Gray, the Bishop of Norwich and Justiciar of Ireland from 1209 to 1212, but has become a possession of Walter de Lacy, who has stationed a small garrison. Athlone is prosperous under English rule, and the marketplace provides finished goods hard to acquire in the region. The Sionainne and the Great Highway mean trade from across Ireland flows through here.
 
 There is always conflict to be had at Athlone. While the castle protects Meath from Connachta invasion, it does nothing to prevent small bands of men crossing the Sionainne to test their mettle against the English.
 
 At night Athlone residents are prone to hear the terrible cry of the banshee (*Realms of Power: Faerie*, page 80), for many local families have the death omen. Once the banshee is heard, many fall to weeping and mourning, but it is said that if you are quick witted enough and can discover which of your clan is about to die, you can sometimes avert the catastrophe.
+
+> ### Story Seed: The Swords of the Fer Caille
+>
+> When a number of villages on the Meath side of the Sionainne are put to the sword by mysterious and savage warriors, the Bishop of Athlone asks the magi of Leinster for their help. These Fer Caille are faeries (*Realms of Power: Faerie*, page 77) looking for mortal heroes to fight and slay them. The trouble is that the Connachta men are following the Fer Caille example and raiding against Meath holdings. Can the magi arm and prepare their grogs and consortes to withstand the Fer Caille? And what orders do they give concerning the mortal men of Connacht?
 
 #### Rathbeg
 
@@ -348,16 +328,13 @@ Nine miles north of Roscommon is a small collection of barrows. These barrows co
 
 Near the small town of Athleague there is a single standing stone called the Castlestrange Stone. Egg-shaped and a yard along its longest dimension, the stone is inscribed with a single continuous winding pattern across its surface. There is no supernatural aura but those who have touched the stone claim it to be unnatural. As a result, few are prepared to move it from the shallow hillside on which it can currently be found.
 
-## Story Seed: The Cry of the Banshee
-
-A banshee is heard to wail, and the youngest of the family Congal Mac an Fhailghigh sees it outside their home. The urchin immediately runs in to the night, and finds a way to discover the characters, asking them to help stop the banshee, or
-
-change the doom on his family. The death will surely occur soon; will the characters be moved to tangle with this supernatural horror? And why are so many prominent English clergy and knights riding to town on this dark, cold evening?
-
-
 It is similar to another stone near the village of Bullaun to the west, though that one is larger and more upright. The designs are strikingly similar. If the two could be studied together, perhaps the meaning behind the carvings could be discovered.
 
-## The Diocese of Annaghdown
+> ### Story Seed: The Cry of the Banshee
+>
+> A banshee is heard to wail, and the youngest of the family Congal Mac an Fhailghigh sees it outside their home. The urchin immediately runs in to the night, and finds a way to discover the characters, asking them to help stop the banshee, or change the doom on his family. The death will surely occur soon; will the characters be moved to tangle with this supernatural horror? And why are so many prominent English clergy and knights riding to town on this dark, cold evening?
+
+### The Diocese of Annaghdown
 
 The small diocese of Annaghdown has a small human population, but it is notable as Ireland's Fir Bolg population falls under its influence.
 
@@ -369,14 +346,13 @@ The series of three Aran Isles off the coast of Gaillimhe Bay are home to Irelan
 
 To the west of Árainn Mhór are the two small Brannock Islands. Giraldus Cambrensis wrote of them when he described an island upon which human corpses did not decay. Instead, they are left in the open and it is known that a man may visit the island and find any number of his forebears laid out before him. This same island also has no mice and those brought to the island either throw themselves to the sea or die on the spot. The magi of Qui Sonant have heard of the island and would be interested to know more but for the treaty that prevents them from entering Connacht.
 
-
 The Fir Domhnann of Árainn Meáin are the smallest of the three tribes and they all live within the Dun Chonchuir ringfort. As may be expected of the tribe who have turned to venerating the Fomóir goddess Domnu, there are no churches on Árainn Meáin and no Divine auras.
 
 Árainn Thiar, the smallest of the major islands, is inhabited by the Fir Gaileoin. They are nominally Christian but virtually non-observant and island is home to only one church.
 
 Tempull Bheanáin is a small oratory situated on high ridge on the south-east of Árainn Thiar. It is outwardly very small and appears to be an abandoned ruin. On stepping through into the Terrestrial regio that overlays it (see *Realms of Power: The Divine Revised Edition*, page 13), however, the church is large and overwhelmingly beautiful and no harm may come to those inside.
 
-## The Diocese of Cill Mhic Dhuach
+### The Diocese of Cill Mhic Dhuach
 
 The Diocese of Cill Mhic Dhuach is the ancestral home of the Uí Fiachrach. It is now wealthy but lacking in the military might it needs to defend itself from raiders crossing the border from Munster to the south.
 
@@ -392,7 +368,7 @@ Fir Mhor is a large ring fort near the village of Bullaun and the larger town of
 
 The Rath is also home to a yard-tall standing stone, upright and rounded, and covered with a continuous swirling pattern. It is clearly related to the Castlestrange stone in Elphin and may even bear the same enchantments.
 
-## The Diocese of Clonfert
+### The Diocese of Clonfert
 
 The cathedral at Clonfert grew out of the earlier monastery and the church was started around 1180. A magical stonemason worked upon the great arch that surrounds the doors and such is the beauty of his work that supernatural beasts from all the realms traveled to see it. Even now, the stonework bears the images of those who came to see the stonemason work.
 
@@ -402,23 +378,31 @@ Slieve Aughty is a densely wooded mountain range that spans the Connacht-Munster
 
 The Hermetic covenant of Elk's Run can be found on the Munster side of the Slieve Aughty hills.
 
+> ### Hedge Magic and Original Research
+> 
+> Any literate hedge wizard able to undertake work in a laboratory can use the Original Research rules presented in *Houses of Hermes: True Lineages*, but (according to page 16 of *Hedge Magic Revised Edition*) if the wizard's tradition has no codified theory of magic, this theory is the only thing open for investigation. Otherwise, the process is the same as for Hermetic magi. Storyguides looking to explore Oireadh's research, or to implement something similar elsewhere, should familiarize themselves with the Original Research rules presented in *Houses of Hermes: True Lineages*.
+> 
+> #### Ádhamh's Research
+> 
+> Ádhamh Brathair (EWE BRO-hur) has a vision of a theory of magic that encompasses all the traditions of Ireland and grants all practitioners the magical defenses afforded by each tradition. This breakthrough requires at least 120 breakthrough points (*Houses of Hermes: True Lineages*, page 28). Ádhamh suspects that he cannot succeed during his lifetime, but he has secured his notes in the hope that future generations can build upon his research.
+> 
+> His work so far has centered on the creation of Amulets (*Hedge Magic Revised Edition*, page 86) that grant the wearer the Supernatural Virtues for Second Sight, Dowsing, and Cursing, inspired by the Folk Witch tradition. These grant the associated Ability at a score of 4 for a season. Through these he has learned how his own magic differs from that of the Folk Witches, an important point of comparison when understanding his own tradition. In addition, by learning these Abilities, he hopes to gain the limited magical defenses that they offer, which furthers his ultimate goal. He currently has fifteen points toward his research total.
 
+## The Pact of Oireadh
 
-Any literate hedge wizard able to undertake work in a laboratory can use the Original Research rules presented in *Houses of Hermes: True Lineages*, but (according to page 16 of *Hedge Magic Revised Edition*) if the wizard's tradition has no codified theory of magic, this theory is the only thing open for investigation. Otherwise, the process is the same as for Hermetic magi. Storyguides looking to explore Oireadh's research, or to implement something similar elsewhere, should familiarize themselves with the Original Research rules presented in *Houses of Hermes: True Lineages*.
+The Pact of Orieadh is a group of druids intent on creating their own unified theory of magic with the ultimate aim — unknown to the Order — of creating their own form of Parma Magica.
 
-#### Ádhamh's Research
+### History
 
-Ádhamh Brathair (EWE BRO-hur) has a vision of a theory of magic that encompasses all the traditions of Ireland and grants all practitioners the magical defenses afforded by each tradition. This breakthrough requires at least 120 breakthrough points (*Houses of Hermes: True Lineages*, page 28). Ádhamh suspects that he cannot succeed during his lifetime, but he has secured his notes in the hope that future generations can build upon his research.
+The covenant of Praesis was once a meeting place between the hedge wizards of Connacht and the Ordo Hiberniae. With all those years of dialog and exchange, it is not surprising that some of those hedge wizards would wonder at the magical secrets being kept from them.
 
-His work so far has centered on the creation of Amulets (*Hedge Magic Revised Edition*, page 86) that grant the wearer the Supernatural Virtues for Second Sight, Dowsing, and Cursing, inspired by the Folk Witch tradition. These grant the associated Ability at a score of 4 for a season. Through these he has learned how his own magic differs from that of the Folk Witches, an important point of comparison when understanding his own tradition. In addition, by learning these Abilities, he hopes to gain the limited magical defenses that they offer, which furthers his ultimate goal. He currently has fifteen points toward his research total.
+Having once been allies of Praesis, the druids of Oireadh deserted Meadhbh when her demands upon them became unreasonable. They instead began to ask what brought the Order their power, and what protected them while lesser wizards fell. So these wizards began to turn their abilities to research.
 
-what brought the Order their power, and what protected them while lesser wizards fell. So these wizards began to turn their abilities to research.
-
-## Setting and Physical Description
+### Setting and Physical Description
 
 The druids of Oireadh do not live and work together in the manner of Hermetic magi. Instead, they meet every season in the village of Oireadh, which is no more than two day's travel for each member. Each of these druids has his own aura supporting his own supernatural tradition.
 
-## Culture and Traditions
+### Culture and Traditions
 
 Oireadh is a collection of druids who support each other in their magical and mundane pursuits. The effect of The Gift has been hard to put aside, but living so far apart seems to help, as the antagonism inherent to The Gift only manifests when meeting in person. Each of the druids has his own helpers and messengers and these are frequently employed to take messages between the druids; they can often be encountered on the region's roads and tracks.
 
@@ -426,38 +410,28 @@ The more academically-minded of the Oireadh druids have turned their thoughts to
 
 Principally resident in Connacht, the druids of Oireadh have no love for the English.
 
-## Magi
+### Magi
 
 There are currently eight druids sworn to the Pact of Oireadh. It is important to note that, unlike the Order, Oireadh does not discriminate between traditions and so a Fir Bolg is free to sit at council with a Witch, a Goetic Sorcerer, and a Learned Magician. These principle members are described below.
 
 #### Ádhamh Brathair
 
-**Age:** 55 (Apparent Age: 55) **Personality Traits:** Charismatic +3, Determined +2, Cautious +1 **Tradition:** Learned Magician
+**Age:** 55 (Apparent Age: 55)<br>
+**Personality Traits:** Charismatic +3, Determined +2, Cautious +1<br>
+**Tradition:** Learned Magician
 
 Ádhamh is a master of experimental philosophy and a Gifted Learned Magician, tracing his magic ultimately back to Bologna in Italy. It was Ádhamh who conceived the Pact of Oireadh and he is also the principle researcher working toward unifying the druidic gifts.
 
 He sees his work as being for the greater good. While he would prefer to take the glory he is aware that it is the work of more than a single lifetime. He is cautious about revealing too much to the Coill Trí as he knows of their connection to the Ordo Hiberniae and is concerned as to their potential reaction. This is especially resonant as the Coill Trí recently took a Gifted child from him in order to provide tribute to the Hermetic magi across the border.
 
-## The Pact of Oireadh
-
-The Pact of Orieadh is a group of druids intent on creating their own unified theory of magic with the ultimate aim — unknown to the Order — of creating their own form of Parma Magica.
-
-## History
-
-The covenant of Praesis was once a meeting place between the hedge wizards of Connacht and the Ordo Hiberniae. With all those years of dialog and exchange, it is not surprising that some of those hedge wizards would wonder at the magical secrets being kept from them.
-
-Having once been allies of Praesis, the druids of Oireadh deserted Meadhbh when her demands upon them became unreasonable. They instead began to ask
-
-
 Ádhamh is ordained in minor orders but is supported by a wealthy nobleman of Cong, where he turns his powers to helping the noble and his family.
 
 #### Umor Ard Mac Adar
 
-**Season:** Autumn (Apparent Age: 50)
-
-**Magic Might:** 25
-
-**Personality Traits:** Gentle +3, Independent +2, Idealistic +1 **Tradition:** Transformed Fir Domhnann
+**Season:** Autumn (Apparent Age: 50)<br>
+**Magic Might:** 25<br>
+**Personality Traits:** Gentle +3, Independent +2, Idealistic +1<br>
+**Tradition:** Transformed Fir Domhnann<br>
 
 Umor Mac Adar is one of the few Fir Domhnann to leave Árainn Meáin, but while he has left his home behind he brings his faith in Domnu with him. Larger than any mortal man, Umor carries the deformity of his ancestral Fomórach blood, and he has an extra pair of arms that extend from his sides. Otherwise, he looks broadly human and his mature face is almost handsome. His magical blood gives him a Might score and healing powers.
 
@@ -467,7 +441,9 @@ Generally fearful of humans, he has chosen to place his trust in Ádhamh and fre
 
 #### Mór Greannach
 
-**Age:** 75 (Apparent Age: 75) **Personality Traits:** Mischievous +3, Meddling +2, Trustworthy –1 **Tradition:** Folk Witch
+**Age:** 75 (Apparent Age: 75)<br>
+**Personality Traits:** Mischievous +3, Meddling +2, Trustworthy –1<br>
+**Tradition:** Folk Witch
 
 Mór Greannach (MORE GRENnukh), meaning "grey-beard," gains her name from the thin grey beard that hangs from her aged chin. She is well into her seventies, and all those years have been put to the pursuit of her arts for the benefit of her community. She is feared and distrusted every bit as much as she is revered and consulted.
 
@@ -477,33 +453,30 @@ Of the Pact of Oireadh, Mór Greannach is the one with the widest contacts among
 
 Mór Greannach is also the closest to Oireadh as she lives in nearby Carrowmore.
 
-## Oireadh Story Seeds
-
-The following story seeds serve to introduce Oireadh and its druids.
-
-the infernal illness taking more lives.
-
-#### The Diabolist's Dying Wish
-
-Tuathal's Goetic master has died in Dublin. Among his effects was a large book written in Latin and arcane code, a sum of money, and the request that the book be delivered to Tuathal in Rosbeg. The arcane nature of the book was recognized, however, and it has worked its way to the player covenant through one of their companions. The book on Infernal Lore concentrates mainly on specific demons. Do the magi keep the book, send it to the rightful owner, or investigate further looking for evidence of diabolism beyond the Connacht border?
-
-#### An Evil Wind
-
-When an infernal wind blows disease through the county, the magi find themselves unable to counter its effects. But there are tales of a Fir Domhnann healer living among humans in Connacht. Unable to cross the border, the magi send their trusted companions to find Umor Ard Mac Adar in the Lough Conn hills. Unknown to them, Umor's cousins have ventured into Connacht intent on killing their wayward kin. The companions must run the gauntlet of Umor's cousins and get the healer back to the covenant in time to prevent
-
-#### A True Summoner
-
-When Ádhamh Brathair discovers that Tuathal's arts are infernal in origin he casts his net wider. He begins looking for a true magical summoner to learn from and his quest takes him out of Connacht. He makes contact with the apprentice taken from him, asking her to tell him of any summoners her new covenant encounters. When she is discovered sending messages to Ádhamh, the covenant must confront her origins and loyalties as well as the nature of Ádhamh's unknown research.
-
-#### The Words of Wisdom
-
-A magical spirit, created during Ádhamh Brathair's experiments, flees on the wind, fearful of being enslaved. Stopping near the player covenant, it imparts its knowledge to the villagers around it and, as though a madness has overcome them, they all begin to speak of strange things in a Latin that none of them understand. With the magi quickly involved, they discover that the spirit is a thing of accumulated magical knowledge but with no guidance on how to use it. Discovering that the spirit is already fading, should they let it die and with it the knowledge it contains, or should they guide it back to the one who created it?
-
+> ### Oireadh Story Seeds
+> 
+> The following story seeds serve to introduce Oireadh and its druids.
+> 
+> #### The Diabolist's Dying Wish
+> 
+> Tuathal's Goetic master has died in Dublin. Among his effects was a large book written in Latin and arcane code, a sum of money, and the request that the book be delivered to Tuathal in Rosbeg. The arcane nature of the book was recognized, however, and it has worked its way to the player covenant through one of their companions. The book on Infernal Lore concentrates mainly on specific demons. Do the magi keep the book, send it to the rightful owner, or investigate further looking for evidence of diabolism beyond the Connacht border?
+> 
+> #### An Evil Wind
+> 
+> When an infernal wind blows disease through the county, the magi find themselves unable to counter its effects. But there are tales of a Fir Domhnann healer living among humans in Connacht. Unable to cross the border, the magi send their trusted companions to find Umor Ard Mac Adar in the Lough Conn hills. Unknown to them, Umor's cousins have ventured into Connacht intent on killing their wayward kin. The companions must run the gauntlet of Umor's cousins and get the healer back to the covenant in time to prevent the infernal illness taking more lives.
+> 
+> #### A True Summoner
+> 
+> When Ádhamh Brathair discovers that Tuathal's arts are infernal in origin he casts his net wider. He begins looking for a true magical summoner to learn from and his quest takes him out of Connacht. He makes contact with the apprentice taken from him, asking her to tell him of any summoners her new covenant encounters. When she is discovered sending messages to Ádhamh, the covenant must confront her origins and loyalties as well as the nature of Ádhamh's unknown research.
+> 
+> #### The Words of Wisdom
+> 
+> A magical spirit, created during Ádhamh Brathair's experiments, flees on the wind, fearful of being enslaved. Stopping near the player covenant, it imparts its knowledge to the villagers around it and, as though a madness has overcome them, they all begin to speak of strange things in a Latin that none of them understand. With the magi quickly involved, they discover that the spirit is a thing of accumulated magical knowledge but with no guidance on how to use it. Discovering that the spirit is already fading, should they let it die and with it the knowledge it contains, or should they guide it back to the one who created it?
 
 #### Tuathal an Iarrainn
 
-**Age:** 40 (Apparent Age: 40) **Personality Traits:** Honest +3, Disciplined +2
-
+**Age:** 40 (Apparent Age: 40)<br>
+**Personality Traits:** Honest +3, Disciplined +2<br>
 **Tradition:** Goetic Sorcerer
 
 Tuathal an Iarrainn (TUH-ah-hal AN IR-ran) is a master of the Ars Goetica, which give him the means to summon, bind, and command spirits. There are some who distrust both the means and the source of his magic, but Tuathal seeks never to hide his nature.
@@ -514,7 +487,7 @@ Tuathal maintains a well-equipped workshop in the coastal village of Rosbeg to t
 
 See *Realms of Power: The Infernal* (pages 114–119) for more information on the Goetic Arts.
 
-## Covenfolk
+### Covenfolk
 
 The druids do not have covenfolk as such but the villagers of Oireadh, having been well paid for their hospitality, are loyal to them. Over the years, they have learned where each of the druids can be contacted.
 
@@ -522,16 +495,13 @@ The villagers are particularly wary of those who come to the village looking for
 
 ## The Covenant of Praesis
 
-**Symbol**: A spear formed from thigh bones and a skeletal hand
-
-
-**Season:** Winter
-
+**Symbol**: A spear formed from thigh bones and a skeletal hand<br>
+**Season:** Winter<br>
 **Cathach**: The Gáe Bulg; a spear made from the bones of the monster Coinchenn
 
 Left to fend for itself by the Tribunal, the winter covenant of Praesis fell to foreign adventurers. Once the shining example of friendship between the druids of Ireland and the Order, to some it now represents the dangers posed by outsiders, while to others it demonstrates that Hibernia itself needs to change. Whatever the arguments, the new masters of Praesis face the hard task of dragging the covenant out of winter.
 
-## Cathach
+### Cathach
 
 The Gáe Bulg is a spear made from the bones of the monstrous witch Coinchenn, slain by Art, son of Conn. It is formed from her two great thigh bones and capped with her clawed right hand. If the spear should pierce its target, the clawed hand closes around the target's bones or guts, and it cannot be removed until the target is dead.
 
@@ -539,6 +509,7 @@ Although Coinchenn herself was cruel and hideous, her daughter was beautiful and
 
 Possession of the Gáe Bulg grants the Death Prophecy Virtue (**ArM5**, page 41) to those who wield it. The prophecy is different for every person, but the circumstances always start with the loss of the spear itself.
 
+### History
 
 Praesis was established on the Connacht and Meath border soon after the Treaty of Cnoc Maol Réidh. Intended as a place where magi of the Order could meet with the hedge wizards of Connacht, within a century the purpose of its founding was all but forgotten, and its prestige was already waning.
 
@@ -550,8 +521,7 @@ Praesis was stronger than it appeared, however, and the attack was resisted. Fro
 
 The siege lasted the turn of four seasons of stand-off, during which time numerous mundane mercenaries and several young magi, allies to both sides, lost their lives. While the covenants of Hibernia debated, the war continued. The sides seemed evenly matched, man-for-man and magic-for-magic, but Ballack's nerve held out longer. As the last of the Praesis' allies fled, Báetáin Ua Traimair of Praesis negotiated a peace with Ballack; the cathach in return for safe passage for Meadhbh. The terms were accepted and Ballack has been in control of Praesis ever since. Meadhbh claimed sanctuary at the covenant of Qui Sonant Pro Quieto.
 
-
-## Setting and Physical Description
+### Setting and Physical Description
 
 Praesis occupies a stone tower raised on a wooded island in Lough Ree. Sitting between Connacht and Meath, it has the village of Annaghmore to the west and Agharanagh to the east. It is far enough from both shores that spells with Voice range do not carry. The rubble from the original tower and covenant outbuildings lies scattered around and the new tower is the result of Hermetic ritual.
 
@@ -561,23 +531,22 @@ The location was originally chosen for its symbolism, sitting as it does between
 
 The western shore of Lough Ree is a faerie trod (*Realms of Power: Faerie*, page 21). The natural boundary has a Faerie aura of 5 and it has the power to take the traveler to a number of other trods across Connacht.
 
-## Culture and Traditions
+### Culture and Traditions
 
 Praesis is cold and austere, and the ruins of laboratories can be seen from nearly every window in the tower, serving as a reminder of the conflict. The covenant holds a weekly council to determine the whereabouts, state, and intent of Meadhbh and her supporters, and to ensure their defenses are as strong as possible in case they attempt to retake the covenant.
 
 Through the last two seasons Guillaume Flambeau of Normandy has been briefing his colleagues on interesting sites his spies have found across the Connacht border. Praesis often plays host to a changing roster of foreign magi recently arrived in Hibernia, and the gaze of these magi is shifting to Connacht with growing interest.
 
-#### The Contested Isle
-
 Villages on both sides of Lough Ree are more fearful of magi and their servants than usual, only reluctantly providing goods and service. Treat those associated with Praesis as having the Infamous Flaw (**ArM5**, page 55) and the level 4 bad Reputation that goes with it.
 
-## Magi
+### Magi
 
 There are six magi who live at Praesis and a further two apprentices. The four principals are described below.
 
 #### Ballack of Tytalus
 
-**Age:** 80 (Apparent Age: 65) **Personality Traits:** Confident +3, Driven +2, Patient +1
+**Age:** 80 (Apparent Age: 65)<br>
+**Personality Traits:** Confident +3, Driven +2, Patient +1
 
 Ballack, the new Lord of Praesis, rejoiced in turning Hibernia's traditions on the Irish and taking his revenge against Meadhbh. But it speaks to the character of the man that Holzner's head still hangs from the palisade walls exactly where Meadhbh put it years ago.
 
@@ -585,32 +554,31 @@ He displays a festering contempt for the Irish magi and their outdated ways and 
 
 Ballack has spent the last year consolidating his hold on the crumbling ruins of Praesis but his war against Meadhbh cost him dearly, and he owes vis and favors to a number of magi. For all his confident swagger he knows that until his debts are repaid his position is merely on loan.
 
- With his personal resources exhausted, he has been forced to borrow yet more vis and casting tablets from his distant benefactors. He is keen to find a way for the covenant to pay for itself and soon. He cannot be seen to abandon his prize.
+With his personal resources exhausted, he has been forced to borrow yet more vis and casting tablets from his distant benefactors. He is keen to find a way for the covenant to pay for itself and soon. He cannot be seen to abandon his prize.
 
 #### Báetáin Ua Traimair
 
-**Age:** 60 (Apparent Age: 47) **Personality Traits:** Regretful +3, Conflicted +2, Pragmatic +1
+**Age:** 60 (Apparent Age: 47)<br>
+**Personality Traits:** Regretful +3, Conflicted +2, Pragmatic +1
 
 Báetáin Ua Traimair is a traitor. Originally one of the magi besieged *by* Ballack, his support for Meadhbh waned as the siege looked increasingly hopeless. He ultimately chose the survival of Praesis over its destruction and delivered the Gáe Bulg to Ballack. When this was discovered, the magi of Praesis saw that they had lost the fight and fled.
 
-He rarely leaves the old tower now. Every time he does he passes the burned homes of those he once knew. He can still hear their screams as the fire rained
-
-## Story Seed: Remember Who You Work For
-
-When a player character becomes involved in a cult or society, they are ordered to take a message to the errant Ballack who has been forgetting the debts he owes to some powerful and mysterious benefactors. While not a member of the cult, Ballack benefited from their aid. Can the younger magus exert the authority of the cult over Ballack?
-
-**Story Seed: The Broken Treaty**
-
-Faolán of the Younger House fled to Connacht before the fall of Praesis. His parens was one of the true Ollamhain (see *Realms of Power: Faerie*, page 135) and Faolán has a limited grasp on the Arts. As a result, he sees himself as closer to the druids of Connacht than the Order. While he may have friends within the Coill Trí, his extended stay across the border is a clear breach of the treaty. When the Tribunal realizes where Faolán is, and that he is turning his back on the Order, the player characters are commissioned to find him and bring him back to the Tribunal with or without the assistance of the Coill Trí. The player characters find themselves on a manhunt in hostile territory.
-
-
-down from the sky. And he now shares the covenant with Guillaume, their killer. But for all that, Praesis still stands and can be rebuilt.
+He rarely leaves the old tower now. Every time he does he passes the burned homes of those he once knew. He can still hear their screams as the fire rained down from the sky. And he now shares the covenant with Guillaume, their killer. But for all that, Praesis still stands and can be rebuilt.
 
 Báetáin is one of the few native magi of House Tremere in Hibernia and has been stationed at Praesis all his life. His parens retired to Coeris some years ago, taking Báetáin's sigil with him.
 
+> ### Story Seed: Remember Who You Work For
+> 
+> When a player character becomes involved in a cult or society, they are ordered to take a message to the errant Ballack who has been forgetting the debts he owes to some powerful and mysterious benefactors. While not a member of the cult, Ballack benefited from their aid. Can the younger magus exert the authority of the cult over Ballack?
+> 
+> #### Story Seed: The Broken Treaty
+> 
+> Faolán of the Younger House fled to Connacht before the fall of Praesis. His parens was one of the true Ollamhain (see *Realms of Power: Faerie*, page 135) and Faolán has a limited grasp on the Arts. As a result, he sees himself as closer to the druids of Connacht than the Order. While he may have friends within the Coill Trí, his extended stay across the border is a clear breach of the treaty. When the Tribunal realizes where Faolán is, and that he is turning his back on the Order, the player characters are commissioned to find him and bring him back to the Tribunal with or without the assistance of the Coill Trí. The player characters find themselves on a manhunt in hostile territory.
+
 #### Guillaume Flambeau of Normandy
 
-**Age:** 65 (Apparent Age: 52) **Personality Traits:** Bombastic +3, Aggressive +2, Patient –1
+**Age:** 65 (Apparent Age: 52)<br>
+**Personality Traits:** Bombastic +3, Aggressive +2, Patient –1
 
 Unable to step out of the shadow of Montverte, the covenant of his apprenticeship, Guillaume sought another Tribunal on which to make his mark. He was attracted to Hibernia ten years ago by the tales that he had heard during his apprenticeship. He is dangerously proficient with Ignem magic and has already taken the cathach of one independent magus, claiming both his covenant resources and his apprentice, who he is now training in his own image.
 
@@ -620,18 +588,15 @@ He has an ongoing rivalry with the maga Gráinne inghean Uaitéar of the covenan
 
 #### Cacht cultas Críamoine
 
-**Age:** 50 (Apparent Age: 40) **Personality Traits:** Remote +3, Cold +2, Precise +1
+**Age:** 50 (Apparent Age: 40)<br>
+**Personality Traits:** Remote +3, Cold +2, Precise +1
 
-Brought up in the covenant of Qui Sonant, Cacht is a Hibernian native, a maga of House Criamon chosen
-
-
+Brought up in the covenant of Qui Sonant, Cacht is a Hibernian native, a maga of House Criamon chosen by the Path of Strife (*Houses of Hermes: Mystery Cults, page 67*). Her rejection of Criamon’s traditional morality drew her to conflict and the Siege of Praesis offered a unique challenge: the destruction of the status quo.
 
 Having killed in Ballack's name, she subsequently lost interest in his aims. She has no particular cause and resides at Praesis only until one is brought to her, but she listens intently to Guillaume's reports on Connacht sensing a new conflict in the making.
 
-## Covenfolk
+### Covenfolk
 
 Aside from a few personal servants brought by the conquering magi, the covenant has yet to recruit new covenfolk. The exception is the turb of Breifne mercenaries led by Guillaume. They are content to work for to Guillaume as long as they are paid well and have a plentiful supply of food, fighting, wine, and women. The area around Praesis has learned to fear the men of Breifne.
 
 The giant-blooded Oscar von Harz is entirely without fear and is utterly loyal to Ballack. The white-haired giant is the current guardian of the Gáe Bulg and he can be found on a wooden platform looking out to Meath holding the terrible spear in challenge to those who would try to steal it. While outside the Aegis of the Hearth as convention dictates, the tower and the spear are actually within a regio, out of sight of the mortal world, and are well-warded and protected with magic. Oscar has seen his death, thanks to the magic of the Gáe Bulg. All anyone knows is that he has taken an interest in the legends of the Fir Bolg since being given the spear.
-
-

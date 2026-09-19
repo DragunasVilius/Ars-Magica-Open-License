@@ -112,39 +112,39 @@ Digital Version 1.0
   * Hermetic Irish Terminology
 
 * [Chapter 5: The Province of Connacht](05-the-province-of-connacht.md)
-  * Geography
-  * The Peoples of Connacht
-  * &emsp;The Connachta
-  * &emsp;The Fir Bolg
-  * &emsp;The Druids and the Coill Trí
-  * &emsp;Booleys and Crannógs
-  * The Kingdom of Bréifne
-  * &emsp;Kings of Bréifne
-  * &emsp;West Bréifne
-  * &emsp;East Bréifne
-  * The Kingdom of Connacht
-  * &emsp;The Archdiocese of Tuam
-  * &emsp;The Diocese of Killala
-  * &emsp;The Diocese of Achonry
-  * &emsp;The Diocese of Mayo
-  * &emsp;The Diocese of Tuam
-  * &emsp;The Diocese of Elphin
-  * &emsp;The Diocese of Annaghdown
-  * &emsp;The Diocese of Cill Mhic Dhuach
-  * &emsp;The Diocese of Clonfert
-  * The Pact of Oireadh
-  * &emsp;History
-  * &emsp;Setting & Physical Description
-  * &emsp;Culture and Traditions
-  * &emsp;Magi
-  * &emsp;Covenfolk
-  * The Covenant of Praesis
-  * &emsp;Cathach
-  * &emsp;History
-  * &emsp;Setting & Physical Description
-  * &emsp;Culture and Traditions
-  * &emsp;Magi
-  * &emsp;Covenfolk
+  * [Geography](05-the-province-of-connacht.md#geography)
+  * [The Peoples of Connacht](05-the-province-of-connacht.md#the-peoples-of-connacht)
+  * &emsp;[The Connachta](05-the-province-of-connacht.md#the-connachta)
+  * &emsp;[The Fir Bolg](05-the-province-of-connacht.md#the-fir-bolg)
+  * &emsp;[The Druids and the Coill Trí](05-the-province-of-connacht.md#the-druids-and-the-coill-trí)
+  * &emsp;[Booleys and Crannógs](05-the-province-of-connacht.md#booleys-and-crannógs)
+  * [The Kingdom of Bréifne](05-the-province-of-connacht.md#the-kingdom-of-bréifne)
+  * &emsp;[Kings of Bréifne](05-the-province-of-connacht.md#kings-of-bréifne)
+  * &emsp;[West Bréifne](05-the-province-of-connacht.md#west-bréifne)
+  * &emsp;[East Bréifne](05-the-province-of-connacht.md#east-bréifne)
+  * [The Kingdom of Connacht](05-the-province-of-connacht.md#the-kingdom-of-connacht)
+  * &emsp;[The Archdiocese of Tuam](05-the-province-of-connacht.md#the-archdiocese-of-tuam)
+  * &emsp;[The Diocese of Killala](05-the-province-of-connacht.md#the-diocese-of-killala)
+  * &emsp;[The Diocese of Achonry](05-the-province-of-connacht.md#the-diocese-of-achonry)
+  * &emsp;[The Diocese of Mayo](05-the-province-of-connacht.md#the-diocese-of-mayo)
+  * &emsp;[The Diocese of Tuam](05-the-province-of-connacht.md#the-diocese-of-tuam)
+  * &emsp;[The Diocese of Elphin](05-the-province-of-connacht.md#the-diocese-of-elphin)
+  * &emsp;[The Diocese of Annaghdown](05-the-province-of-connacht.md#the-diocese-of-annaghdown)
+  * &emsp;[The Diocese of Cill Mhic Dhuach](05-the-province-of-connacht.md#the-diocese-of-cill-mhic-dhuach)
+  * &emsp;[The Diocese of Clonfert](05-the-province-of-connacht.md#the-diocese-of-clonfert)
+  * [The Pact of Oireadh](05-the-province-of-connacht.md#the-pact-of-oireadh)
+  * &emsp;[History](05-the-province-of-connacht.md#history)
+  * &emsp;[Setting & Physical Description](05-the-province-of-connacht.md#setting-and-physical-description)
+  * &emsp;[Culture and Traditions](05-the-province-of-connacht.md#culture-and-traditions)
+  * &emsp;[Magi](05-the-province-of-connacht.md#magi)
+  * &emsp;[Covenfolk](05-the-province-of-connacht.md#covenfolk)
+  * [The Covenant of Praesis](05-the-province-of-connacht.md#the-covenant-of-praesis)
+  * &emsp;[Cathach](05-the-province-of-connacht.md#cathach)
+  * &emsp;[History](05-the-province-of-connacht.md#history-1)
+  * &emsp;[Setting & Physical Description](05-the-province-of-connacht.md#setting-and-physical-description-1)
+  * &emsp;[Culture and Traditions](05-the-province-of-connacht.md#culture-and-traditions-1)
+  * &emsp;[Magi](05-the-province-of-connacht.md#magi-1)
+  * &emsp;[Covenfolk](05-the-province-of-connacht.md#covenfolk-1)
 
 * [Chapter 6: The Province of Leinster](06-the-province-of-leinster.md)
   * [The Peoples of Leinster](06-the-province-of-leinster.md#the-peoples-of-leinster)
@@ -404,16 +404,16 @@ Digital Version 1.0
 * Extract from the Journey of Cernach an Chairn
 * The Battle of Teamhrach
 * The Ambassadors to the Tribunal
-* Story Seed: Falling on Deaf Ears
-* The Diocese of Triburnia
-* Queen Maedhbh
-* An Appeal
-* Story Seed: The Devils of Tuam
-* Story Seed: The Swords of the Fer Caille
-* Story Seed: The Cry of the Banshee
-* Hedge Magic and Original Research
-* Oireadh Story Seeds
-* Story Seed: Remember Who You Work For
+* [Story Seed: Falling on Deaf Ears](05-the-province-of-connacht.md#story-seed-falling-on-deaf-ears)
+* [The Diocese of Triburnia](05-the-province-of-connacht.md#the-diocese-of-triburnia)
+* [Queen Maedhbh](05-the-province-of-connacht.md#queen-maedhbh)
+* [An Appeal](05-the-province-of-connacht.md#story-seed-an-appeal)
+* [Story Seed: The Devils of Tuam](05-the-province-of-connacht.md#story-seed-the-devils-of-tuam)
+* [Story Seed: The Swords of the Fer Caille](05-the-province-of-connacht.md#story-seed-the-swords-of-the-fer-caille)
+* [Story Seed: The Cry of the Banshee](05-the-province-of-connacht.md#story-seed-the-cry-of-the-banshee)
+* [Hedge Magic and Original Research](05-the-province-of-connacht.md#hedge-magic-and-original-research)
+* [Oireadh Story Seeds](05-the-province-of-connacht.md#oireadh-story-seeds)
+* [Story Seed: Remember Who You Work For](05-the-province-of-connacht.md#story-seed-remember-who-you-work-for)
 * [Story Seed: The Bay of Bannow](06-the-province-of-leinster.md#story-seed-the-bay-of-bannow)
 * [Story Seed: The Marshal's Curse](06-the-province-of-leinster.md#story-seed-the-marshals-curse)
 * [Story Seed: Helen of Ireland](06-the-province-of-leinster.md#story-seed-helen-of-ireland)
