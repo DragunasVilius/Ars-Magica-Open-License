@@ -356,15 +356,15 @@ Digital Version 1.0
   * &emsp;[Solitary Faeries](11-the-faerie-landscape.md#solitary-faeries)
 
 * [Chapter 12: The Divine Landscape](12-the-divine-landscape.md)
-  * The Two Churches of Ireland
-  * &emsp;Dioceses of Ireland
-  * &emsp;The Irish Church
-  * &emsp;The Anglo-Irish Church
-  * &emsp;Petitioning the Pope
-  * Saints of Ireland
-  * &emsp;Some Irish Saints
-  * &emsp;New Powers & Curses for Irish Saints
-  * Divine Tradition: the Céli Dé
+  * [The Two Churches of Ireland](12-the-divine-landscape.md#the-two-churches-of-ireland)
+  * &emsp;[Dioceses of Ireland](12-the-divine-landscape.md#dioceses-of-ireland)
+  * &emsp;[The Irish Church](12-the-divine-landscape.md#the-irish-church)
+  * &emsp;[The Anglo-Irish Church](12-the-divine-landscape.md#the-anglo-irish-church)
+  * &emsp;[Petitioning the Pope](12-the-divine-landscape.md#petitioning-the-pope)
+  * [Saints of Ireland](12-the-divine-landscape.md#saints-of-ireland)
+  * &emsp;[Some Irish Saints](12-the-divine-landscape.md#some-irish-saints)
+  * &emsp;[New Powers & Curses for Irish Saints](12-the-divine-landscape.md#new-powers-and-curses-for-irish-saints)
+  * [Divine Tradition: the Céli Dé](12-the-divine-landscape.md#divine-tradition-the-céli-dé)
 
 * [Chapter 13: The Infernal Landscape](13-the-infernal-landscape.md)
   * The First Acts of the Infernal
@@ -492,9 +492,9 @@ Digital Version 1.0
 * [Caílte mac Rónáin](11-the-faerie-landscape.md#caílte-mac-rónáin)
 * [Donn](11-the-faerie-landscape.md#donn)
 * [The Head of Arastotail](11-the-faerie-landscape.md#the-head-of-arastotail)
-* An Example of Diocesan Politics
-* The Blessed Church Bells of Ireland
-* A Note on Naming
+* [An Example of Diocesan Politics](12-the-divine-landscape.md#an-example-of-diocesan-politics)
+* [The Blessed Church Bells of Ireland](12-the-divine-landscape.md#the-blessed-church-bells-of-ireland)
+* [A Note on Naming](12-the-divine-landscape.md#a-note-on-naming)
 * Infernal Relic: The Cup of Partholon
 * The Library of Vigil
 * The Harvest Thief

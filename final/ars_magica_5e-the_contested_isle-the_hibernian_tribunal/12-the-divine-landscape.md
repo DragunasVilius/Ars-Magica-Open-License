@@ -1,12 +1,6 @@
-## Chapter Twelve
-
-# The Divine Landscape
+# Chapter Twelve: The Divine Landscape
 
 Ireland is a beautiful land, haunted by angels, forged by saints, littered with monasteries and the tiny cells of hermit mystics. The people are pious, and call upon the Divine often, but they have a very pragmatic understanding of religion. This is in sharp contrast with the English churchmen who have claimed much authority on the island.
-
-## Dioceses of Ireland
-
-The division of Ireland into dioceses came later than in England and represents an innovation that is still at times contentious. By last century the reform party had managed to impose a diocesan organization, but relations between the bishops and the abbots who head the ancient *comarba* (see below) are still troubled, with questions of authority still raised, though by 1220 the bishops' authority has become paramount. Most traditionalists still look to the *comarba* for leadership, and as the majority of Irish clergy are members of religious orders this is a natural tendency. Secular clergy — priests
 
 ## The Two Churches of Ireland
 
@@ -14,34 +8,35 @@ In Western Mythic Europe there is only one Church, which looks to the Pope in Ro
 
 Complicating the situation is the divide in the Irish Church between a party dedicated to reform of the native institution, and the traditionalists who look back to the old ways of monastic leadership in the church, based on the traditions of the apostolic saints.
 
-## An Example of Diocesan Politics
+### Dioceses of Ireland
 
-The story of the dispute between the dioceses of Waterford and Lismore demonstrates the spirit of the times. The Anglo-Irish Bishop of Waterford planned to incorporate Lismore into his diocese. He took a party of knights and seized the cathedral, expelling the bishop, Felix. When the Bishop of Waterford died in 1199, Bishop Felix returned to his cathedral, but another one of King John's appointees took over at Waterford. This man, Bishop Robert, then appealed to the papal legate. The dioceses were officially joined and Felix passed into retirement. The cathedral chapter of Lismore ignored the legate and elected a new bishop, Malachy, whom Bishop Robert's men promptly seized and imprisoned. He escaped and made his way to Rome, where Pope Innocent III re-instituted the diocese of Lismore and sent Bishop Malachy back to his seat; he arrived in 1204 to find his rival Robert had died.
+The division of Ireland into dioceses came later than in England and represents an innovation that is still at times contentious. By last century the reform party had managed to impose a diocesan organization, but relations between the bishops and the abbots who head the ancient *comarba* (see below) are still troubled, with questions of authority still raised, though by 1220 the bishops' authority has become paramount. Most traditionalists still look to the *comarba* for leadership, and as the majority of Irish clergy are members of religious orders this is a natural tendency. Secular clergy — priests — are however becoming more common and the English have made the training of priests a priority, with Dublin as the center for this initiative. Bishops often attempt to expand their diocesan boundaries, and incorporate smaller or weaker dioceses in the same way lords fight over their lands, trying to extend their territories. Before the English arrival this diocesan conflict was often caused by clan politics, with bishops closely allied with local kings. Sometimes the motive was purely the internal struggle between reformers and traditionalists. Today the struggle often reflects the Anglo-Irish Church's attempt to claim spiritual leadership over all of Ireland.
 
-King John then appointed a Welshman, Bishop David, to Waterford, who once again drove Malachy from Lismore. Malachy set off to Rome, once again had his position confirmed with men appointed to ensure this was done, and returned home in 1207 to find Bishop David had been assassinated.
+> ### An Example of Diocesan Politics
+> 
+> The story of the dispute between the dioceses of Waterford and Lismore demonstrates the spirit of the times. The Anglo-Irish Bishop of Waterford planned to incorporate Lismore into his diocese. He took a party of knights and seized the cathedral, expelling the bishop, Felix. When the Bishop of Waterford died in 1199, Bishop Felix returned to his cathedral, but another one of King John's appointees took over at Waterford. This man, Bishop Robert, then appealed to the papal legate. The dioceses were officially joined and Felix passed into retirement. The cathedral chapter of Lismore ignored the legate and elected a new bishop, Malachy, whom Bishop Robert's men promptly seized and imprisoned. He escaped and made his way to Rome, where Pope Innocent III re-instituted the diocese of Lismore and sent Bishop Malachy back to his seat; he arrived in 1204 to find his rival Robert had died.
+> 
+> King John then appointed a Welshman, Bishop David, to Waterford, who once again drove Malachy from Lismore. Malachy set off to Rome, once again had his position confirmed with men appointed to ensure this was done, and returned home in 1207 to find Bishop David had been assassinated.
+> 
+> King John did not appoint a bishop of Waterford until 1210, when Bishop Robert II was consecrated. He, like his predecessors, set off with armed men to Lismore, seized Malachy, and expelled him. The Archbishop of Cashel insisted he be reinstated and he returned to Lismore as bishop, but soon after while celebrating mass he was seized by armed men and dragged away. The Bishop of Waterford participated personally in the abduction and ordered his brutal torture. Robert was tried for his crime, but no one dared convict him and earn the displeasure of the English king.
+> 
+> Malachy was released back to Lismore, narrowly surviving an assassination attempt by agents of Robert outside the church door. Once again the Pope was petitioned, this time by both factions, and Malachy was restored to Lismore. The death of King John ended the support for the Bishop of Waterford who, like Malachy, remains in office till this day, and the dispute seems to have ended for the time being at least.
 
-King John did not appoint a bishop of Waterford until 1210, when Bishop Robert II was consecrated. He, like his predecessors, set off with armed men to Lismore, seized Malachy, and expelled him. The Archbishop of Cashel insisted he be reinstated and he returned to Lismore as bishop, but soon after while celebrating mass he was seized by armed men and dragged away. The Bishop of Waterford participated personally in the abduction and ordered his brutal torture. Robert was tried for his crime, but no one dared convict him and earn the displeasure of the English king.
+> ### The Blessed Church Bells of Ireland
+>
+> Ancient Irish church bells have an unusual shape, like hollow pears, which contain the clapper. Such bells are now rare, but where they still exist they hold a peculiar power to drive away ghosts from within earshot of them when rung. This effect is as *Ward Against Spirits* 15, with a Penetration of 15 and the Range: Voice, defined by the sounds of the bells.
 
-Malachy was released back to Lismore, narrowly surviving an assassination attempt by agents of Robert outside the church door. Once again the Pope was petitioned, this time by both factions, and Malachy was restored to Lismore. The death of King John ended the support for the Bishop of Waterford who, like Malachy, remains in office till this day, and the dispute seems to have ended for the time being at least.
-
-
-
-Ancient Irish church bells have an unusual shape, like hollow pears, which contain the clapper. Such bells are now rare, but where they still exist they hold a peculiar power to drive away ghosts from within earshot of them when rung. This effect is as *Ward Against Spirits* 15, with a Penetration of 15 and the Range: Voice, defined by the sounds of the bells.
-
-— are however becoming more common and the English have made the training of priests a priority, with Dublin as the center for this initiative. Bishops often attempt to expand their diocesan boundaries, and incorporate smaller or weaker dioceses in the same way lords fight over their lands, trying to extend their territories. Before the English arrival this diocesan conflict was often caused by clan politics, with bishops closely allied with local kings. Sometimes the motive was purely the internal struggle between reformers and traditionalists. Today the struggle often reflects the Anglo-Irish Church's attempt to claim spiritual leadership over all of Ireland.
-
-## The Irish Church
+### The Irish Church
 
 The Irish Church has developed a unique flavor and many practices that are unfamiliar to the English churchmen who have come to Ireland. While the Irish Church is fiercely loyal to the Pope, and frequently appeals to the papacy on questions of religious practice, some within the Irish Church felt that the institution desperately requires reform, and in the 12th century a Reform party arose. Many synods were held where ecclesiastical abuses were ended, and matters of discipline (how the church is run) were debated. The reform party, based largely among the bishops, has done much to change the church in the direction of the customs and practice of the rest of the Western Church. A traditionalist party, often synonymous with the abbots of older monasteries, has resisted these changes. Both parties continue the debate not on matters of doctrine and theology, where there is general agreement, but on the customs and organization of the Irish Church.
 
-The Irish Church is based upon agreements, charters, deals and individual situations, not upon the complex structures that have evolved in much of Western Mythic Europe. Devils may be allowed their due, and faeries their place to dance, if in ancient times a saint gave them that right. It is not a nationalist church; whatever unity can be found within it, and there is precious little,
-
-is evolving in reaction to the injustices inflicted upon it by the English churchmen who are seizing control of the hierarchy.
+The Irish Church is based upon agreements, charters, deals and individual situations, not upon the complex structures that have evolved in much of Western Mythic Europe. Devils may be allowed their due, and faeries their place to dance, if in ancient times a saint gave them that right. It is not a nationalist church; whatever unity can be found within it, and there is precious little, is evolving in reaction to the injustices inflicted upon it by the English churchmen who are seizing control of the hierarchy.
 
 #### Paruchia and Comarba
 
 The Irish Church has an unusual unit of organization called the paruchia. A paruchia is not a parish in this context; rather it is a number of monasteries that owe allegiance to their founder's monastery, in a similar way to the vassal-liege relations practiced by covenants in the Normandy Tribunal (see *The Lion & The Lily,* page 28). These monasteries and the lands they administer and parishes they serve may be, indeed usually are, geographically distant from each other, but they make up the paruchia, which is effectively under the jurisdiction of a *comarba* (COM-orb-ah), an abbot-successor of one of the saintly founders. So the paruchia of St. Columba consists of a number of monasteries under the spiritual leadership of the preeminent abbey, and the abbot thereof bears the title "*comarba Colum Cille*." This system was attacked by the reformers in the 11th and 12th century and replaced by geographically contiguous dioceses, and now the *comarba's* influence is largely limited to the monasteries loyal to them. The tension between traditionalist advocates of the ancient *comarba* and reform party adherents of the bishops persists, but the last fifty years have seen almost all of Ireland fall under the sway of the diocesan party.
 
+#### Confession
 
 Confession is a central sacrament of Christianity. The genuinely contrite sinner may confess his sins to a priest, who offers absolution, and imposes a penance. A large literature of penitentials, handbooks with suggested penances for various sins exists in Latin, and Irish writers have written so many penitentials that their expertise in this field is respected throughout the Church. Irish traditionalists, while condemning the practice of absolving the same sin repeatedly, were more sympathetic to private confession, and indeed may have influenced the whole Western Church with their belief that penance should be a largely private matter, and that the confession must be a strictly private matter between priest and the sinner. Indeed breaking that arrangement is a sin so heinous that it is believed by many to be unforgivable.
 
@@ -49,12 +44,9 @@ Confession is a central sacrament of Christianity. The genuinely contrite sinner
 
 *There are four things for which no penance can be done in the land of Ireland, namely, sleeping with a dead person; sleeping with a sister or daughter; falling into sin while holding higher Orders (i.e. that of Bishop or Priest); and divulging a confession by saying 'this is what this man did'.*
 
-> — The Rule of Saint Maelrúain of Tallaght
+— The Rule of Saint Maelrúain of Tallaght
 
-There are certain sins so vile that no penance may be done for them, and anyone guilty of them may be excommunicated, or denied the sacrament and often then forced into exile. God alone forgives sins, and the traditionalist Irish Church offers no second chance. Likewise, any sin which has been forgiven and then is repeated after due penance may be considered unforgivable, a hard line approach rarely found elsewhere, where the assumption is that pretty much everyone sins all of the time. Many reform churchmen are more sympathetic to a sincerely contrite sinner and may pronounce very steep penances to try to save the genuinely repentant, and allow that a priest or bishop might commit venial sins and be forgiven; mortal sins remain unforgivable. The English church-
-
-
-men pragmatically allow penances on the whole, and find the Irish approach theologically suspect, but certainly any priest committing any of these sins and caught will be hauled before an ecclesiastical court, and probably be defrocked and subject to harsh punishment.
+There are certain sins so vile that no penance may be done for them, and anyone guilty of them may be excommunicated, or denied the sacrament and often then forced into exile. God alone forgives sins, and the traditionalist Irish Church offers no second chance. Likewise, any sin which has been forgiven and then is repeated after due penance may be considered unforgivable, a hard line approach rarely found elsewhere, where the assumption is that pretty much everyone sins all of the time. Many reform churchmen are more sympathetic to a sincerely contrite sinner and may pronounce very steep penances to try to save the genuinely repentant, and allow that a priest or bishop might commit venial sins and be forgiven; mortal sins remain unforgivable. The English churchmen pragmatically allow penances on the whole, and find the Irish approach theologically suspect, but certainly any priest committing any of these sins and caught will be hauled before an ecclesiastical court, and probably be defrocked and subject to harsh punishment.
 
 Monks who shed blood or engage in serious sin can be forgiven and avoid excommunication, but exile is usually decreed as a penance. This was the fate of Saint Columba, one of the greatest Irish saints and one of the three patron saints of Ireland.
 
@@ -68,15 +60,13 @@ Just as church schools are available in much of Mythic Europe (see *Art & Academ
 
 #### The Manaim and Hereditary Priesthood
 
-Many Irish monasteries develop a sizable village around them, often the only villages in the region. Living alongside the monks, these "lay brothers" observe devotions, but marry, bear children, and fight for the defense of the community. Drawn from the local sept, these *manaim*
-
-(MON-om) could become priests, or be appointed bishops, and many who did were nephews of the monks. When one visits a monastery, the whole community revolves around it; monks inside, and *manaim* living outside, but all fiercely loyal to the abbot and local sept.
+Many Irish monasteries develop a sizable village around them, often the only villages in the region. Living alongside the monks, these "lay brothers" observe devotions, but marry, bear children, and fight for the defense of the community. Drawn from the local sept, these *manaim* (MON-om) could become priests, or be appointed bishops, and many who did were nephews of the monks. When one visits a monastery, the whole community revolves around it; monks inside, and *manaim* living outside, but all fiercely loyal to the abbot and local sept.
 
 Some priests marry, or have concubines, and their children then inherit their position and titles in the Church, and some bishoprics have become effectively hereditary. The reform party opposes these traditions as abuses, as does the Anglo-Irish church, but even a great reformer like Laurence O'Toole (Laurence Uí Tuathail), the former bishop of Dublin who sought reconciliation with the English, accepted the practice, which was ancient and meant many of the clergy were directly related to powerful families and kings. In response to the English aggression against the Irish church he ordained a number of Uí Conchobhair bishops in the last decades of the 12th century, to strengthen the influence of the Connacht king and preserve the Irish church traditions.
 
 Generally the reformers seek to disengage monks from local political loyalties, and sept influence, and the Anglo-Irish want to reorganize the monasteries in lines with the continental monastic orders.
 
-## The Anglo-Irish Church
+### The Anglo-Irish Church
 
 Despite the reform movement in Ireland, the English churchmen tend to condemn both reformers and traditionalists and push for a reform of the Church in Ireland in line with English practice. Indeed, many Irish bishops have been replaced with English churchmen. Such a practice is not unique to Ireland; even in Wales there is a tradition of not electing native born bishops where possible, owing to the influence of the English king. This is why even the fiercely loyal Giraldus Cambrensis struggled to achieve ecclesiastical rank in his own country. This became official policy under Prince John, and was later confirmed by a decree of Henry II: no native born Irishman was to be made a bishop, and the cathedral chapters were to accept royal appointments rather than, as was traditional, electing their bishops. This has proven the major bone of contention between the reform party of the Irish Church and the Anglo-Irish Church, as they resent ecclesiastical preferment being granted to the English and their own exclusion from office.
 
@@ -84,154 +74,105 @@ In 1219 the Archbishop of Cashel set off from Munster to petition the Pope on be
 
 Soon after his arrival in Ireland in 1171, King Henry II demanded a synod of the Irish Church be called at Cashel. This synod generally furthered the aims of the reform party, and was concerned with matters of church organization. However a provincial Church council held at Dublin at Prince John's request in 1186 demonstrated more clearly how far reform was to go. Wooden altars were to be replaced by stone ones, church furnishings overhauled, and all cemeteries to be blessed by a bishop before use. Mass was no longer to be celebrated in private chapels except with blessing of the local priest and bishop, and clerical celibacy was to be strictly enforced. The only women to be allowed to live as servants in a priest's house were the very elderly, and blood relatives, to prevent any taint of suspicion. Marriage customs were to be reformed, and concubinage strictly discouraged; no one born of a concubine could become a priest. Tithes were to be strictly enforced, laymen no longer to exact monies or hospitality by tradition from churches, and finally the church was deprive mercenary archers of Christian burial. These reforms were limited in effect to Leinster, Meath, and later those parts of Ulster under English control, but their influence was to be felt throughout the Irish Church.
 
-There is a political aspect to this unwillingness to accept that the Irish Church can put its own house in order. Pope Adrian's letter *Laudabiliter* that authorized the English invasion of Ireland was granted in order that the Irish Church's perceived faults could be mended, and Ireland brought into line with English ecclesiastical tradition. As such to recognize the Irish Church as well run and
-
-
-## A Note on Naming
-
-Where two names are given for a saint, the first is the anglicized form given for familiarity (and ease of looking up more on information these saints), the second the Irish used in the 13th century. Some saints are also known by Latin names — Patrick, for example, is Patricius. Modern Irish renders it Padraig, and in his lifetime he was called Cothraige, but that name is long forgotten by 1220. St. Brigid is often rendered St. Brigit, or even Mary of the Gael, a popular title for her. Use whatever names best suits your troupe's needs.
-
-disciplined is to undo the authority of the English crown's claim to the land.
+There is a political aspect to this unwillingness to accept that the Irish Church can put its own house in order. Pope Adrian's letter *Laudabiliter* that authorized the English invasion of Ireland was granted in order that the Irish Church's perceived faults could be mended, and Ireland brought into line with English ecclesiastical tradition. As such to recognize the Irish Church as well run and disciplined is to undo the authority of the English crown's claim to the land.
 
 Now, however, the Pope has accepted the right of Irish clergy to hold office as bishops in their own country, and has rebuked the English for exceeding their authority. The fractious Irish church has begun to unite in the face of the organized hierarchy of the Anglo-Irish, who follow the clear ecclesiastical leadership of the bishop of Dublin, and who claim that Irish resistance to church reform is little more than a mask for rebellion against the authority of King Henry III.
 
-## Petitioning the Pope
+> ### A Note on Naming
+>
+> Where two names are given for a saint, the first is the anglicized form given for familiarity (and ease of looking up more on information these saints), the second the Irish used in the 13th century. Some saints are also known by Latin names — Patrick, for example, is Patricius. Modern Irish renders it Padraig, and in his lifetime he was called Cothraige, but that name is long forgotten by 1220. St. Brigid is often rendered St. Brigit, or even Mary of the Gael, a popular title for her. Use whatever names best suits your troupe's needs.
+
+### Petitioning the Pope
 
 While now clearly divided into two rival churches, to the extent that the papacy files letters from Irish Bishops and Anglo-Irish bishops as if from separate nations, and occasionally sends legates to one or the other church, both parties are equally clearly part of the Western Church and obedient to the Pope. There is a long tradition in Ireland of appealing ecclesiastical decisions to the highest spiritual authority in the world, the Pope, and the Pope's decision is final, at least until a later appeal changes it. For centuries Irish churchmen have petitioned the Pope to resolve disputes, and this may have led to the idea that the Irish Church was in need of reform. It is entirely possible characters in your saga will ultimately wish to petition the Pope to ensure that a just decision is reached, or to correct abuses, and traveling to Rome for this purpose can make for an interesting story. *The Church*, page 46, has full rules for petitioning the Pope (or other churchmen) in your **Ars Magica Fifth Edition** saga.
 
 ## Saints of Ireland
 
-As well as St. Patrick there are over a hundred other saints popularly venerated in Ireland, and many Irish saints traveled abroad and are venerated in those foreign lands. The saints listed here however are all popular saints in Ireland itself, and while each has an associated region where he or she is especially popular, they are all venerated throughout the land. New Powers in addition to those in *Realms of* 
-
-
-*Power: The Divine* can be found later.
+As well as St. Patrick there are over a hundred other saints popularly venerated in Ireland, and many Irish saints traveled abroad and are venerated in those foreign lands. The saints listed here however are all popular saints in Ireland itself, and while each has an associated region where he or she is especially popular, they are all venerated throughout the land. New Powers in addition to those in *Realms of Power: The Divine* can be found later.
 
 All Saints have the following statistics in *Ars Magica* terms.
 
-**Characteristics:** Int +5, Per +5, Pre +5, Com +5.
-
+**Characteristics:** Int +5, Per +5, Pre +5, Com +5.<br>
 **Confidence Score:** 2 (10)
 
 Devotion to the Saints is common in Ireland; Irish characters may call upon St. Patrick, St. Brigid, and St. Columba as patron saints of Ireland, as well as the Virgin Mary and their patron saints.
 
-## Some Irish Saints
+### Some Irish Saints
 
 The following saints are by no means an exhaustive list, and troupes should research local saints for their saga, using these as exemplars. Whereas in *Realms of Power: The Divine* all saints are assumed to have the same personality traits, here individual traits are given for each of the saints listed. Some may seem surprising, but as Giraldus Cambrensis unfairly wrote "the saints of this country seem to be of a vindictive cast of mind." They are, however, different in some ways to the English saints he was acquainted with. However, the Hook Meddlesome Saint (*Covenants*, page 23) may be very appropriate in a Hibernian saga, as the Irish saints are often interested in the affairs of magicians.
 
 #### Saint Patrick (St. Pátraig), Patron Saint of Ireland
 
-**Divine Might:** 50
-
-**Area of Veneration:** Throughout Ireland
-
-**Feast:** 17th March
-
-**Personality Traits:** Pious +3, Vigorous +2,
-
-Benevolent +2
-
+**Divine Might:** 50<br>
+**Area of Veneration:** Throughout Ireland<br>
+**Feast:** 17th March<br>
+**Personality Traits:** Pious +3, Vigorous +2, Benevolent +2<br>
 **Powers:** *Apparition***,** *Expel Demons***,** *Resist Temptation (St. Patrick's Breastplate)***,** *Scourging of Snakes***,** *Shatter Idol***,** *The Faithful Made Whole***,** *The Captive Made Free***,** *The Unquenchable Fire***,** *The Sky Made Light***.** 
 
-British-born but responsible for the conversion of Ireland, his life and works are discussed in Chapter 2. Saint Patrick's most famous miracle was driving all snakes and venomous things from the shores of Ireland
-
-
-
-forever. One of the three patron saints of Ireland, any character of Irish birth may call upon him.
+British-born but responsible for the conversion of Ireland, his life and works are discussed in Chapter 2. Saint Patrick's most famous miracle was driving all snakes and venomous things from the shores of Ireland forever. One of the three patron saints of Ireland, any character of Irish birth may call upon him.
 
 #### Saint Brigid of Kildare (Naomh Bríd)
 
-**Patron Saint**: Ireland (along with St. Patrick and St. Columba).
-
-**Divine Might:** 50
-
-**Area of Veneration:** Throughout Ireland
-
-**Feast:** 1st February
-
-**Personality Traits:** Pious +3, Generous +2,
-
-Compassionate +2
-
+**Patron Saint**: Ireland (along with St. Patrick and St. Columba).<br>
+**Divine Might:** 50<br>
+**Area of Veneration:** Throughout Ireland<br>
+**Feast:** 1st February<br>
+**Personality Traits:** Pious +3, Generous +2, Compassionate +2<br>
 **Powers:** *Apparition, Call Forth the Waters, Counting Sheep, Cure Blindness, Expel Demons, Resist Temptation, Sanctuary of Virginity, The Faithful Made Whole, Test of Truth, Tomorrow's Bounty.* 
 
 Brigid was born of a nobleman and a concubine who was immediately sold to a magician when it was clear she was pregnant. So holy was the child that when born she would not eat his food, instead living off milk from the cows. Determined to remain a virgin all her life, the child St. Brigid took vows as a nun, though some say the blind bishop mistakenly consecrated her as a bishop instead. As he completed the consecration his sight was miraculously restored. St. Brigid traveled throughout Ireland in her chariot, helping the poor, curing the sick, and spreading the Gospel. She performed a multitude of miracles, but had a special compassion for the poor, perhaps because of her humble origins.
 
 #### Saint Columba (Saint Colum Cille)
 
-**Patron Saint**: Ireland (along with St. Patrick and St. Brigid), Derry, Warriors, Exiles, Scotland and Iona.
-
-**Divine Might:** 50
-
-**Area of Veneration:** Throughout Ireland, Kells, Derry; also Scotland, especially Iona.
-
-**Feast:** 9th June
-
-**Personality Traits:** Pious+3, Cheerful +2, Aggressive +2
-
-**Powers:** *Acknowledgment of Evil*, *Apparition, Banish Magical Monster, Borne up by Angels, Dysentric Infliction, Expel Demons, Multitude of Fish, Raise the Dead, Resist* 
-
-#### The Contested Isle
-
-*Temptation, The Dutiful Shepherd, Walk Upon the Waters.* 
+**Patron Saint**: Ireland (along with St. Patrick and St. Brigid), Derry, Warriors, Exiles, Scotland and Iona.<br>
+**Divine Might:** 50<br>
+**Area of Veneration:** Throughout Ireland, Kells, Derry; also Scotland, especially Iona.<br>
+**Feast:** 9th June<br>
+**Personality Traits:** Pious+3, Cheerful +2, Aggressive +2<br>
+**Powers:** *Acknowledgment of Evil*, *Apparition, Banish Magical Monster, Borne up by Angels, Dysentric Infliction, Expel Demons, Multitude of Fish, Raise the Dead, Resist Temptation, The Dutiful Shepherd, Walk Upon the Waters.* 
 
 One of the twelve apostles of Ireland, St. Columba founded a number of monasteries before a quarrel with St. Finian of Movilla. St. Columba had copied a book in St. Finian's scriptorium, and intended to keep the copy; St. Finian refused, claiming he had not given permission and the copy was now his. The argument escalated, and led to the Battle of Cúl Dreimhne, where many were slain. As a result St. Columba was exiled, and chose to go to Scotland and evangelize the Picts, eventually founding the monastery at Iona and banishing the Loch Ness monster, among many other miraculous exploits. He founded a community of great austerity, and converted many among the Picts and the Gaels who had settled the west coast of what is today Scotland. Despite his exile from his homeland he is greatly revered as one of the three great patron saints of Ireland.
 
 #### Saint Abbán
 
-**Patron Saint**: St. Abbán is revered by those who value the independence of the Irish Church from English ecclesiastical interference.
-
-**Divine Might:** 25 **Feast:** 16th March
-
-**Personality Traits:** Pious +3, Brave + 2, Determined +2
-
-**Area of Veneration:** Leinster, especially Wexford and the diocese of Ferns.
-
+**Patron Saint**: St. Abbán is revered by those who value the independence of the Irish Church from English ecclesiastical interference.<br>
+**Divine Might:** 25<br>
+**Feast:** 16th March<br>
+**Personality Traits:** Pious +3, Brave + 2, Determined +2<br>
+**Area of Veneration:** Leinster, especially Wexford and the diocese of Ferns.<br>
 **Powers:** *Apparition, Banish Magical Monster, Counting Sheep, The Captive Made Free, Still the Waves, Walk Upon the Waters.*
 
 St. Abbán is an unusual Irish saint in that he was converted before St. Patrick, while traveling in England, and converted some of the royal line in the Wexford area before traveling to England and founding a monastery at Abingdon. Born a prince of Leinster, he traveled to Rome to see the Pope, and on the voyage performed many miracles including the banishment of a sea serpent, before returning to Ireland and saving the people from another foul magical monster. He is revered for being an Irish saint who helped convert the English, and is popular with those who resist English intervention in the Irish church for this reason. The Bishop of Ferns, Ailbe Ua Mail Mhuaidh, wrote a hagiography in 1218 and is encouraging popular devotion.
 
 #### Saint Kevin of Glendalough (Saint Cóemgen)
 
-**Patron Saint**: Dublin, Glendalough, and
-
-Crows **Divine Might**: 25 **Feast:** 3rd June
-
-**Personality Traits:** Pious+3, Gentle+2, Reclusive+2
-
-**Area of Veneration:** Leinster.
-
+**Patron Saint**: Dublin, Glendalough, and Crows<br>
+**Divine Might**: 25<br>
+**Feast:** 3rd June<br>
+**Personality Traits:** Pious+3, Gentle+2, Reclusive+2<br>
+**Area of Veneration:** Leinster.<br>
 **Powers:** *Apparition*, *Counting Sheep*, *Protect the Wild Prey, Raise the Dead, Strange Fruit, Tame the Wild Beast* 
 
 An Irish hermit of royal blood, Kevin attracted followers by his personal holiness, so moved to the remote hill at Glendalough to escape them. When they followed anyway he founded a monastery here. His most famous miracle involves making apples grow on willow trees, but he was renowned for his love of wild creatures, who often aided him in his exploits. His name Cóemgen means "gentle one."
 
 #### Saint Ciarán of Clonmacnoise
 
-**Patron Saint:** Herdsmen, Cattle
-
-**Divine Might:** 25 **Feast:** 9th September
-
-**Personality Traits:** Pious+3, Scholarly+2, Rustic+2
-
-**Area of Veneration:** Meath, Clonmac-
-
-noise **Powers:** *Apparition, Bless the Book, Resist* 
-
-*Temptation, Tame the Wild Beast, The Faithful Made Whole*.
+**Patron Saint:** Herdsmen, Cattle<br>
+**Divine Might:** 25<br>
+**Feast:** 9th September<br>
+**Personality Traits:** Pious+3, Scholarly+2, Rustic+2<br>
+**Area of Veneration:** Meath, Clonmacnoise<br>
+**Powers:** *Apparition, Bless the Book, Resist Temptation, Tame the Wild Beast, The Faithful Made Whole*.
 
 One of the twelve apostles of Ireland, Saint Ciarán the Younger was an Irish bishop, but his youth was spent as a herdsman in Connacht, and he is particularly associated with cattle. He founded many monasteries, inspired by his love of learning, and he provided the cow for the vellum that the Book of the Dun Cow is written upon. His greatest foundation is Clonmacnoise, where he died of the yellow plague of Justinian in the early sixth century.
 
-
-
 #### Saint Malachy (Máel Máedóc Ua Morgair)
 
-**Patron Saint**: Armagh, Visionaries, Fisherfolk
-
-**Divine Might:** 25 **Feast:** 3rd November
-
-**Area of Veneration:** Ulster, esp. Armagh **Personality Traits:** Pious+3, Insightful+2,
-
-Persevering+2
-
+**Patron Saint**: Armagh, Visionaries, Fisherfolk<br>
+**Divine Might:** 25<br>
+**Feast:** 3rd November<br>
+**Area of Veneration:** Ulster, esp. Armagh<br>
+**Personality Traits:** Pious+3, Insightful+2, Persevering+2<br>
 **Powers:** *Apparition, Expel Demons, Multitude of Fish, The Faithful Made Whole, Rebuke the Unfaithful.*
 
 Archbishop of Armagh from 1132 until his death in 1148, St. Malachy lived during a troubled period in the history of the Irish church. Despite many intrigues against him, he rose through a series of ecclesiastical positions, not least because of the many miracles God wrought at his behest. Particularly skilled as an exorcist, he also brought fish to rivers and bays where they had become scarce, and healed the sick. He is known as a great visionary, though the *Prophecy of the Popes* attributed to him is still lost in the Vatican archives at this time, and will not be rediscovered for centuries to come.
@@ -239,84 +180,59 @@ Archbishop of Armagh from 1132 until his death in 1148, St. Malachy lived during
 #### Saint Dympna (St. Damhna)
 
 **Patron Saint:** Ghent, Tydavenet, the Insane, the Anxious
-
-**Divine Might** 25 **Feast:** 15th May
-
-**Area of Veneration**: Ulster, Flanders, es-
-
-pecially Ghent.
-
-**Personality Traits:** Pious +3, Innocent +2, Compassionate+2
-
+**Divine Might** 25<br>
+**Feast:** 15th May<br>
+**Area of Veneration**: Ulster, Flanders, especially Ghent.<br>
+**Personality Traits:** Pious +3, Innocent +2, Compassionate+2<br>
 **Powers:** *Apparition, Cure Madness, Grant of Serenity, Sanctuary of Virginity, Test of Truth.* 
 
 Just fifteen years of age at the time of her death, St. Dympna is unusual in that she is venerated both by the Irish and by the Flemish mercenaries used by the English. The daughter of a king, tragedy struck when her mother died. Her father, seeing much of her beloved wife in her, tried to marry her, and horrified she fled to Ghent in Flanders where she was eventually killed by his men. Her *bachall* or staff is a relic still preserved at the village of Tydavnet in Ulster, and has the power to discern the truth.
 
 #### Saint Brendan the Navigator (Naomh Breandán)
 
-**Patron Saint:** Explorers, Navigators,
-
-Clonfert, Ardfert. **Divine Might:** 25 **Feast:** 16th May
-
-**Area of Veneration**: Connacht, especially Ardfert, Inishdadroum, Clonfert, Annaghdown.
-
-**Personality Traits:** Pious +3, Inquisitive +2, Brave +2
-
+**Patron Saint:** Explorers, Navigators, Clonfert, Ardfert.<br>
+**Divine Might:** 25<br>
+**Feast:** 16th May<br>
+**Area of Veneration**: Connacht, especially Ardfert, Inishdadroum, Clonfert, Annaghdown.<br>
+**Personality Traits:** Pious +3, Inquisitive +2, Brave +2<br>
 **Powers:** *Apparition*, *Expel Demons, Hide Fugitive, Raise the Dead, Still the Waves, Tame the Wild Beast.* 
 
 St. Brendan is perhaps best remembered for his great voyages to explore the isles of the west and to the Isle of the Blessed, but he was an abbot, founder of monasteries, and great miracle-worker as well. His relics lie at Clonfert. One of his strangest miracles was to make an escaped slave appear as a rock, and the rock as the fugitive, so his pursuers carried off the stone thinking they had recaptured their man.
 
 #### Saint Grellan
 
-**Patron Saint:** The Betrayed, those menaced by the Fir Bolg, Ballinasloe.
-
-**Divine Might:** 25
-
-**Feast:** 29th September
-
-**Area of Veneration**: Connacht, especially Ballinasloe.
-
-**Personality Traits:** Pious +3, Peacemaker +2, Brave +2
-
-
-
+**Patron Saint:** The Betrayed, those menaced by the Fir Bolg, Ballinasloe.<br>
+**Divine Might:** 25<br>
+**Feast:** 29th September<br>
+**Area of Veneration**: Connacht, especially Ballinasloe.<br>
+**Personality Traits:** Pious +3, Peacemaker +2, Brave +2<br>
 **Powers:** *Apparition, Raise the Dead, Swallowed Alive and Sent to Hell, Protect the Wild Prey, Grant of Serenity*
 
 Saint Grellan lived at a time when the Fir Bolgs were fighting the tribe of Colla da Chrioch. The Fir Bolgs organized a truce, but instead took the king's son hostage, then murdered him when the Fir Bolg queen fell for his charms. A second truce was arranged, but the Fir Bolg planned treachery, and as they drew their weapons St. Grellan, who was in his church saw the betrayal again of the peace he had worked for. The saint prayed to God and the Fir Bolgs sank into the ground, some say trapped to this day under the bog of Magh Liach, others say sent straight to Hell.
 
 #### Saint Senan mac Geirrcinn
 
-**Patron Saint:** Scattery Island**,** the Corco Baiscinn and the Uí Fhidgeinte.
-
-**Divine Might:** 25 **Feast:** 8th March
-
-**Area of Veneration**: Munster
-
-**Personality Traits:** Pious+3, Misogynistic
-
-+2, Righteous Wrath+2
-
+**Patron Saint:** Scattery Island**,** the Corco Baiscinn and the Uí Fhidgeinte.<br>
+**Divine Might:** 25<br>
+**Feast:** 8th March<br>
+**Area of Veneration**: Munster<br>
+**Personality Traits:** Pious+3, Misogynistic +2, Righteous Wrath+2<br>
 **Powers:** *Acknowledgement of Evil, Apparition*, *Banish Magical Monster, Call Forth the Waters, Dysentric Infliction.* 
 
 Saint Senan is most renowned for his triumph over the evil sea serpent the *Scathach* that ate any who sailed near Scattery Island. He was determined to found a monastery there, and miraculously banished the beast with the sign of the Cross. He later prevailed over many other monsters with prayer, and cursed to death many evildoers and bandits. While he loved his sister Saint Ibie he would not have her buried on the island, where women were strictly forbidden, so on death he buried her between the low and high tide mark. She was luckier than another woman who came to try to talk with the saint; she died on her boat on the beach, having waited for years for permission to come ashore.
 
 #### St. Cronan of Tipperary
 
-**Patron Saint:** Diocese of Roscrea
-
-**Divine Might:** 25 **Feast:** 28th April
-
-**Area of Veneration:** Munster, especially
-
-#### The Contested Isle
-
-Tipperary and the diocese of Roscrea **Personality Traits:** Pious +3, Passive+2, Protective +2
-
+**Patron Saint:** Diocese of Roscrea<br>
+**Divine Might:** 25<br>
+**Feast:** 28th April<br>
+**Area of Veneration:** Munster, especially Tipperary and the diocese of Roscrea<br>
+**Personality Traits:** Pious +3, Passive+2, Protective +2<br>
 **Powers:** *Apparition*, *Walk Upon the Waters, Raise the Dead, Tame the Wild Beast, Celestial Immunity, Bless the Book, The Sky Made Light*
 
 St. Cronan lived in a time when many fierce raiders troubled the land of Ireland. He protected his parishioners from many attacks by working a miracle to make their enemies' weapons useless against them, though finally he and his monks chose to submit to martyrdom at the hands of the Vikings when they burned his monastery.
 
-## New Powers and Curses for Irish Saints
+### New Powers and Curses for Irish Saints
 
 The saints of Ireland have their own special concerns, and many of their miraculous powers are unusual; they have a great fondness for nature miracles, and many unique blessings and curses of which a devoted petitioner may gain the benefit. As there are far more Irish saints than those detailed here, storyguides can use these guidelines to assisting in creating typically Irish saints, in addition to those described in *Realms of Power: The Divine*, 88–89.
 
@@ -344,10 +260,7 @@ The saints of Ireland have their own special concerns, and many of their miracul
 
 *Strange Fruit,* 2 points, Init +5, Herbam. This unusual power causes a tree to sprout edible fruit, regardless of species, and even in the first instance out of season. The miraculous tree breeds true, and creates more trees that bring forth fruit in the normal season thereafter, and that are edible and nourishing.
 
-*Tame the Wild Beast*, 3 points, Init +5, Animal. This power grants a divine Animal Companion which does not age until the petitioner dies. Only one animal companion can be possessed at any time. The wild animal treats the recipient of this blessing as if a friend, and
-
-
-does it all it can to assist them. If the animal's trust is betrayed or is harmed the saint is furious with the petitioner, and curses her.
+*Tame the Wild Beast*, 3 points, Init +5, Animal. This power grants a divine Animal Companion which does not age until the petitioner dies. Only one animal companion can be possessed at any time. The wild animal treats the recipient of this blessing as if a friend, and does it all it can to assist them. If the animal's trust is betrayed or is harmed the saint is furious with the petitioner, and curses her.
 
 *The Captive Made Free,* 5 points, Init +4, Terram*.* The ground shakes and prison walls are broken, the door springing unlocked, and the chains falling from the prisoners. Guards tend to flee in terror, but that is a mundane effect not part of the power. It can also release chained slaves, even if they are not held in a dungeon.
 
@@ -373,13 +286,10 @@ The Céli Dé are ascetic holy men who live for parts of the year in monasteries
 
 Those Céile Dé who live near their abbey may travel there weekly to hear mass; others attend a local church. Many of the Céli Dé have been graced with miraculous powers by their devotions, and are loosely associated with the Coill Trí, represented in the Túath Rónáin despite their suspicions of its Cistercian representative.
 
-The Céli Dé consume a restricted diet, with regular fasts and long periods of asceticism. One of their most famous spiritual practices involves praying standing with arms outstretched as if nailed to a cross, reciting prayers, sometimes for hours. They never perform self-flagellation or physical punishment upon themselves though, always asking a fellow Céli Dé to administer such if needed, but generally the practice is uncommon and fasting and prayer are
-
-
+The Céli Dé consume a restricted diet, with regular fasts and long periods of asceticism. One of their most famous spiritual practices involves praying standing with arms outstretched as if nailed to a cross, reciting prayers, sometimes for hours. They never perform self-flagellation or physical punishment upon themselves though, always asking a fellow Céli Dé to administer such if needed, but generally the practice is uncommon and fasting and prayer arem ore usual penances. They are unusual in that they do not necessarily confess to a priest, but more often to a fellow Céli Dé, their soul brother, to whom they list their sins and who pronounces absolution and penance, though this practice again is dying out as a result of the reformers and English church influence.
+ 
 The Coill Trí know of the Céli Dé and accept some as members. Individual members' responses vary according to their own personal piety and religious belief, but few would wish to argue with these ascetic holy men. Likewise, the Céli Dé opinion of a Coill Trí magician is based upon the way the individual wizard uses his power, whether to the glory of God or for base selfish reasons. The Irish Church regards them sympathetically, but there is a tendency from the reform party to reorganize Céli Dé monasteries as standard houses of one of the other religious orders, something the traditionalist faction oppose strongly. The English churchmen regard the Céli Dé with suspicion, as unorthodox in practice, and strongly favor their incorporation into standard religious houses, though the lay members are often admired and left alone as simply devout individuals. Reform has left Leinster and Munster with few Céli Dé, but on the islands and in the north they remain, albeit as a very minor tradition.
 
 A Céli Dé character is an exceptional person, and can be created as a Companion (or Mythic Companion, as described in *Realms of Power: The Divine,* page 66) and must at least take the Vows Flaw (even *manaim* swear vows to observe the liturgical hours) along with Purity and Transcendence (if they do not possess True Faith). Given the emphasis on personal sanctity and individual mystical progress the Ceremony Virtue is not appropriate for this tradition. They gain the free Minor Virtue Educated to represent their training. Céli Dé with the Virtue True Faith can learn the Favored Abilities without needing the Virtues that grant them from the time of taking their vows.
 
 The covenant of Paruchia Nerius represents a small Hermetic group of Céli Dé who have joined House Ex Miscellanea. Hermetic Céli Dé characters are created as magi.
-
-
