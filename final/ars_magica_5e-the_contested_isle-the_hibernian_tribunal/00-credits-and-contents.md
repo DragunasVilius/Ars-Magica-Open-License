@@ -324,26 +324,27 @@ Digital Version 1.0
   * &emsp;[Covenfolk](09-the-province-of-ulster.md#covenfolk-1)
 
 * [Chapter 10: The Magical Landscape](10-the-magical-landscape.md)
-  * The Druids
-  * &emsp;The Learned Class
-  * &emsp;The Druids Today
-  * The Coill Trí
-  * &emsp;A Partner to Treaties
-  * &emsp;Organization of the Coill Trí
-  * The Bards
-  * &emsp;The Bardic Schools
-  * &emsp;Bard Characters
-  * &emsp;Bards of Power
-  * Geasa
-  * &emsp;Conditions
-  * &emsp;New Flaws
-  * The Magical Races of Ireland
-  * &emsp;The Fomórach
-  * &emsp;The Fir Bolg
-  * &emsp;Battle Transformations
-  * Beasts of Virtue
-  * &emsp;The Fíorláir
-  * &emsp;The Dobhar-Chú
+  * [The Druids](10-the-magical-landscape.md#the-druids)
+  * &emsp;[The Learned Class](10-the-magical-landscape.md#the-learned-class)
+  * &emsp;[The Druids Today](10-the-magical-landscape.md#the-druids-today)
+  * [The Coill Trí](10-the-magical-landscape.md#the-coill-trí)
+  * &emsp;[A Partner to Treaties](10-the-magical-landscape.md#a-partner-to-treaties)
+  * &emsp;[Organization of the Coill Trí](10-the-magical-landscape.md#organization-of-the-coill-trí)
+  * [The Bards](10-the-magical-landscape.md#the-bards)
+  * &emsp;[The Bardic Schools](10-the-magical-landscape.md#the-bardic-schools)
+  * &emsp;[Bard Characters](10-the-magical-landscape.md#bard-characters)
+  * &emsp;[Bards of Power](10-the-magical-landscape.md#bards-of-power)
+  * [Geasa](10-the-magical-landscape.md#geasa)
+  * &emsp;[Conditions](10-the-magical-landscape.md#conditions)
+  * &emsp;[New Flaws](10-the-magical-landscape.md#new-flaws)
+  * &emsp;[Lesser Malediction: Macha's Birth-Pangs](10-the-magical-landscape.md#lesser-malediction-machas-birth-pangs)
+  * [The Magical Races of Ireland](10-the-magical-landscape.md#the-magical-races-of-ireland)
+  * &emsp;[The Fomórach](10-the-magical-landscape.md#the-fomórach)
+  * &emsp;[The Fir Bolg](10-the-magical-landscape.md#the-fir-bolg)
+  * &emsp;[Battle Transformations](10-the-magical-landscape.md#battle-transformations)
+  * [Beasts of Virtue](10-the-magical-landscape.md#beasts-of-virtue)
+  * &emsp;[The Fíorláir](10-the-magical-landscape.md#the-fíorláir-1)
+  * &emsp;[The Dobhar-Chú](10-the-magical-landscape.md#the-dobhar-chú)
 
 * [Chapter 11: The Faerie Landscape](11-the-faerie-landscape.md)
   * The Otherworld
@@ -466,20 +467,20 @@ Digital Version 1.0
 * [The Funerary Rites](09-the-province-of-ulster.md#the-funerary-rites)
 * [Story Seed: The Body of a Ghost](09-the-province-of-ulster.md#story-seed-the-body-of-a-ghost)
 * [Story Seed: Silence Falls on Those Who Sing](09-the-province-of-ulster.md#story-seed-silence-falls-on-those-who-sing)
-* Druid Magic
-* The Gruagachan as Inheritors of the Druidic Tradition
-* The Gods of the Druids
-* Diedne and Pralix
-* The Treaty of Cnoc Maol Réidh
-* Tensions Within the Treaty
-* Performance and Sound
-* Example Magical Stories and Poems
-* Story Seed: The Ollamhain Heresy
-* Fomóir Blood
-* The Three Tribes of the Fir Bolg
-* Cú Chulainn's Ríastradh
-* The Fíorláir
-* Dobhar-chú
+* [Druid Magic](10-the-magical-landscape.md#druid-magic)
+* [The Gruagachan as Inheritors of the Druidic Tradition](10-the-magical-landscape.md#the-gruagachan-as-inheritors-of-the-druidic-tradition)
+* [The Gods of the Druids](10-the-magical-landscape.md#the-gods-of-the-druids)
+* [Diedne and Pralix](10-the-magical-landscape.md#diedne-and-pralix)
+* [The Treaty of Cnoc Maol Réidh](10-the-magical-landscape.md#the-treaty-of-cnoc-maol-réidh)
+* [Tensions Within the Treaty](10-the-magical-landscape.md#tensions-within-the-treaty)
+* [Performance and Sound](10-the-magical-landscape.md#performance-and-sound)
+* [Example Magical Stories and Poems](10-the-magical-landscape.md#example-magical-stories-and-poems)
+* [Story Seed: The Ollamhain Heresy](10-the-magical-landscape.md#story-seed-the-ollamhain-heresy)
+* [Fomóir Blood](10-the-magical-landscape.md#fomóir-blood)
+* [The Three Tribes of the Fir Bolg](10-the-magical-landscape.md#the-three-tribes-of-the-fir-bolg)
+* [Cú Chulainn's Ríastradh](10-the-magical-landscape.md#cú-chulainns-ríastradh)
+* [The Fíorláir](10-the-magical-landscape.md#the-fíorláir)
+* [Dobhar-chú](10-the-magical-landscape.md#dobhar-chú)
 * Story Seed: Sometimes They Return
 * Redcaps and the High Roads
 * Common Hibernia Faerie Powers
