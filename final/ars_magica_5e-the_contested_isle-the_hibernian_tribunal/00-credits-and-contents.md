@@ -258,69 +258,70 @@ Digital Version 1.0
   * &emsp;[Magi](08-the-province-of-munster.md#magi-3)
 
 * [Chapter 9: The Province of Ulster](09-the-province-of-ulster.md)
-  * The Peoples of Ulster
-  * &emsp;The Érainn
-  * &emsp;The Cruithnigh
-  * &emsp;The English
-  * Tír Chonaill
-  * &emsp;Donegal
-  * &emsp;Lough Dearg
-  * &emsp;The Poisoned Glen
-  * &emsp;Raphoe
-  * Tír Eóghain
-  * &emsp;Aileach
-  * &emsp;Beaghmore
-  * &emsp;Doire
-  * &emsp;Leacht Ábartaigh
-  * &emsp;Lough Neagh
-  * Airgíalla
-  * &emsp;Armagh
-  * &emsp;Clogher
-  * &emsp;Cuailnge
-  * &emsp;Drogheda Castle
-  * &emsp;Fermanagh
-  * &emsp;Magh Sléacht
-  * &emsp;Sídh of Fionnachaidh
-  * &emsp;Rath Chinneich
-  * Earldom of Ulster
-  * &emsp;Antrim
-  * &emsp;Bangor
-  * &emsp;Belfast Castle
-  * &emsp;Carrickfergus Castle
-  * &emsp;Downpatrick
-  * &emsp;Dundrum Castle
-  * &emsp;Giants' Causeway
-  * &emsp;Mountains of Mourne
-  * &emsp;Newry
-  * &emsp;Ring of Gullion
-  * Tír Fhomóraig
-  * &emsp;Rathlin Island
-  * &emsp;Toraigh Island
-  * Mercere House of Leth Cuinn
-  * &emsp;History
-  * &emsp;Setting & Physical Description
-  * &emsp;Culture and Traditions
-  * &emsp;Magi
-  * The Clesrada
-  * &emsp;Learning Clesa
-  * &emsp;Using Clesa
-  * &emsp;Athletics Clesa
-  * &emsp;Concentration Clesa
-  * &emsp;Single Weapon / Great Weapon Clesa
-  * &emsp;Thrown Weapon Clesa
-  * Qui Sonant Pro Quieto
-  * &emsp;History
-  * &emsp;Setting & Physical Description
-  * &emsp;Culture & Traditions
-  * &emsp;Magi
-  * &emsp;Covenfolk
-  * Vigil
-  * &emsp;Cathach
-  * &emsp;History
-  * &emsp;Setting & Physical Description
-  * &emsp;Culture and Traditions
-  * &emsp;Magi
-  * &emsp;Covenfolk
+  * [The Peoples of Ulster](09-the-province-of-ulster.md#the-peoples-of-ulster)
+  * &emsp;[The Érainn](09-the-province-of-ulster.md#the-érainn)
+  * &emsp;[The Cruithnigh](09-the-province-of-ulster.md#the-cruithnigh)
+  * &emsp;[The English](09-the-province-of-ulster.md#the-english)
+  * [Tír Chonaill](09-the-province-of-ulster.md#tír-chonaill)
+  * &emsp;[Donegal](09-the-province-of-ulster.md#donegal)
+  * &emsp;[Lough Dearg](09-the-province-of-ulster.md#lough-dearg)
+  * &emsp;[The Poisoned Glen](09-the-province-of-ulster.md#the-poisoned-glen)
+  * &emsp;[Raphoe](09-the-province-of-ulster.md#raphoe)
+  * [Tír Eóghain](09-the-province-of-ulster.md#tír-eóghain)
+  * &emsp;[Aileach](09-the-province-of-ulster.md#aileach)
+  * &emsp;[Beaghmore](09-the-province-of-ulster.md#beaghmore)
+  * &emsp;[Doire](09-the-province-of-ulster.md#doire)
+  * &emsp;[Leacht Ábartaigh](09-the-province-of-ulster.md#leacht-ábartaigh)
+  * &emsp;[Lough Neagh](09-the-province-of-ulster.md#lough-neagh)
+  * [Airgíalla](09-the-province-of-ulster.md#airgíalla)
+  * &emsp;[Armagh](09-the-province-of-ulster.md#armagh)
+  * &emsp;[Clogher](09-the-province-of-ulster.md#clogher)
+  * &emsp;[Cuailnge](09-the-province-of-ulster.md#cuailnge)
+  * &emsp;[Drogheda Castle](09-the-province-of-ulster.md#drogheda-castle)
+  * &emsp;[Fermanagh](09-the-province-of-ulster.md#fermanagh)
+  * &emsp;[Magh Sléacht](09-the-province-of-ulster.md#magh-sléacht)
+  * &emsp;[Sídh of Fionnachaidh](09-the-province-of-ulster.md#sídh-of-fionnachaidh)
+  * &emsp;[Rath Chinneich](09-the-province-of-ulster.md#rath-chinneich)
+  * [Earldom of Ulster](09-the-province-of-ulster.md#earldom-of-ulster)
+  * &emsp;[Antrim](09-the-province-of-ulster.md#antrim)
+  * &emsp;[Bangor](09-the-province-of-ulster.md#bangor)
+  * &emsp;[Belfast Castle](09-the-province-of-ulster.md#belfast-castle)
+  * &emsp;[Carrickfergus Castle](09-the-province-of-ulster.md#carrickfergus-castle)
+  * &emsp;[Downpatrick](09-the-province-of-ulster.md#downpatrick)
+  * &emsp;[Dundrum Castle](09-the-province-of-ulster.md#dundrum-castle)
+  * &emsp;[Giants' Causeway](09-the-province-of-ulster.md#giants-causeway)
+  * &emsp;[Mountains of Mourne](09-the-province-of-ulster.md#mountains-of-mourne)
+  * &emsp;[Newry](09-the-province-of-ulster.md#newry)
+  * &emsp;[Ring of Gullion](09-the-province-of-ulster.md#ring-of-gullion)
+  * [Tír Fhomóraig](09-the-province-of-ulster.md#tír-fhomóraig)
+  * &emsp;[Rathlin Island](09-the-province-of-ulster.md#rathlin-island)
+  * &emsp;[Toraigh Island](09-the-province-of-ulster.md#toraigh-island)
+  * [Mercere House of Leth Cuinn](09-the-province-of-ulster.md#mercere-house-of-leth-cuinn)
+  * &emsp;[History](09-the-province-of-ulster.md#history)
+  * &emsp;[Setting & Physical Description](09-the-province-of-ulster.md#setting-and-physical-description)
+  * &emsp;[Culture and Traditions](09-the-province-of-ulster.md#culture-and-traditions)
+  * &emsp;[Magi](09-the-province-of-ulster.md#magi)
+  * [The Clesrada](09-the-province-of-ulster.md#the-clesrada)
+  * &emsp;[Learning Clesa](09-the-province-of-ulster.md#learning-clesa)
+  * &emsp;[Using Clesa](09-the-province-of-ulster.md#using-clesa)
+  * &emsp;[Athletics Clesa](09-the-province-of-ulster.md#athletics-clesa)
+  * &emsp;[Concentration Clesa](09-the-province-of-ulster.md#concentration-clesa)
+  * &emsp;[Single Weapon / Great Weapon Clesa](09-the-province-of-ulster.md#single-weapon-great-weapon-clesa)
+  * &emsp;[Thrown Weapon Clesa](09-the-province-of-ulster.md#thrown-weapon-clesa)
+  * [Qui Sonant Pro Quieto](09-the-province-of-ulster.md#qui-sonant-pro-quieto)
+  * &emsp;[Cathach](09-the-province-of-ulster.md#cathach)
+  * &emsp;[History](09-the-province-of-ulster.md#history-1)
+  * &emsp;[Setting & Physical Description](09-the-province-of-ulster.md#setting-and-physical-description-1)
+  * &emsp;[Culture & Traditions](09-the-province-of-ulster.md#culture-and-traditions-1)
+  * &emsp;[Magi](09-the-province-of-ulster.md#magi-1)
+  * &emsp;[Covenfolk](09-the-province-of-ulster.md#covenfolk)
+  * [Vigil](09-the-province-of-ulster.md#vigil)
+  * &emsp;[Cathach](09-the-province-of-ulster.md#cathach-1)
+  * &emsp;[History](09-the-province-of-ulster.md#history-2)
+  * &emsp;[Setting & Physical Description](09-the-province-of-ulster.md#setting-and-physical-description-2)
+  * &emsp;[Culture and Traditions](09-the-province-of-ulster.md#culture-and-traditions-2)
+  * &emsp;[Magi](09-the-province-of-ulster.md#magi-2)
+  * &emsp;[Covenfolk](09-the-province-of-ulster.md#covenfolk-1)
 
 * [Chapter 10: The Magical Landscape](10-the-magical-landscape.md)
   * The Druids
@@ -445,26 +446,26 @@ Digital Version 1.0
 * [Story Seed: The Secret Army](08-the-province-of-munster.md#story-seed-the-secret-army)
 * [Story Seed: The Ruinous Toad](08-the-province-of-munster.md#story-seed-the-ruinous-toad)
 * [Story Seed: The Missing Book](08-the-province-of-munster.md#story-seed-the-missing-book)
-* The Plagues of Tír Chonaill
-* The Lucht Tighe
-* The Black Pig's Dyke
-* Story Seed: The Neamh-Mairbh
-* Macha
-* Donn and Find
-* The Statues of White Island
-* Lúin Cheltchair
-* Story Seed: Echoes at Erenagh
-* Saint Machaoi
-* Story Seed: The Demon Kings of Sliabh Crúibe
-* Balor na Súile Neimhe
-* Úathach of the Glen
-* Story Seed: A Rival School
-* Initiation into the Clesrada
-* Designing Clesa
-* Strange Practices
-* The Funerary Rites
-* Story Seed: The Body of a Ghost
-* Story Seed: Silence Falls on Those Who Sing
+* [The Plagues of Tír Chonaill](09-the-province-of-ulster.md#the-plagues-of-tír-chonaill)
+* [The Lucht Tighe](09-the-province-of-ulster.md#the-lucht-tighe)
+* [The Black Pig's Dyke](09-the-province-of-ulster.md#the-black-pigs-dyke)
+* [Story Seed: The Neamh-Mairbh](09-the-province-of-ulster.md#story-seed-the-neamh-mairbh)
+* [Macha](09-the-province-of-ulster.md#macha)
+* [Donn and Find](09-the-province-of-ulster.md#donn-and-find)
+* [The Statues of White Island](09-the-province-of-ulster.md#the-statues-of-white-island)
+* [Lúin Cheltchair](09-the-province-of-ulster.md#lúin-cheltchair)
+* [Story Seed: Echoes at Erenagh](09-the-province-of-ulster.md#story-seed-echoes-at-erenagh)
+* [Saint Machaoi](09-the-province-of-ulster.md#saint-machaoi)
+* [Story Seed: The Demon Kings of Sliabh Crúibe](09-the-province-of-ulster.md#story-seed-the-demon-kings-of-sliabh-crúibe)
+* [Balor na Súile Neimhe](09-the-province-of-ulster.md#balor-na-suile-neimhe)
+* [Úathach of the Glen](09-the-province-of-ulster.md#úathach-of-the-glen)
+* [Story Seed: A Rival School](09-the-province-of-ulster.md#story-seed-a-rival-school)
+* [Initiation into the Clesrada](09-the-province-of-ulster.md#initiation-into-the-clesrada)
+* [Designing Clesa](09-the-province-of-ulster.md#designing-clesa)
+* [Strange Practices](09-the-province-of-ulster.md#strange-practices)
+* [The Funerary Rites](09-the-province-of-ulster.md#the-funerary-rites)
+* [Story Seed: The Body of a Ghost](09-the-province-of-ulster.md#story-seed-the-body-of-a-ghost)
+* [Story Seed: Silence Falls on Those Who Sing](09-the-province-of-ulster.md#story-seed-silence-falls-on-those-who-sing)
 * Druid Magic
 * The Gruagachan as Inheritors of the Druidic Tradition
 * The Gods of the Druids
