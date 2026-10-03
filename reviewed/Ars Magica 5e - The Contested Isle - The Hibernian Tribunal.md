@@ -596,7 +596,7 @@ Two Tytalus and two Merinita magi visited Mythic Ireland in 778, looking for the
 
 13 years later, Diedne arrived. Hoping to recruit Ireland's druids, she was rejected, and responded with a 17-yearlong pogrom to kill every druid she could find. The Ulster-born Cuin-dallán, Latinized as "Quendalon," returned from the Rhine to save what he could of the older magic traditions. Aided by other members of House Merinita, he accepted some into his House and hid others in Connacht. Meanwhile, the Diedne magi formed covenants and sent down firm roots.
 
-By the early ninth century, many traditions of native wizards still existed. Some stayed hidden, some were protected by powerful regional kings or safeguarded by Hermetic allies, and some were strong enough to fend for themselves. A score of the more powerful wizards assisted Pralix in the war against Damhan-Allaidh (see [ArM5, page 10](Ars%20Magica%20-%20Definitive%20Edition%20%28Core%20Rules%29.md)), and the survivors were immediately accepted into her new Order, which eventually became House Ex Miscellanea.
+By the early ninth century, many traditions of native wizards still existed. Some stayed hidden, some were protected by powerful regional kings or safeguarded by Hermetic allies, and some were strong enough to fend for themselves. A score of the more powerful wizards assisted Pralix in the war against Damhan-Allaidh (see [ArM5, page 10](Ars%20Magica%20-%20Definitive%20Edition%20%28Core%20Rules%29.md#damhan-allaidh-and-the-ordo-miscellanea)), and the survivors were immediately accepted into her new Order, which eventually became House Ex Miscellanea.
 
 ### The Ostmen and Rune Wizards
 
@@ -752,7 +752,7 @@ The king is crowned in a sacred ceremony in which he symbolizes his commitment t
 > 
 > Irish society has enough similarities to the French and English social systems for characters to use standard Social Status Virtues. The Irish do not have a title for "knight", but certainly have the social station as the lowest rung of the grád flatha.
 > 
-> Slave characters must select the Major Social Status Flaw: Slave ([*Guardians of the Forest*, page 102](Ars%20Magica%205e%20-%20Guardians%20of%20the%20Forests%20-%20The%20Rhine%20Tribunal.md)). A slave has no rights, owns no property, and is beholden to his master's will at all times. A slave has no eraic and is typically a captured foreigner or the child of one.
+> Slave characters must select the Major Social Status Flaw: Slave ([*Guardians of the Forest*, page 102](Ars%20Magica%205e%20-%20Guardians%20of%20the%20Forests%20-%20The%20Rhine%20Tribunal.md#NEW-MAJOR-STATUS-FLAW-SLAVe)). A slave has no rights, owns no property, and is beholden to his master's will at all times. A slave has no eraic and is typically a captured foreigner or the child of one.
 > 
 > A bothach character must select the Free Social Status: Peasant. He has no eraic.
 > 
@@ -846,7 +846,7 @@ Kingly succession is also different. The English kings have started to establish
 
 ## Languages of Hibernia
 
-The following Living Languages are spoken by the people living in the region described by this book. Each consists of one or more regional dialects, which are given in parentheses; most characters should take the appropriate one as a specialty. Educated or well-traveled speakers often try hard to rid themselves of their dialect, and may have standard specialties (see [**ArM5**, page 66](Ars%20Magica%20-%20Definitive%20Edition%20%28Core%20Rules%29.md)).
+The following Living Languages are spoken by the people living in the region described by this book. Each consists of one or more regional dialects, which are given in parentheses; most characters should take the appropriate one as a specialty. Educated or well-traveled speakers often try hard to rid themselves of their dialect, and may have standard specialties (see [**ArM5**, page 66](Ars%20Magica%20-%20Definitive%20Edition%20%28Core%20Rules%29.md#living-language)).
 
 **English** (Northumbrian, Mercian, Anglian, Wessex, Kentish)<br>
 **French** (Anglo-Norman)<br>
@@ -1091,7 +1091,7 @@ Those creatures gifted with speech in any of the tongues of man are considered l
 
 ### Hermetic Literature
 
-The language of Hermetic literature is Latin, but, influenced by the example of the Church in Ireland, the use of vernacular Irish is increasing and it can be found in the glossing of Hermetic texts. This makes such embellishments difficult to follow for those who do not read Irish, and the +1 book quality (see [*Covenants,* page 91](Ars%20Magica%205e%20-%20Covenants.md)) is not applied to their study total.
+The language of Hermetic literature is Latin, but, influenced by the example of the Church in Ireland, the use of vernacular Irish is increasing and it can be found in the glossing of Hermetic texts. This makes such embellishments difficult to follow for those who do not read Irish, and the +1 book quality (see [*Covenants,* page 91](Ars%20Magica%205e%20-%20Covenants.md#L4868)) is not applied to their study total.
 
 The Ordo Hiberniae has a love of chronicling the lives of their important figures. These *Vitae Magorum* take the form of books on Order of Hermes Lore. These volumes often provide clues as to the magical research and achievements of noted magi, even referencing specific laboratory texts. The continental magi tend to see these works as a distraction from the real work of studying the Arts or inventing spells.
 
@@ -1864,7 +1864,7 @@ The Gáe Bulg is a spear made from the bones of the monstrous witch Coinchenn, s
 
 Although Coinchenn herself was cruel and hideous, her daughter was beautiful and virtuous. The crone guarded her jealously as she foresaw that on the day her daughter was wooed Coinchenn would lose her life. She beheaded those who tried to take her daughter and stuck their heads upon the spikes that surrounded her home.
 
-Possession of the Gáe Bulg grants the Death Prophecy Virtue ([**ArM5**, page 41](Ars%20Magica%20-%20Definitive%20Edition%20%28Core%20Rules%29.md)) to those who wield it. The prophecy is different for every person, but the circumstances always start with the loss of the spear itself.
+Possession of the Gáe Bulg grants the Death Prophecy Virtue ([**ArM5**, page 41](Ars%20Magica%20-%20Definitive%20Edition%20%28Core%20Rules%29.md#death-prophecy)) to those who wield it. The prophecy is different for every person, but the circumstances always start with the loss of the spear itself.
 
 ### History
 
@@ -1894,7 +1894,7 @@ Praesis is cold and austere, and the ruins of laboratories can be seen from near
 
 Through the last two seasons Guillaume Flambeau of Normandy has been briefing his colleagues on interesting sites his spies have found across the Connacht border. Praesis often plays host to a changing roster of foreign magi recently arrived in Hibernia, and the gaze of these magi is shifting to Connacht with growing interest.
 
-Villages on both sides of Lough Ree are more fearful of magi and their servants than usual, only reluctantly providing goods and service. Treat those associated with Praesis as having the Infamous Flaw ([**ArM5**, page 55](Ars%20Magica%20-%20Definitive%20Edition%20%28Core%20Rules%29.md)) and the level 4 bad Reputation that goes with it.
+Villages on both sides of Lough Ree are more fearful of magi and their servants than usual, only reluctantly providing goods and service. Treat those associated with Praesis as having the Infamous Flaw ([**ArM5**, page 55](Ars%20Magica%20-%20Definitive%20Edition%20%28Core%20Rules%29.md#infamous)) and the level 4 bad Reputation that goes with it.
 
 ### Magi
 
@@ -1948,7 +1948,7 @@ He has an ongoing rivalry with the maga Gráinne inghean Uaitéar of the covenan
 **Age:** 50 (Apparent Age: 40)<br>
 **Personality Traits:** Remote +3, Cold +2, Precise +1
 
-Brought up in the covenant of Qui Sonant, Cacht is a Hibernian native, a maga of House Criamon chosen by the Path of Strife ([*Houses of Hermes: Mystery Cults, page 67*](Ars%20Magica%205e%20-%20Houses%20of%20Hermes%20-%20Mystery%20Cults.md)). Her rejection of Criamon’s traditional morality drew her to conflict and the Siege of Praesis offered a unique challenge: the destruction of the status quo.
+Brought up in the covenant of Qui Sonant, Cacht is a Hibernian native, a maga of House Criamon chosen by the Path of Strife ([*Houses of Hermes: Mystery Cults, page 67*](Ars%20Magica%205e%20-%20Houses%20of%20Hermes%20-%20Mystery%20Cults.md#the-path-of-strife)). Her rejection of Criamon’s traditional morality drew her to conflict and the Siege of Praesis offered a unique challenge: the destruction of the status quo.
 
 Having killed in Ballack's name, she subsequently lost interest in his aims. She has no particular cause and resides at Praesis only until one is brought to her, but she listens intently to Guillaume's reports on Connacht sensing a new conflict in the making.
 
@@ -3727,7 +3727,7 @@ A feat roll grants the character +5 to Strength solely for the purpose of liftin
 **Ability Roll:** Strength + Athletics<br>
 **Ease Factor:** 9
 
-On a successful feat roll, the character can hurl an object that he would normally not be able to throw. Classically, this feat was used to hurl chariot wheels, each one two paces in diameter and having a Load of 4. The character must make a Thrown Weapon attack to hit something as if the missile were a stone, except that the Weapon Damage Modifier is equal to the Load of the object. As a general rule, a character can lift a Load that has a Burden equal to his (Strength +2). If the thrown object hits another object, both need to make a Stress check to remain whole ([*City & Guild*, page 77](Ars%20Magica%205e%20-%20City%20%26%20Guild.md)). The thrown object does not need to Penetrate the Magic Resistance of the target: the magic involved was active on it for just for the moment it was thrown.
+On a successful feat roll, the character can hurl an object that he would normally not be able to throw. Classically, this feat was used to hurl chariot wheels, each one two paces in diameter and having a Load of 4. The character must make a Thrown Weapon attack to hit something as if the missile were a stone, except that the Weapon Damage Modifier is equal to the Load of the object. As a general rule, a character can lift a Load that has a Burden equal to his (Strength +2). If the thrown object hits another object, both need to make a Stress check to remain whole ([*City & Guild*, page 77](Ars%20Magica%205e%20-%20City%20%26%20Guild.md#damaged-goods)). The thrown object does not need to Penetrate the Magic Resistance of the target: the magic involved was active on it for just for the moment it was thrown.
 
 #### Tétchless, or Rope Feat
 
@@ -3799,9 +3799,9 @@ This feat permits acts of great precision with a blade. The character can cut ha
 **Ability Roll:** Stamina + Single Weapon<br>
 **Ease Factor:** 9
 
-With this feat, a character strikes at his opponent's weapons and breaks them. He must successfully hit his opponent, but rather than doing damage, attempts a feat roll. Add one to the Ease Factor if the weapon is of Superior Quality, add three if it is Excellent Quality, and add six if it is enchanted by any means (see [*City & Guild* page 67](Ars%20Magica%205e%20-%20City%20%26%20Guild.md) for item Quality).
+With this feat, a character strikes at his opponent's weapons and breaks them. He must successfully hit his opponent, but rather than doing damage, attempts a feat roll. Add one to the Ease Factor if the weapon is of Superior Quality, add three if it is Excellent Quality, and add six if it is enchanted by any means (see [*City & Guild* page 67](Ars%20Magica%205e%20-%20City%20%26%20Guild.md#basic-craftsman-production) for item Quality).
 
-If the feat roll is successful, the item takes two damage levels. Standard Quality items only have two damage levels; Superior weapons have three, Excellent weapons have four, and enchanted weapons have five (again, see [*City & Guild* page 77](Ars%20Magica%205e%20-%20City%20%26%20Guild.md) for damaging objects). Once all damage levels are gone, the item breaks and is useless.
+If the feat roll is successful, the item takes two damage levels. Standard Quality items only have two damage levels; Superior weapons have three, Excellent weapons have four, and enchanted weapons have five (again, see [*City & Guild* page 77](Ars%20Magica%205e%20-%20City%20%26%20Guild.md#damaged-goods) for damaging objects). Once all damage levels are gone, the item breaks and is useless.
 
 
 #### Fáenchless, or Sloped Shield Feat
@@ -4108,7 +4108,7 @@ Gráinne knows about the Verditius right to study and work at Vigil and this mig
 **Age:** 75 (apparent age 50)<br>
 **Personality Traits:** Aloof +3, Languid +2, Thoughtful +1
 
-Máel-ruanaid an Doire (MAUL-ROOA-nudge an DOH-ruh) is the covenant's loremaster, charged with protecting Vigil's magical traditions. It is a trust that he takes more seriously than previous incumbents, who left many books to decay in the vaults. He is also the mystagogue who initiates the others into the Folk Mysteries of House Merinita (see [*Houses of Hermes: Mystery Cults*, page 96](Ars%20Magica%205e%20-%20Houses%20of%20Hermes%20-%20Mystery%20Cults.md)).
+Máel-ruanaid an Doire (MAUL-ROOA-nudge an DOH-ruh) is the covenant's loremaster, charged with protecting Vigil's magical traditions. It is a trust that he takes more seriously than previous incumbents, who left many books to decay in the vaults. He is also the mystagogue who initiates the others into the Folk Mysteries of House Merinita (see [*Houses of Hermes: Mystery Cults*, page 96](Ars%20Magica%205e%20-%20Houses%20of%20Hermes%20-%20Mystery%20Cults.md#Folk-Mysteries)).
 
 His master taught him divination and the secret of Banbha's Crown as well as spells that control the covenant's bees, allowing the magus to use their senses and to guide them in flight. If Máel-ruanaid appears to know the unknowable, it is probably through these methods.
 
@@ -4308,7 +4308,7 @@ The character has attended one of the great bardic schools, either to receive an
 
 > ### Performance and Sound
 > 
-> These new parameters cannot be used for Hermetic effects without an appropriate Virtue — Performance Magic ([*The Mysteries Revised Edition*, page 29](Ars%20Magica%205e%20-%20The%20Mysteries%20%28Revised%29.md)) for Duration: Performance, and Sensory Magic ([*Houses of Hermes: Mystery Cults*, page 27](Ars%20Magica%205e%20-%20Houses%20of%20Hermes%20-%20Mystery%20Cults.md)) for Range: Sound.
+> These new parameters cannot be used for Hermetic effects without an appropriate Virtue — Performance Magic ([*The Mysteries Revised Edition*, page 29](Ars%20Magica%205e%20-%20The%20Mysteries%20%28Revised%29.md)) for Duration: Performance, and Sensory Magic ([*Houses of Hermes: Mystery Cults*, page 27](Ars%20Magica%205e%20-%20Houses%20of%20Hermes%20-%20Mystery%20Cults.md#sensory-Magic-Minor-House-Mystery)) for Range: Sound.
 > 
 > #### New Duration: Performance
 > 
@@ -4344,7 +4344,7 @@ Wordsmiths are filídh who possess the Touched by (Realm) Major Supernatural Vir
 
 > ### Example Magical Stories and Poems
 > 
-> The following stories are appropriate as wondrous tales or poems for Wordsmiths, using the stated Ease Factor (12 + magnitude + Effect Frequency modifier, see [*City & Guild*, page 72](Ars%20Magica%205e%20-%20City%20%26%20Guild.md), and [**ArM5**, page 98](Ars%20Magica%20-%20Definitive%20Edition%20%28Core%20Rules%29.md) for the Effect Frequency modifier).
+> The following stories are appropriate as wondrous tales or poems for Wordsmiths, using the stated Ease Factor (12 + magnitude + Effect Frequency modifier, see [*City & Guild*, page 72](Ars%20Magica%205e%20-%20City%20%26%20Guild.md#L1985), and [**ArM5**, page 98](Ars%20Magica%20-%20Definitive%20Edition%20%28Core%20Rules%29.md) for the Effect Frequency modifier).
 > 
 > Each story is the invention of its creator. It might tell a familiar tale, but does so in a unique way. Two versions of the same story can be enchanted with different effects, and the reciter must be clear which version he is reciting.
 > 
@@ -5096,7 +5096,7 @@ Devotion to the Saints is common in Ireland; Irish characters may call upon St. 
 
 ### Some Irish Saints
 
-The following saints are by no means an exhaustive list, and troupes should research local saints for their saga, using these as exemplars. Whereas in *Realms of Power: The Divine* all saints are assumed to have the same personality traits, here individual traits are given for each of the saints listed. Some may seem surprising, but as Giraldus Cambrensis unfairly wrote "the saints of this country seem to be of a vindictive cast of mind." They are, however, different in some ways to the English saints he was acquainted with. However, the Hook Meddlesome Saint ([*Covenants*, page 23](Ars%20Magica%205e%20-%20Covenants.md)) may be very appropriate in a Hibernian saga, as the Irish saints are often interested in the affairs of magicians.
+The following saints are by no means an exhaustive list, and troupes should research local saints for their saga, using these as exemplars. Whereas in *Realms of Power: The Divine* all saints are assumed to have the same personality traits, here individual traits are given for each of the saints listed. Some may seem surprising, but as Giraldus Cambrensis unfairly wrote "the saints of this country seem to be of a vindictive cast of mind." They are, however, different in some ways to the English saints he was acquainted with. However, the Hook Meddlesome Saint ([*Covenants*, page 23](Ars%20Magica%205e%20-%20Covenants.md#L898)) may be very appropriate in a Hibernian saga, as the Irish saints are often interested in the affairs of magicians.
 
 #### Saint Patrick (St. Pátraig), Patron Saint of Ireland
 
