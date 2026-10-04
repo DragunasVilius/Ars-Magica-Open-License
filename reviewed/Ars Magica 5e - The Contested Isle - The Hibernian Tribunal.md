@@ -832,7 +832,7 @@ Other entertainments include horse racing — like in Scandinavia, the Irish rac
 
 #### Performance Magicians
 
-Performance Magic is a common Virtue among Hibernia's Hermetic and hedge wizards, and can be especially effective if the wizard is unGifted or has the Gentle Gift. Poets and musicians can travel wherever they wish, and this easy access makes a poet an excellent spy. A roomful of listeners has almost no defense against Sorcerous Music (see [*The Mysteries: Revised Edition*, page 29](Ars%20Magica%205e%20-%20The%20Mysteries%20%28Revised%29.md)), and the poet can easily put the audience in a state of trust and ease.
+Performance Magic is a common Virtue among Hibernia's Hermetic and hedge wizards, and can be especially effective if the wizard is unGifted or has the Gentle Gift. Poets and musicians can travel wherever they wish, and this easy access makes a poet an excellent spy. A roomful of listeners has almost no defense against Sorcerous Music (see [*The Mysteries: Revised Edition*, page 29](Ars%20Magica%205e%20-%20The%20Mysteries%20%28Revised%29.md#sorcerous-music-performance-magic)), and the poet can easily put the audience in a state of trust and ease.
 
 A hedge wizard with Performance Magic generally uses it to line his own pockets and advance his clan's political agenda. Often this causes conflict with the English and leads to bloodshed. A Hermetic magus must be very careful if he tries this trick. The native poets don't like their roles usurped and the Order has restrictions about how a magus interacts with a mundane.
 
@@ -1175,7 +1175,7 @@ While treaties are the normal run of business with Hibernia, the Peripheral Code
 
 **Slaying a Magus and Wizard War**: Slaying a magus outside of Wizard War is a high crime, though the standard defenses do apply. Any magus attempting to remove an apprentice from a covenant, take a cathach, enter another's sanctum, assault a magus' familiar, or raid vis sources belonging to a covenant forfeits their immunity. As discussed above, [Wizard War](#wizard-war) is easily declared and may be prosecuted by multiple opponents. The declaration must be made in person and before witnesses and a month must pass before the war commences.
 
-**Abide by Tribunal Decisions**: As described in [*Houses of Hermes: True Lineages*, page 48](Ars%20Magica%205e%20-%20Houses%20of%20Hermes%20-%20True%20Lineages.md), the Presiding Quaesitor may use his right of veto where he believes that the will of the Tribunal unambiguously conflicts with any reasonable interpretation of the Oath or the Code. This provision gives Hibernia leeway to develop their own *reasonable interpretation* of the Code.
+**Abide by Tribunal Decisions**: As described in [*Houses of Hermes: True Lineages*, page 48](Ars%20Magica%205e%20-%20Houses%20of%20Hermes%20-%20True%20Lineages.md#abide-by-tribunal-decisions), the Presiding Quaesitor may use his right of veto where he believes that the will of the Tribunal unambiguously conflicts with any reasonable interpretation of the Oath or the Code. This provision gives Hibernia leeway to develop their own *reasonable interpretation* of the Code.
 
 **Voting Rights**: Magi who prove residence by presenting their covenant's cathach have a single vote, that they may lend to a proxy as elsewhere. Hibernia also recognizes the votes of appointed supernatural ambassadors to the Tribunal, representatives of the supernatural realms and ancient races of Ireland. These votes carry the same weight as any other and must be respected.
 
@@ -1403,7 +1403,7 @@ While their influence as rulers has all but gone, they still have a wisdom earne
 
 The nobles of Connacht consult and protect numerous druids and few in Connacht would bar a druid's way. Those hedge wizards with the gift of foresight may now be seeing the omens changing for Connacht, and thus the Connachta should be mindful of their druids and their advice to prepare. Within a generation, the English may not be kept beyond the border.
 
-Magic and Faerie auras are plentiful in Connacht, and even in the Dominion there are hedge wizards who seem to thrive. Vis, too, is abundant, though not often found in great quantities. Extraordinary vis (see [*Realms of Power: Magic*, page 119](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md)) is common, as are herbs and things of virtue that the druids use to enhance their powers.
+Magic and Faerie auras are plentiful in Connacht, and even in the Dominion there are hedge wizards who seem to thrive. Vis, too, is abundant, though not often found in great quantities. Extraordinary vis (see [*Realms of Power: Magic*, page 119](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md#extraordinary-vis)) is common, as are herbs and things of virtue that the druids use to enhance their powers.
 
 The Coill Trí is an imposition upon the druids of Connacht by the Ordo Hiberniae and many resent the restrictions they endure and the tribute they must pay; every seven years, Connacht must give up seven Gifted Connachta children to the magi ruling Leinster, Munster, and Ulster. This does not sit well, but just as the Fir Bolg and the Tuatha Dé after them owed tribute to the Fomóir, and the kings of Connacht owe tribute to the English, so the druids of Connacht must accept the same.
 
@@ -1451,7 +1451,7 @@ The western part of Bréifne, ruled by the Uí Ruairc family, is a dramatic wood
 
 #### The Glencar Waterfall
 
-The 50-foot tall Glencar Waterfall in Bréifne's north-west flows with clean fresh water all year round. The beauty of the waterfall is at the heart of a strong Magic aura. Its waters are said to cleanse and heal wounds, effects resulting from the spell-like vis ([*Realms of Power: Magic*, page 121](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md)) found within the waterfall.
+The 50-foot tall Glencar Waterfall in Bréifne's north-west flows with clean fresh water all year round. The beauty of the waterfall is at the heart of a strong Magic aura. Its waters are said to cleanse and heal wounds, effects resulting from the spell-like vis ([*Realms of Power: Magic*, page 121](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md#spell-like-vis)) found within the waterfall.
 
 #### The Black Pig's Dyke
 
@@ -1593,7 +1593,7 @@ Overlooking Clew Bay, Croagh Patrick is over 2000 feet tall and sits above the v
 
 Caoranach herself was knocked from the sky, falling into the lake now called Lough Nacorra, where she was imprisoned for a while by its Divine waters. Upon her escape, Patrick tracked the demon to Lake Derg near Donegal where he finally defeated her.
 
-Croagh Patrick itself is an important pilgrimage site and has a strong Divine aura. Numerous shrines to Patrick surround the mountain and a small church has been built on its summit. However, the roads in the area can be dangerous and robbers, faeries, and demons alike test the faith of those going to Lough Nacorra. If using the pilgrimage rules presented in [*The Church*, page 16](Ars%20Magica%205e%20-%20The%20Church.md), these trials form useful oppositional elements when calculating the Pilgrimage Level.
+Croagh Patrick itself is an important pilgrimage site and has a strong Divine aura. Numerous shrines to Patrick surround the mountain and a small church has been built on its summit. However, the roads in the area can be dangerous and robbers, faeries, and demons alike test the faith of those going to Lough Nacorra. If using the pilgrimage rules presented in [*The Church*, page 16](Ars%20Magica%205e%20-%20The%20Church.md#the-mechanics-of-a-pilgrimage-story), these trials form useful oppositional elements when calculating the Pilgrimage Level.
 
 ### The Diocese of Tuam
 
@@ -1675,7 +1675,7 @@ At night Athlone residents are prone to hear the terrible cry of the banshee ([*
 
 > ### Story Seed: The Swords of the Fer Caille
 >
-> When a number of villages on the Meath side of the Sionainne are put to the sword by mysterious and savage warriors, the Bishop of Athlone asks the magi of Leinster for their help. These Fer Caille are faeries ([*Realms of Power: Faerie*, page 77](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md)) looking for mortal heroes to fight and slay them. The trouble is that the Connachta men are following the Fer Caille example and raiding against Meath holdings. Can the magi arm and prepare their grogs and consortes to withstand the Fer Caille? And what orders do they give concerning the mortal men of Connacht?
+> When a number of villages on the Meath side of the Sionainne are put to the sword by mysterious and savage warriors, the Bishop of Athlone asks the magi of Leinster for their help. These Fer Caille are faeries ([*Realms of Power: Faerie*, page 77](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md#creAtures-DesigneD-to-Die-in-combAt)) looking for mortal heroes to fight and slay them. The trouble is that the Connachta men are following the Fer Caille example and raiding against Meath holdings. Can the magi arm and prepare their grogs and consortes to withstand the Fer Caille? And what orders do they give concerning the mortal men of Connacht?
 
 #### Rathbeg
 
@@ -1806,7 +1806,7 @@ Mór Greannach (MORE GRENnukh), meaning "grey-beard," gains her name from the th
 
 Mór Greannach is hugely knowledgeable on the workings of the magical world around her and she frequently collects herbs and objects of virtue from the rolling hills and woodlands around her village, magically enriching them to add to her own powers.
 
-Of the Pact of Oireadh, Mór Greannach is the one with the widest contacts among other druids and hedge wizards. Aside from her coven, she is on friendly terms with scores of nightwalkers, faerie-touched craftsmen, Ollamhain ([*Realms of Power: Faerie*, page 135](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md)), and the Kilkenny coven across the border in Leinster.
+Of the Pact of Oireadh, Mór Greannach is the one with the widest contacts among other druids and hedge wizards. Aside from her coven, she is on friendly terms with scores of nightwalkers, faerie-touched craftsmen, Ollamhain ([*Realms of Power: Faerie*, page 135](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md#Ollamhain)), and the Kilkenny coven across the border in Leinster.
 
 Mór Greannach is also the closest to Oireadh as she lives in nearby Carrowmore.
 
@@ -1886,7 +1886,7 @@ The woodland across the island has been ravaged and burned, but the island is re
 
 The location was originally chosen for its symbolism, sitting as it does between the domain of the Coill Trí and the rest of Ireland, dominated by the Order of Hermes. But since the siege, the covenant finds itself isolated from both sides with mundanes generally unwilling to help them and the Coill Trí warning hedge wizards of this new danger.
 
-The western shore of Lough Ree is a faerie trod ([*Realms of Power: Faerie*, page 21](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md)). The natural boundary has a Faerie aura of 5 and it has the power to take the traveler to a number of other trods across Connacht.
+The western shore of Lough Ree is a faerie trod ([*Realms of Power: Faerie*, page 21](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md#Trods)). The natural boundary has a Faerie aura of 5 and it has the power to take the traveler to a number of other trods across Connacht.
 
 ### Culture and Traditions
 
@@ -1930,7 +1930,7 @@ Báetáin is one of the few native magi of House Tremere in Hibernia and has bee
 > 
 > #### Story Seed: The Broken Treaty
 > 
-> Faolán of the Younger House fled to Connacht before the fall of Praesis. His parens was one of the true Ollamhain (see [*Realms of Power: Faerie*, page 135](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md)) and Faolán has a limited grasp on the Arts. As a result, he sees himself as closer to the druids of Connacht than the Order. While he may have friends within the Coill Trí, his extended stay across the border is a clear breach of the treaty. When the Tribunal realizes where Faolán is, and that he is turning his back on the Order, the player characters are commissioned to find him and bring him back to the Tribunal with or without the assistance of the Coill Trí. The player characters find themselves on a manhunt in hostile territory.
+> Faolán of the Younger House fled to Connacht before the fall of Praesis. His parens was one of the true Ollamhain (see [*Realms of Power: Faerie*, page 135](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md#Ollamhain)) and Faolán has a limited grasp on the Arts. As a result, he sees himself as closer to the druids of Connacht than the Order. While he may have friends within the Coill Trí, his extended stay across the border is a clear breach of the treaty. When the Tribunal realizes where Faolán is, and that he is turning his back on the Order, the player characters are commissioned to find him and bring him back to the Tribunal with or without the assistance of the Coill Trí. The player characters find themselves on a manhunt in hostile territory.
 
 #### Guillaume Flambeau of Normandy
 
@@ -2095,7 +2095,7 @@ There is an ancient tradition that anybody buried in the cemetery will go straig
 
 #### The Pool of the Púca
 
-The road here passes a cascading waterfall which tumbles down a rock face in to a black, silent pool of water. The area is haunted by a Púca (POO-ka), or kelpie, a malevolent being that takes the form of an attractive black horse wandering seemingly lost on the road. If mounted it immediately charges down the road at incredible speed, and plunges in to the pool where its unfortunate rider is either drowned or possibly consumed. While the locals know of the beast and avoid the road, especially at night, no one knows if this kelpie is a magical creature ([*Realms of Power: Magic*, page 131](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md)) or a faerie version ([*Realms of Power: Faerie,* page 89](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md)) or even infernal.
+The road here passes a cascading waterfall which tumbles down a rock face in to a black, silent pool of water. The area is haunted by a Púca (POO-ka), or kelpie, a malevolent being that takes the form of an attractive black horse wandering seemingly lost on the road. If mounted it immediately charges down the road at incredible speed, and plunges in to the pool where its unfortunate rider is either drowned or possibly consumed. While the locals know of the beast and avoid the road, especially at night, no one knows if this kelpie is a magical creature ([*Realms of Power: Magic*, page 131](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md#Kelpie)) or a faerie version ([*Realms of Power: Faerie,* page 89](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md#Kelpie-Water-Horse)) or even infernal.
 
 > ### Story Seed: Divine Vis
 > 
@@ -2186,7 +2186,7 @@ The ancient monastery of Tulach-Fobhair stood just to the south of the current t
 > **Wound Penalties**: –1 (1–7), –3 (8–13), –5 (14–21), Incapacitated (21–28), Dead (29+)<br> 
 > **Pretenses:** Animal Ken 6 (cattle), Area Lore: Ireland 7 (Leinster), Awareness 1 (in water), Charm 3 (men apart from her husband), Guile 3 (about infidelity), Swim 10 (in rivers).<br> 
 > **Powers:**<br> 
-> *Spirit Away,* variable, Init –2, Vim. Can add Threshold points to the total accumulated by a mortal or group. See [*Realms of Power: Faerie*, page 23](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md).
+> *Spirit Away,* variable, Init –2, Vim. Can add Threshold points to the total accumulated by a mortal or group. See [*Realms of Power: Faerie*, page 23](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md#The-Guardian-of-the-Threshold).
 >
 > *Allure,* 1 point, Init –3, Mentem. Grants +3 to communication rolls involving seduction.
 >
@@ -2399,7 +2399,7 @@ Recently, the attentions of Lámbaird have turned toward the English who have in
 > 
 > **Retrieve the Bloodied Arrow ReTe** 15 **R:** Voice, **D:** Mom, **T:** Ind
 > 
-> This spell causes a small object to be transported from any point within 50 paces (and within Voice Range) to the magus' hand. Casting requisites may be needed if the object is not mostly part of the Terram Form. The spell's name derives from its use by the School of Raghallach to retrieve a missile or thrown weapon that has wounded an opponent, even if it is still piercing the victim. By retrieving the weapon the magus has a sample of the opponent's blood, which is an Arcane Connection that lasts years (+3 bonus to Penetration Multiplier). This spell uses a guideline first published in [*Magi of Hermes*, page 92](#BROKEN-LINK-wip).
+> This spell causes a small object to be transported from any point within 50 paces (and within Voice Range) to the magus' hand. Casting requisites may be needed if the object is not mostly part of the Terram Form. The spell's name derives from its use by the School of Raghallach to retrieve a missile or thrown weapon that has wounded an opponent, even if it is still piercing the victim. By retrieving the weapon the magus has a sample of the opponent's blood, which is an Arcane Connection that lasts years (+3 bonus to Penetration Multiplier). This spell uses a guideline first published in [*Magi of Hermes*, page 92](../wip/Ars%20Magica%205e%20-%20Magi%20of%20Hermes.md).
 > 
 > (Base 4, +2 Voice, +1 transport 50 paces)
 > 
@@ -2692,7 +2692,7 @@ The Uí Mael Sechlainn termed themselves the Kings of Tara, at least until the k
 
 Here faeries play out the ancient stories, such as that of Áillen mac Midgna burning the hall and Fionn mac Cumhaill driving him off, but mortals rarely choose to visit the place now. Rarely, but not never, for every seven years Tara is home to the Tribunal of Hibernia, where Hermetic magi mingle with representatives of the Coill Tri and powerful magical and faerie beings.
 
-The Hill of Tara is a wide and shallow mound encircled by a ditch, the remains of an ancient ring fort. The hill is surrounded by several smaller ráths and other ancient and magical features. It is a highly magical place with a level 6 Magic aura over the whole complex with the exception of a mound called the Mound of Hostages. This belongs to the Tuatha De and has a Faerie aura of level 7. As per the rules on page 15 of [*Realms of Power: Magic*](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md), the aura is aligned with a Respectful aspect, providing a Respectful +2 Personality Trait to those present. Every Samhain when the sacred fires were once kindled here the auras increase by 2.
+The Hill of Tara is a wide and shallow mound encircled by a ditch, the remains of an ancient ring fort. The hill is surrounded by several smaller ráths and other ancient and magical features. It is a highly magical place with a level 6 Magic aura over the whole complex with the exception of a mound called the Mound of Hostages. This belongs to the Tuatha De and has a Faerie aura of level 7. As per the rules on page 15 of [*Realms of Power: Magic*](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md#Aligned-Auras), the aura is aligned with a Respectful aspect, providing a Respectful +2 Personality Trait to those present. Every Samhain when the sacred fires were once kindled here the auras increase by 2.
 
 The greatest of the Kings of Tara was Cormac mac Airt. Cormac ruled here centuries ago, and Fionn mac Cumhail often served him. His reign was a time of great prosperity, and many of the earthworks on the hill are remains of the great halls and monuments of his time.
 
@@ -3658,7 +3658,7 @@ Elen Bhodhar (EL-en WOH-yar) or Elen the Deaf, is the youngest of Dáire Cú's f
 
 > ### Balor na Suile Neimhe
 >
-> Balor of the Evil Eye is one of the most powerful of the primal fomóir race (see [Chapter 10](#chapter-ten-the-magical-landscape)). As a powerful Daimon in the Magic Realm he interacted with the mundane world through the creation of Aspects ([*Realms of Power: Magic*, page 102](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md)), although since his defeat by his half-blood grandson Lugh at the Second Battle of Magh Tuireadh he has not interfered in the mundane world, as agreed with the Túatha Dé Danann.
+> Balor of the Evil Eye is one of the most powerful of the primal fomóir race (see [Chapter 10](#chapter-ten-the-magical-landscape)). As a powerful Daimon in the Magic Realm he interacted with the mundane world through the creation of Aspects ([*Realms of Power: Magic*, page 102](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md#Daimons)), although since his defeat by his half-blood grandson Lugh at the Second Battle of Magh Tuireadh he has not interfered in the mundane world, as agreed with the Túatha Dé Danann.
 >
 > Balor's most common Aspect was an immense monster with just one venomous fiery eye that was always kept covered with seven coverings. When just one was removed, plants would wither; with three removed, wood would begin to smoke; with the fifth gone, sparks would fly; and with all seven coverings removed, everything he looked at burst into flames. Living creatures caught in the gaze might be horribly burnt, or else they could be turned to stone or simply fall down dead, as Balor wished. Anyone caught by just the most peripheral glance was in Balor's power, and he could inflict his eye's curse at any point in the following year.
 
@@ -3912,7 +3912,7 @@ The burial grounds consist of a range of dolmens, cairns, and mounds of pale gre
 
 #### Magic Aura
 
-The graveyard of Qui Sonant lies within a strong Magic aura of level 7. While it is not clear how this happens, each time a new tomb is constructed at the edge of the aura, the aura stretches to envelope it. If using the rules on page 10 of [*Realms of Power: Magic*](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md), any expansion of the aura precipitates a roll on the Aura Weakening Table.
+The graveyard of Qui Sonant lies within a strong Magic aura of level 7. While it is not clear how this happens, each time a new tomb is constructed at the edge of the aura, the aura stretches to envelope it. If using the rules on page 10 of [*Realms of Power: Magic*](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md#Aura-Variation-Rules), any expansion of the aura precipitates a roll on the Aura Weakening Table.
 
 Magic that uses Arcane Connections does not work against targets within this aura. Spells cannot find their targets and magi feel their talismans drifting away from them. This means that neither the bodies nor the grave goods buried with them can be used to summon the spirits of the dead while they are protected by the aura.
 
@@ -4026,7 +4026,7 @@ The covenant of Vigil stands watch over Hibernia, defending Ireland from those w
 
 The curled tusks of the black pig, six feet from tip to root, hang above a great arched gate in the wall that surrounds the covenant, where they are watched over by faerie guards. At Tribunal time, they are transferred to an elaborate wooden case for transport and display.
 
-They have the effect of tinting Faerie auras such that the aura passes on a "Protecting Ireland" +3 Personality Trait. The power of the tusks manifests similarly in Magic auras, aligning them to magic that protects Ireland from invasion. See [*Realms of Power: Faerie*, page 104](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md) and [*Realms of Power: Magic*, page 15](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md) for details.
+They have the effect of tinting Faerie auras such that the aura passes on a "Protecting Ireland" +3 Personality Trait. The power of the tusks manifests similarly in Magic auras, aligning them to magic that protects Ireland from invasion. See [*Realms of Power: Faerie*, page 104](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md#Tinted-Auras) and [*Realms of Power: Magic*, page 15](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md#Aligned-Auras) for details.
 
 ### History
 
@@ -4129,7 +4129,7 @@ To this end, he has a number of schemes in play. First, through supporting their
 
 ### Covenfolk
 
-Vigil's culture of excess extends to the covenfolk, who are well-dressed, wellfed, and have a tendency to over-familiarity at the covenant's frequent feasts and celebrations. There is also a class of warriors trained in [the clesrada](#the-clesrada). These *Two Dozen Men of Mhálanna* are well used to magic and they use faerie arms and armor forged in the times of past conflict to protect themselves. They can be a deadly force, and they are fiercely loyal to Vigil, and especially the maga Gráinne. They most often find themselves protecting Mhálanna from a Fachan king and his Fer Caille warriors ([*Realms of Power: Faerie*, page 77](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md)).
+Vigil's culture of excess extends to the covenfolk, who are well-dressed, wellfed, and have a tendency to over-familiarity at the covenant's frequent feasts and celebrations. There is also a class of warriors trained in [the clesrada](#the-clesrada). These *Two Dozen Men of Mhálanna* are well used to magic and they use faerie arms and armor forged in the times of past conflict to protect themselves. They can be a deadly force, and they are fiercely loyal to Vigil, and especially the maga Gráinne. They most often find themselves protecting Mhálanna from a Fachan king and his Fer Caille warriors ([*Realms of Power: Faerie*, page 77](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md#Fachan-Variants)).
 
 # Chapter Ten: The Magical Landscape
 
@@ -4223,7 +4223,7 @@ The current ceannaire, Eilionora inghean Ua Shuibne (ELL-yon-or-uh IN-yun OO-uh 
 
 Túath Saidhbh has an unusual number of Gifted members, and always has. Its members wish to have as little to do with each other as possible, and there is no common culture within this túath. They draw lots for the position of ceannaire, seeing it as an onerous chore. Magi would dearly like to investigate why the region inhabited by Túath Saidhbh produces so many individuals with The Gift, but they are forbidden from Connacht by the Treaty even if they grew up there.
 
-Sadhbh Amhreaidh (SOIV OH-wuruh) is exactly the sort of person who sneers at draoithe like [Eilionora](#túath-heilionora). She is a folk witch who claims countless unbroken generations of witches comprise her ancestry. Her grandmother and her were the only survivors of a mundane backlash against her coven, and no other coven would accept them because their magic was slightly non-standard since they teach Embitterment (see [*Tales of Mythic Europe*, page 35](#BROKEN-LINK-wip)). With no fellow witches to rely upon — and as yet, no daughter to pass on her tradition to — Sadhbh has become twisted and cold-hearted.
+Sadhbh Amhreaidh (SOIV OH-wuruh) is exactly the sort of person who sneers at draoithe like [Eilionora](#túath-heilionora). She is a folk witch who claims countless unbroken generations of witches comprise her ancestry. Her grandmother and her were the only survivors of a mundane backlash against her coven, and no other coven would accept them because their magic was slightly non-standard since they teach Embitterment (see [*Tales of Mythic Europe*, page 35](../wip/Ars%20Magica%205e%20-%20Tales%20of%20Mythic%20Europe.md)). With no fellow witches to rely upon — and as yet, no daughter to pass on her tradition to — Sadhbh has become twisted and cold-hearted.
 
 #### Túath Rónáin
 
@@ -4308,7 +4308,7 @@ The character has attended one of the great bardic schools, either to receive an
 
 > ### Performance and Sound
 > 
-> These new parameters cannot be used for Hermetic effects without an appropriate Virtue — Performance Magic ([*The Mysteries Revised Edition*, page 29](Ars%20Magica%205e%20-%20The%20Mysteries%20%28Revised%29.md)) for Duration: Performance, and Sensory Magic ([*Houses of Hermes: Mystery Cults*, page 27](Ars%20Magica%205e%20-%20Houses%20of%20Hermes%20-%20Mystery%20Cults.md#sensory-Magic-Minor-House-Mystery)) for Range: Sound.
+> These new parameters cannot be used for Hermetic effects without an appropriate Virtue — Performance Magic ([*The Mysteries Revised Edition*, page 29](Ars%20Magica%205e%20-%20The%20Mysteries%20%28Revised%29.md#performance-magic--minor-hermetic-virtue)) for Duration: Performance, and Sensory Magic ([*Houses of Hermes: Mystery Cults*, page 27](Ars%20Magica%205e%20-%20Houses%20of%20Hermes%20-%20Mystery%20Cults.md#sensory-Magic-Minor-House-Mystery)) for Range: Sound.
 > 
 > #### New Duration: Performance
 > 
@@ -4400,7 +4400,7 @@ Wordsmiths are filídh who possess the Touched by (Realm) Major Supernatural Vir
 
 > ### Story Seed: The Ollamhain Heresy
 >
-> In Ireland there also exists a tradition of faerie wizardry called the Ollamhain ([*Realms of Power: Faerie*, page 135](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md)). This type of magic is not taught at any of the bardic schools; music is a deprecated art, and using it to conjure glamor is seen as a betrayal of bardic tradition. Further, this tradition has appropriated the bardic title of *ollamh* without carrying the burden of bardic lore and duty to tradition. As such, the Ollamhain are refused permission to style themselves filídh; nevertheless some do, and wordsmiths have used the Sacred Council ([Chapter 4](#chapter-four-hermetic-culture)) to try to prosecute their rivals.
+> In Ireland there also exists a tradition of faerie wizardry called the Ollamhain ([*Realms of Power: Faerie*, page 135](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md#Ollamhain)). This type of magic is not taught at any of the bardic schools; music is a deprecated art, and using it to conjure glamor is seen as a betrayal of bardic tradition. Further, this tradition has appropriated the bardic title of *ollamh* without carrying the burden of bardic lore and duty to tradition. As such, the Ollamhain are refused permission to style themselves filídh; nevertheless some do, and wordsmiths have used the Sacred Council ([Chapter 4](#chapter-four-hermetic-culture)) to try to prosecute their rivals.
 >
 > A "bard" who aligns himself to the covenant's rival (or enemy) is actually an Ollamhain. Can the characters use the enmity of the bardic school to their advantage? They could spark a war of bitter satire and rhyming slander.
 
@@ -4427,7 +4427,7 @@ The following Flaws are consequences of blight geasa.
 
 *Minor, Supernatural*
 
-Something supernatural about the character's nature weakens him in relatively common circumstances, such as when touching the ground or when in the presence of women. At these times, the character cannot recover Fatigue, heal wounds, or recover Might (if he has a Might score). At the end of the year, if the character has spent more than half of his time subject to these conditions, he must make an additional Aging roll, even if he is normally immune to aging because of a Might Score. (First published in [*Realms of Power: Magic*](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md)).
+Something supernatural about the character's nature weakens him in relatively common circumstances, such as when touching the ground or when in the presence of women. At these times, the character cannot recover Fatigue, heal wounds, or recover Might (if he has a Might score). At the end of the year, if the character has spent more than half of his time subject to these conditions, he must make an additional Aging roll, even if he is normally immune to aging because of a Might Score. (First published in [*Realms of Power: Magic*](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md#Baneful-Circumstances)).
 
 ### Lesser Malediction: Macha's Birth-Pangs
 
@@ -4443,11 +4443,11 @@ Ireland has undergone a number of invasions of peoples onto its shores (see [Cha
 
 The Fomórach (pronounced FUHmow-rakh, singular Fomóir, FUH-mowr) were never encountered by Cessair's people, but they have always maintained that they are the aboriginal people of Ireland. They have strong affinities with the sea, and with darkness and winter, so easily survived the Flood that destroyed Cessair and her kin. They warred with all the subsequent invading people of Ireland, until the second battle of Magh Tuireadh broke their power for good. The Fomórach retreated to the islands to the north of Ireland, where they dwell still.
 
-The elder generation of Fomórach were the children of Domnu, a mighty goddess of abyssal darkness. The mythical kings of the Túatha Dé Domnu — Balor of the Evil Eye, Cichol the Footless, Indech — are kosmokrators ([*Realms of Power: Magic*, page 109](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md)), powerful spirits capable of manifesting vast elemental forms. They were defeated by the faerie gods at the battle of Magh Tuireadh; since then, the elder fomórach have withdrawn their Aspects from the physical world and play no part in mortal affairs. The fomórach remaining today are greatly diminished in power, locked into horribly deformed bodies of great size. Most have abandoned their predatory ways, although some still terrorize little-used shipping lanes with acts of piracy. They maintain a loose kingdom among the islands north of Ulster (see [Tír Fhomóraig](#tír-fhomóraig) in Chapter 9).
+The elder generation of Fomórach were the children of Domnu, a mighty goddess of abyssal darkness. The mythical kings of the Túatha Dé Domnu — Balor of the Evil Eye, Cichol the Footless, Indech — are kosmokrators ([*Realms of Power: Magic*, page 109](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md#Primal-Spirits)), powerful spirits capable of manifesting vast elemental forms. They were defeated by the faerie gods at the battle of Magh Tuireadh; since then, the elder fomórach have withdrawn their Aspects from the physical world and play no part in mortal affairs. The fomórach remaining today are greatly diminished in power, locked into horribly deformed bodies of great size. Most have abandoned their predatory ways, although some still terrorize little-used shipping lanes with acts of piracy. They maintain a loose kingdom among the islands north of Ulster (see [Tír Fhomóraig](#tír-fhomóraig) in Chapter 9).
 
 #### Fomóir Characters
 
-A fomóir character is a Magic Human ([*Realms of Power: Magic*, page 32](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md)). They all possess the Giant Blood Virtue, and many are larger still. All have obvious deformations (part of the Magic Human Special Virtue), but no two fomórach are the same. Cichol the Footless had the lower quarters of an immense snake; the monstrous Lot had four eyes on her back and a bloated mouth on her chest; and Lot's husband Goll had no eyes at all, just a blank face. The human descendents of a fomóir may display similar monstrosities during their battle rage (see [Ríastradh](#cú-chulainns-ríastradh), later). The fomórach are often associated with the Aquam Form, and have powers related to their role as creatures from the oceanic abyss. All share the [Baneful Circumstances](#baneful-circumstances) Flaw whenever they set foot on Irish soil, a consequence of the geas laid on the whole race by the druids of the Túatha Dé Danann.
+A fomóir character is a Magic Human ([*Realms of Power: Magic*, page 32](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md#magic-humans)). They all possess the Giant Blood Virtue, and many are larger still. All have obvious deformations (part of the Magic Human Special Virtue), but no two fomórach are the same. Cichol the Footless had the lower quarters of an immense snake; the monstrous Lot had four eyes on her back and a bloated mouth on her chest; and Lot's husband Goll had no eyes at all, just a blank face. The human descendents of a fomóir may display similar monstrosities during their battle rage (see [Ríastradh](#cú-chulainns-ríastradh), later). The fomórach are often associated with the Aquam Form, and have powers related to their role as creatures from the oceanic abyss. All share the [Baneful Circumstances](#baneful-circumstances) Flaw whenever they set foot on Irish soil, a consequence of the geas laid on the whole race by the druids of the Túatha Dé Danann.
 
 **Inherited Magical Qualities & Inferiorities**: Major Virtue (Giant Blood); Personal Power (Blessing of Domnu); Minor Flaw (Baneful Circumstances)<br>
 **Common Magical Qualities & Inferiorities**: Gigantic; Limited Gestures (because of deformities), Limited Movement (because of deformities)<br>
@@ -4457,7 +4457,7 @@ A fomóir character is a Magic Human ([*Realms of Power: Magic*, page 32](Ars%20
 
 0 points, constant effect, Corpus
 
-All fomórach are at home underwater. They suffer no penalties to Ability rolls for being underwater, and can speak and hear normally. Like all magic humans they are immune to suffocation, but this power permits them to recover Might and Fatigue and to recover wounds normally while underwater ([*Realms of Power: Magic*, page 29](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md)).
+All fomórach are at home underwater. They suffer no penalties to Ability rolls for being underwater, and can speak and hear normally. Like all magic humans they are immune to suffocation, but this power permits them to recover Might and Fatigue and to recover wounds normally while underwater ([*Realms of Power: Magic*, page 29](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md#Chapter-Four--Magic-Characters)).
 
 MuCo 15 (base 2, +2 Sun, +1 constant effect, +1 added effect, +1 Size) Personal Power (15 levels, –2 Might cost)
 
@@ -4473,7 +4473,7 @@ It is said that the Fir Bolg were once human in form, but more so — taller, st
 
 > ### Fomóir Blood
 > 
-> Humans can bear the blood of fomóir, although this is often hundreds of generations old. This can result in some sort of deformity. Mild cases can be simulated using either the Aquam Monstrosity ([*Realms of Power: Magic*, page 49](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md)), Disfigured, Hunchback, or Obese Flaws. In extreme circumstances, a character might have a Monstrous Appearance as a Major Flaw (see the Major Magical Inferiority of the same name, [*Realms of Power: Magic*, page 42](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md)). On the positive side, fomóir blood often confers the Giant Blood or Reserves of Strength Virtues, and a character must be descended from fomóir to possess the [Ríastradh](#new-virtue-ríastradh) Virtue. Those of fomóir blood are often wrathful, warlike, and violent individuals, but this is not universally true.
+> Humans can bear the blood of fomóir, although this is often hundreds of generations old. This can result in some sort of deformity. Mild cases can be simulated using either the Aquam Monstrosity ([*Realms of Power: Magic*, page 49](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md#form-monstrosity)), Disfigured, Hunchback, or Obese Flaws. In extreme circumstances, a character might have a Monstrous Appearance as a Major Flaw (see the Major Magical Inferiority of the same name, [*Realms of Power: Magic*, page 42](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md#major-Magic-Inferiorities)). On the positive side, fomóir blood often confers the Giant Blood or Reserves of Strength Virtues, and a character must be descended from fomóir to possess the [Ríastradh](#new-virtue-ríastradh) Virtue. Those of fomóir blood are often wrathful, warlike, and violent individuals, but this is not universally true.
 
 > ### The Three Tribes of the Fir Bolg
 > 
@@ -4491,7 +4491,7 @@ It is said that the Fir Bolg were once human in form, but more so — taller, st
 
 #### Fir Bolg Characters
 
-The Fir Bolg all possess the Magical Blood (Human) Virtue ([*Realms of Power: Magic*, page 46](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md)); most of them also have Great (Characteristic) and Large Virtues as well. However, unless of royal blood they also suffer from the deformities conferred by possessing [Fomóir blood](#fomóir-blood). while originally a peaceful people, their monstrous blood has made them bloodthirsty and wrathful, and often subject to the Ríastradh .
+The Fir Bolg all possess the Magical Blood (Human) Virtue ([*Realms of Power: Magic*, page 46](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md#mAgicAl-blooD)); most of them also have Great (Characteristic) and Large Virtues as well. However, unless of royal blood they also suffer from the deformities conferred by possessing [Fomóir blood](#fomóir-blood). while originally a peaceful people, their monstrous blood has made them bloodthirsty and wrathful, and often subject to the Ríastradh .
 
 Royalty among the Fir Bolg is signified by the Gentleman/woman Virtue; which is about as much recognition as humans grant Fir Bolg titles. As well as being free from deformities (although a character with the Dark Secret or Black Sheep Flaws might harbor a covert or overt malformation, respectively), the royal caste usually has some power over fertility or healing, such as a Purifying Touch or the Control Fertility Virtue ([*Houses of Hermes: Societates*, pages 105–106](Ars%20Magica%205e%20-%20Houses%20of%20Hermes%20-%20Societates.md#control-fertility)).
 
@@ -4577,13 +4577,13 @@ Ireland has its own characteristic magical inhabitants.
 
 Occasionally, the seventh filly born to a mare with no intervening colt is born a "true mare" or fíorláir (pronounced FEER-lorra). No malicious force can interfere with a fíorláir, and anyone riding one is protected from harm. They are faster than all other horses. Any magus or lord would be overjoyed to own a fíorláir, but Hermetic attempts to breed one at the covenant of Lámbaird (see [Chapter 6](#chapter-six-the-province-of-leinster)) have so far failed. Enslaving one with magic will immediately raise a complaint from the King of Eagles at Tribunal (see [Chapter 4](#chapter-four-hermetic-culture)), so a magus must befriend one if he wishes to make use of her powers.
 
-At the point where the true mare touched the ground upon being born grows the *seamair Mhuire* (Mary's Clover), a four-leaved shamrock that can be enriched ([*Realms of Power: Magic*, page 124](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md)) into a protective talisman. The shamrock must be plated with silver and blessed by a priest, and have prayers to the Blessed Virgin sung over it every day. After a season of this anyone wearing the shamrock as a badge gains the Luck Virtue.
+At the point where the true mare touched the ground upon being born grows the *seamair Mhuire* (Mary's Clover), a four-leaved shamrock that can be enriched ([*Realms of Power: Magic*, page 124](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md#enriching-A-thing-of-virtue)) into a protective talisman. The shamrock must be plated with silver and blessed by a priest, and have prayers to the Blessed Virgin sung over it every day. After a season of this anyone wearing the shamrock as a badge gains the Luck Virtue.
 
 ### The Dobhar-Chú
 
 The *dobhar-chú* (pronounced DUH-worchoo) or king otter is an extraordinarily large otter, perfectly white except for its black ears and a black cross on its back. Its hide cannot be pierced with normal steel, requiring silver to harm it — and anyone who does kill a king otter carries its death curse, and dies themselves within a day. They are known to be exceptionally aggressive and are often compared to the lion or leopard in reference to their ferocity. They are often found in pairs; one remains hidden while the other attacks, the second helps out if defeat is imminent.
 
-The skin bearing the cross has legendary protective abilities, guaranteeing safety at sea to any boat on which it is pushed between the planks, safety from fire in any house in which it is nailed to the door, and safety from accidents for a man who carries it in his pocket. These properties are released through Enrichment ([*Realms of Power: Magic*, page 124](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md)), but this is only successful if done by the person who killed the king otter (and survived its death curse!). The skin must be cured in salt (to protect a boat), smoke (to protect a house), or sweat (to protect a person). The cure must be renewed once a day, and rubbed 9 x 9 x 9 times. At the end of the season, the scrap of skin either grants a ship the Greater Immunity to Water Virtue, a house the Greater Immunity to Fire Virtue, or a person the Charmed Life Virtue ([*Houses of Hermes: True Lineages*, page 104](Ars%20Magica%205e%20-%20Houses%20of%20Hermes%20-%20True%20Lineages.md#CHARMED-LIFE); briefly, the character has the Luck Virtue, and can spend a Confidence point to re-roll a 0 on a stress die rather than roll for a botch). Note that the first two effects protect the vessel or dwelling but not necessarily the people within them.
+The skin bearing the cross has legendary protective abilities, guaranteeing safety at sea to any boat on which it is pushed between the planks, safety from fire in any house in which it is nailed to the door, and safety from accidents for a man who carries it in his pocket. These properties are released through Enrichment ([*Realms of Power: Magic*, page 124](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Magic.md#enriching-A-thing-of-virtue)), but this is only successful if done by the person who killed the king otter (and survived its death curse!). The skin must be cured in salt (to protect a boat), smoke (to protect a house), or sweat (to protect a person). The cure must be renewed once a day, and rubbed 9 x 9 x 9 times. At the end of the season, the scrap of skin either grants a ship the Greater Immunity to Water Virtue, a house the Greater Immunity to Fire Virtue, or a person the Charmed Life Virtue ([*Houses of Hermes: True Lineages*, page 104](Ars%20Magica%205e%20-%20Houses%20of%20Hermes%20-%20True%20Lineages.md#CHARMED-LIFE); briefly, the character has the Luck Virtue, and can spend a Confidence point to re-roll a 0 on a stress die rather than roll for a botch). Note that the first two effects protect the vessel or dwelling but not necessarily the people within them.
 
 > ### Dobhar-chú
 > 
@@ -4631,7 +4631,7 @@ Because of their reputations and ubiquitous presence just outside society, most 
 
 The Irish faeries' Otherworld is a beautiful, supernatural place that mirrors the local surroundings but is somehow removed. It has many names: the Land of the Young, *Tír*  *na nÓg* (TCHEER na NOAG), the Land of the Living, *Tír na mBeo* (TCHEER na MOE), and the Delightful Plain, *Mag Mell* (MOG MELL). Hermetic theorists are uncertain if the different names refer to the same place or different places. For example, *Tír Tairngire*  (TCHEER TORN-gur-yuh), "the Land of Promise," is a huge Faerie regio that overlays the sea surrounding Mythic Ireland. According to the stories, the only entrance is on the Isle of Man, where a supernatural tree connects the island to the regio. The tree is supported by four legs of white silver, resting on the ocean floor, and magical golden apples grow from its branches. No one knows if Tir Tairngire connects to Tir na nÓg or not.
 
-Magi do know that these fanciful phrases refer in some way to the three different faerie worlds (see [*Realms of Power: Faerie*](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md) Chapter 2). Half of the Irish faeries live in Elysium, the land of myth that records a culture's history. A third of the island's faeries live in Eudokia, where they interact with the liminal stages of a character's personal story and include faeries that take babies, steal wives, and mislead drunks. The last faerie homeland, Arcadia, is home to the fewest Irish faeries, but it is a growing population.
+Magi do know that these fanciful phrases refer in some way to the three different faerie worlds (see [*Realms of Power: Faerie*](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md#chapter-two-The-Faerie-Realm-1) Chapter 2). Half of the Irish faeries live in Elysium, the land of myth that records a culture's history. A third of the island's faeries live in Eudokia, where they interact with the liminal stages of a character's personal story and include faeries that take babies, steal wives, and mislead drunks. The last faerie homeland, Arcadia, is home to the fewest Irish faeries, but it is a growing population.
 
 The most common faerie home is a mound, called a *sídhe* (SHEE), a word that doubles for the faeries themselves. The mound's interior depends on the faerie. Some are rude dwellings with stone pillars holding up an earthen roof, and others are magical mansions filled with sunlight and summer breezes. Cairns and tumuli also house faeries, as do mountaintops, lake bottoms, forest hearts, and boggy marshlands. Some of these homes are just faerie auras, but a significant number are faerie regiones.
 
@@ -4639,9 +4639,9 @@ The most common faerie home is a mound, called a *sídhe* (SHEE), a word that do
 
 On the night Conn of the Hundred Battles was born, five roads were discovered leading from the royal fort at Tara. These five 'High Roads' reach to all parts of Ireland. The term *slíghe* (SLEE) is reserved for these roads, which are wide enough for two wagons to pass side-by-side. The other roads of Ireland are not so reliable; many of them consist of rights or way rather than actual physical roads.
 
-Each of the High Roads has a Faerie aura of 2, and is a trod ([*Realms of Power: Faerie*, page 21](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md)): a liminal space that is neither here nor there. Each road has two termini, one at Tara and one at the final destination of the road. At each of these termini, the Guardian of the Road can be evoked. Upon doing so, the Guardian seems to appear, but what actually happens is that the summoner is transported by the Guardian into the Faerie Realm using its *Spirit Away* power ([*Realms of Power: Faerie*, page 23](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md)). The Guardian might be persuaded to permit the character to travel on its road; this might involve defeating the Guardian in a physical or mental challenge, or spending vitality in another way to appease it. Characters admitted onto the faerie's road travel through the Faerie Realm to their destination. They appear to spend the same time travelling as they would in the mundane world, but upon reaching their destination, they will find they have travelled twenty-four times the speed, taking less than half an hour to complete a day's travel. The destination can be any point on the Guardian's Road.
+Each of the High Roads has a Faerie aura of 2, and is a trod ([*Realms of Power: Faerie*, page 21](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md#trods)): a liminal space that is neither here nor there. Each road has two termini, one at Tara and one at the final destination of the road. At each of these termini, the Guardian of the Road can be evoked. Upon doing so, the Guardian seems to appear, but what actually happens is that the summoner is transported by the Guardian into the Faerie Realm using its *Spirit Away* power ([*Realms of Power: Faerie*, page 23](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md#New-Power-Spirit-Away)). The Guardian might be persuaded to permit the character to travel on its road; this might involve defeating the Guardian in a physical or mental challenge, or spending vitality in another way to appease it. Characters admitted onto the faerie's road travel through the Faerie Realm to their destination. They appear to spend the same time travelling as they would in the mundane world, but upon reaching their destination, they will find they have travelled twenty-four times the speed, taking less than half an hour to complete a day's travel. The destination can be any point on the Guardian's Road.
 
-Some characters know how to cross the Threshold into Faerie ([*Realms of Power: Faerie*, page 20](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md)) at points other than the termini of a High Road, but they must do this without the help of the Guardian of the Threshold. Upon making the transit, they meet with the Guardian and can arrange transport to any point on that High Road, as described above. If you are not using the rules for Thresholds and trods from *Realms of Power: Faerie*, treat each road terminus as a Faerie regio boundary of 2, and a road's midsection as a Faerie regio boundary of 4.
+Some characters know how to cross the Threshold into Faerie ([*Realms of Power: Faerie*, page 20](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md#Getting-to-Faerie)) at points other than the termini of a High Road, but they must do this without the help of the Guardian of the Threshold. Upon making the transit, they meet with the Guardian and can arrange transport to any point on that High Road, as described above. If you are not using the rules for Thresholds and trods from *Realms of Power: Faerie*, treat each road terminus as a Faerie regio boundary of 2, and a road's midsection as a Faerie regio boundary of 4.
 
 #### Slíghe Assail
 
@@ -4693,7 +4693,7 @@ For example, the Dagda once fell into a pit filled with porridge and had to eat 
 
 > ### Common Hibernia Faerie Powers
 >
-> Though individuals, many faeries have the same powers, common throughout the greater community of Irish faeries. Most have Faerie Speech and Faerie Sight, two Minor Supernatural Virtues available to faerie characters ([*Realms of Power: Faerie*, page 50](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md)). Most are also Humanoid Faeries, although monstrous faeries are not unknown. Invisibility is the most frequent power, with Flight being a close second ([*Realms of Power: Faerie*, page 62](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md)). Other common faerie powers are:
+> Though individuals, many faeries have the same powers, common throughout the greater community of Irish faeries. Most have [Faerie Speech](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md#faerie-speech) and [Faerie Sight](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md#faerie-sight), two Minor Supernatural Virtues available to faerie characters. Most are also Humanoid Faeries, although monstrous faeries are not unknown. [Invisibility](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md#invisibility) is the most frequent power, with [Flight](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md#Flight) being a close second. Other common faerie powers are:
 >
 > #### Elf Shot
 > 
@@ -4767,7 +4767,7 @@ Quests don't need to be for glory and goods, and could be undertaken for more pr
 
 > ### Faerie Bards
 >
-> A small group of faerie magicians call themselves Ollamhain, "masters," purposefully adopting the learned profession's highest title for their magical tradition ([*Realms of Power: Faerie*, page 134](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md)). Faerie bards are magically more powerful than Irish bards (described in [Chapter 10](#chapter-ten-the-magical-landscape)), but do not enjoy the same positive reputation. Interactions between faerie and Irish bards depend on the individuals rather than their group affiliation. Often the two respect each other and limit their involvement to their own spheres of influence. Often but not always, and feuds have developed between specific bards and faerie magicians.
+> A small group of faerie magicians call themselves Ollamhain, "masters," purposefully adopting the learned profession's highest title for their magical tradition ([*Realms of Power: Faerie*, page 134](Ars%20Magica%205e%20-%20Realms%20of%20Power%20-%20Faerie.md#Ollamhain)). Faerie bards are magically more powerful than Irish bards (described in [Chapter 10](#chapter-ten-the-magical-landscape)), but do not enjoy the same positive reputation. Interactions between faerie and Irish bards depend on the individuals rather than their group affiliation. Often the two respect each other and limit their involvement to their own spheres of influence. Often but not always, and feuds have developed between specific bards and faerie magicians.
 
 #### Feud Stories
 
